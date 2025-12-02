@@ -1,0 +1,301 @@
+Verso;Texto;Polaridad;Polaridad_simple;Emoción;Modo;Nota
+v1;Anfortas unt die sîn;NEU;NEU;NONE;NONE;-
+v2;noch vor jâmer dolten pîn.;NEG;NEG;TRAUER;LEX + SENS;jâmer (dolor moral), pîn (dolor físico).
+v3;ir triwe liez in in der nôt.;MIX;MIX;LIEBE + TRAUER;LEX;Fidelidad (positiva) causa sufrimiento (negativo).
+v4;dick er warb umb si den tôt:;NEG;NEG;TRAUER;CONTEXT;Deseo de morir = desesperación contextual.
+v5;der wære och schiere an im geschehn,;NEU/NEG;NEG;NONE;CONTEXT;Hecho hipotético, tono negativo sin emoción explícita.
+v6;wan daz sin dicke liezen sehn;NEU/NEG;NEG;NONE;CONTEXT;Hecho hipotético, tono negativo sin emoción explícita.
+v7;den grâl und des grâles kraft.;NEU;NEU;NONE;NONE;
+v8;er sprach zuo sîner rîterschaft;NEU;NEU;NONE;NONE;
+v9;«ich weiz wol, pflægt ir triuwe,;POS;POS;LIEBE;LEX;Apelación a la fidelidad.
+v10;so erbarmet iuch mîn riuwe.;NEG;NEG;TRAUER;LEX;riuwe = pena, dolor moral.
+v11;wie lange sol diz an mir wern?;NEG;NEG;TRAUER;CONTEXT;Queja existencial.
+v12;welt ir iu selben rehtes gern,;NEU;NEU;NONE;NONE;
+v13;sô müezt ir gelten mich vor gote.;NEU;NEU;NONE;NONE;Discurso moral/teológico.
+v14;ich stuont ie gerne ziwerm gebote,;POS;POS;LIEBE;CONTEXT;Obediencia + “gerne”: devoción positiva.
+v15;sît ich von êrste wâpen truoc.;NEU;NEU;NONE;NONE;Información autobiográfica.
+v16;ich hân enkolten des genuoc,;NEG;NEG;TRAUER;SENS / PROCESS;enkolten = decaimiento somático.
+v17;op mir ie unprîs geschach,;NEG;NEG;TRAUER;LEX;unprîs = deshonor.
+v18;unt op daz iwer keiner sach.;NEG;NEG;TRAUER;CONTEXT;Reproche implícito.
+v19;sît ir vor untriwen bewart,;POS ;POS;LIEBE;LEX;untriuwe = ruptura de lealtad, pero con bewart: a salvo de 
+v20;sô lœst mich durch des helmes art;NEU;NEU;NONE;CONTEXT;costumbre caballeresca del casco (del combate)
+v21;unt durch des schildes orden.;NEU;NEU;NONE;NONE;Continuación motivación caballeresca.
+v22;ir sît dick innen worden,;NEU;NEU;NONE;NONE;Observación general.
+v23;ob ez iu niht versmâhte,;NEG;NEG;VERACHTUNG;CONTEXT;versmâhen = menospreciar.
+v24;daz ich diu beidiu brâhte;NEU;NEU;NONE;NONE;—
+v25;unverzagt ûf rîterlîchiu werc.;POS;POS;FREUDE + MUT;LEX;unverzagt = valiente.
+v26;ich hân tal unde berc;NEU;NEU;NONE;NONE;—
+v27;mit maneger tjost überzilt;NEU;NEU;NONE;NONE;Narración de hazañas.
+v28;unt mit dem swerte alsô gespilt,;NEU;NEU;NONE;NONE;—
+v29;daz es die vînde an mir verdrôz,;NEG;NEG;VERACHTUNG + WUT;LEX;verdrôz
+v30;swie wênc ich des gein iu genôz.;NEG;NEG;TRAUER;CONTEXT;"Resentimiento leve por falta de agradecimiento; tono quejoso."
+v31;Ich freuden ellende,;MIX;MIX;FREUDE + TRAUER;LEX;Oxímoron fundamental: coexistencia afectiva.
+v32;zem urteillîchem ende;NEG;NEG;FURCHT;CONTEXT;urteillîch = juicio, temor a un desenlace adverso.
+v33;beklage ich eine iuch alle:;NEG;NEG;TRAUER;PROCESS;beklagen = acto verbal de lamento.
+v34;sô næht ez iwerem valle,;NEG;NEG;TRAUER;CONTEXT;valle = ruina, caída, desgracia futura.
+v35;irn lât mich von iu scheiden.;NEG;NEG;TRAUER;CONTEXT;separación y tristeza.
+v36;mîn kumber solt iu leiden.;NEG;NEG;TRAUER;LEX;kumber = aflicción.
+v37;ir habt gesehn und ouch vernomn,;NEU;NEU;NONE;NONE;
+v38;wie mir diz ungelücke ist komn.;NEG;NEG;TRAUER;LEX;ungelücke = desgracia.
+v39;waz toug ich iu ze hêrren nuo?;NEG;NEG;TRAUER + FURCHT;CONTEXT;"autoacusación; sentimiento de inutilidad."
+v40;ez ist iu leider alze vruo,;NEG;NEG;TRAUER;CONTEXT;lamentación temporal (demasiado pronto).
+v41;wirt iwer sêle an mir verlorn.;NEG;NEG;FURCHT;CONTEXT;miedo espiritual (salvación perdida).
+v42;waz sites habt ir iu erkorn?»;NEU;NEU;NONE;NONE;pregunta retórica sin lexema emocional.
+v43;si heten kumbers in erlôst,;NEG;NEG;TRAUER;LEX;kumber = aflicción.
+v44;wan der trœstenlîche trôst,;POS;POS;FREUDE;LEX;trôst = consuelo.
+v45;den Trevrizent dort vorne sprach,;NEU;NEU;NONE;NONE;
+v46;als er am grâle geschriben sach.;NEU;NEU;NONE;NONE;
+v47;si warten anderstunt des man;NEU;NEU;NONE;NONE;
+v48;dem al sîn freude aldâ entran,;NEG;NEG;TRAUER;CONTEXT;pérdida de la alegría.
+v49;und der helflîchen stunde;POS;POS;FREUDE;CONTEXT;esperanza.
+v50;der vrâge von sîm munde.;POS;POS;FREUDE;CONTEXT;anticipación del momento esperado.
+v51;der künec sich dicke des bewac,;NEG;NEG;FURCHT;CONTEXT;vigilancia ansiosa.
+v52;daz er blinzender ougen pflac;NEG;NEG;TRAUER + FURCHT;BODY;deterioro físico.
+v53;etswenne gein vier tagn.;NEU;NEU;NONE;NONE;
+v54;sô wart er zuome  grâle getragn,;NEU;NEU;NONE;NONE;
+v55;ez wære im lieb ode leit:;MIX;MIX;FREUDE + TRAUER;CONTEXT;ambivalencia afectiva.
+v56;sô twang in des diu siechheit,;NEG;NEG;TRAUER;BODY;enfermedad como sufrimiento.
+v57;daz er d'ougen ûf swanc:;NEG;NEG;TRAUER;BODY;
+v58;sô muoser âne sînen danc;NEG;NEG;TRAUER;CONTEXT;
+v59;lebn und niht ersterben.;NEG;NEG;TRAUER;CONTEXT;deseo implícito de morir.
+v60;sus kundens mit im werben;NEU;NEU;NONE;NONE;
+v61;Unz an den tac daz Parzivâl;NEU;NEU;NONE;NONE;
+v62;unt Feirefîz der vêch gemâl;NEU;NEU;NONE;NONE;
+v63;mit freudn ûf Munsalvæsche riten.;POS;POS;FREUDE;LEX;freudn = alegría.
+v64;nu hete diu wîle des erbiten,;NEU;NEU;NONE;NONE;
+v65;daz Mars oder Jupiter;NEU;NEU;NONE;NONE;
+v66;wâren komen wider her;NEU;NEU;NONE;NONE;
+v67;al zornec mit ir loufte;NEG;NEG;WUT;CONTEXT;zornec = enojo.
+v68;(sô was er der verkoufte);NEG;NEG;TRAUER;CONTEXT;sentimiento de traición.
+v69;dar si sich von sprunge huoben ê.;NEU;NEU;NONE;NONE;
+v70;daz tet an sîner wunden wê;NEG;NEG;TRAUER;SENS;wê = dolor.
+v71;Anfortase, der sô qual,;NEG;NEG;TRAUER;LEX;qual = tormento.
+v72;magede und rîter hôrten schal;NEG;NEG;TRAUER;CONTEXT;reacción al grito/dolor.
+v73;von sîme geschreie dicke,;NEG;NEG;TRAUER;PROCESS;
+v74;unt die jâmerlîchen blicke;NEG;NEG;TRAUER;BODY;jâmerlîch = gesto doloroso.
+v75;tet er in mit den ougen kunt.;NEG;NEG;TRAUER;BODY;
+v76;er was unhelfeclîche wunt:;NEG;NEG;TRAUER;BODY;
+v77;si mohten im gehelfen niht.;NEG;NEG;TRAUER;CONTEXT;
+v78;iedoch diu âventiure giht,;NEU;NEU;NONE;NONE;
+v79;im kom diu wâre helfe nuo.;POS;POS;FREUDE;CONTEXT;esperanza.
+v80;si griffen herzen jâmers zuo.;NEG;NEG;TRAUER;LEX;jâmer = dolor.
+v81;swenn im diu scharphe sûre nôt;NEG;NEG;TRAUER;LEX;nôt = angustia.
+v82;daz strenge ungemach gebôt,;NEG;NEG;TRAUER;LEX;ungemach = aflicción.
+v83;sô wart der luft gesüezet,;NEU;NEU;NONE;NONE;
+v84;der wunden smac gebüezet.;NEG;NEG;TRAUER;SENS;smac = dolor.
+v85;vor im ûfem teppech lac;NEU;NEU;NONE;NONE;
+v86;pigment und zerbenzînen smac,;NEU;NEU;NONE;NONE;no hay emoción humana.
+v87;müzzel unt arômatâ.;NEU;NEU;NONE;NONE;
+v88;durch süezen luft lag ouch dâ;NEU;NEU;NONE;NONE;
+v89;drîakl und amber tiure:;NEU;NEU;NONE;NONE;
+v90;der smac was gehiure.;POS;POS;FREUDE;SENS;gehiure = agradable.
+v91;Swâ man ûfen teppech trat,;NEU;NEU;NONE;NONE;
+v92;cardemôm, jeroffel, muscât,;NEU;NEU;NONE;NONE;
+v93;lac gebrochen undr ir füezen;NEU;NEU;NONE;NONE;
+v94;durh den luft süezen:;NEU;NEU;NONE;NONE;
+v95;sô daz mit triten wart gebert,;NEU;NEU;NONE;NONE;
+v96;sô was dâ sûr smac erwert.;NEU;NEU;NONE;NONE;fenómeno sensorial, no afectivo.
+v97;sîn fiwer was lign alôê:;NEU;NEU;NONE;NONE;
+v98;daz hân ich iu gesaget ê.;NEU;NEU;NONE;NONE;
+v99;ame spanbette die stollen sîn;NEU;NEU;NONE;NONE;
+v100;wâren vipperhornîn.;NEU;NEU;NONE;NONE;
+v101;durch ruowen fürz gelüppe;NEU;NEU;NONE;NONE;
+v102;von würzen manec gestüppe;NEU;NEU;NONE;NONE;
+v103;was ûf den kultern gesæt.;NEU;NEU;NONE;NONE;
+v104;gesteppet unde niht genæt;NEU;NEU;NONE;NONE;
+v105;was dâ er ûfe lente,;NEU;NEU;NONE;NONE;
+v106;pfell von Nourîente,;NEU;NEU;NONE;NONE;
+v107;unt palmât was sîn matraz.;NEU;NEU;NONE;NONE;
+v108;sîn spanbette was noch paz;NEU;NEU;NONE;NONE;
+v109;gehêrt mit edelen steinen,;NEU;NEU;NONE;NONE;
+v110;unt anders enkeinen.;NEU;NEU;NONE;NONE;
+v111;daz spanbette zôch zein ander;NEU;NEU;NONE;NONE;
+v112;strangen von salamander:;NEU;NEU;NONE;NONE;
+v113;daz wârn undr im diu ricseil.;NEU;NEU;NONE;NONE;descripción material del lecho, neutra.
+v114;er hete an freuden kranken teil.;MIX;MIX;FREUDE + TRAUER;CONTEXT;“freuden kranker teil” = pequeño resto de alegría
+v115;ez was rîche an allen sîten:;;NEU;NONE;NONE;descripción de lujo.
+v116;niemen darf des strîten;NEU;NEU;NONE;NONE;fórmula de suficiencia, no emocional
+v117;daz er bezzerz ie gesæhe.;NEU;NEU;NONE;NONE;hipérbole estética, no afectiva
+v118;ez was tiwer unde wæhe;POS;POS;FREUDE;CONTEXT;wæhe = bello, admirable → valoración positiva
+v119;von der edeln steine geslehte.;NEU;NEU;NONE;NONE;
+v120;die hœrt hie nennen rehte.;NEU;NEU;NONE;NONE;
+v121;Karfunkl unt silenîtes,;NEU;NEU;NONE;NONE;
+v122;balax unt gagâtromes,;NEU;NEU;NONE;NONE;
+v123;ônix unt calcidôn,;NEU;NEU;NONE;NONE;
+v124;coralîs unt bestîôn,;NEU;NEU;NONE;NONE;
+v125;unjô unt optallîes,;NEU;NEU;NONE;NONE;
+v126;cerâuns unt epistîtes,;NEU;NEU;NONE;NONE;
+v127;jerachîtes unt eljotrôpîâ,;NEU;NEU;NONE;NONE;
+v128;panthers unt antrodrâgmâ,;NEU;NEU;NONE;NONE;nombres minerales, pese a la apariencia zoológica
+v129;prasem unde saddâ,;NEU;NEU;NONE;NONE;
+v130;emathîtes unt djonisîâ,;NEU;NEU;NONE;NONE;
+v131;achâtes unt celidôn,;NEU;NEU;NONE;NONE;
+v132;sardonîs unt calcofôn,;NEU;NEU;NONE;NONE;
+v133;cornîol unt jaspîs,;NEU;NEU;NONE;NONE;
+v134;echîtes unt îrîs,;NEU;NEU;NONE;NONE;
+v135;gagâtes unt ligûrîus,;NEU;NEU;NONE;NONE;
+v136;abestô unt cegôlitus,;NEU;NEU;NONE;NONE;
+v137;galactîdâ unt jacinctus,;NEU;NEU;NONE;NONE;
+v138;orîtes unt enîdrus,;NEU;NEU;NONE;NONE;
+v139;absist unt alabandâ,;NEU;NEU;NONE;NONE;
+v140;crisolecter unt hîennîâ,;NEU;NEU;NONE;NONE;
+v141;smârât unt magnes,;NEU;NEU;NONE;NONE;
+v142;sapfîr unt pirrîtes.;NEU;NEU;NONE;NONE;
+v143;ouch stuont her unde dâ;NEU;NEU;NONE;NONE;
+v144;turkoyse unt lipparêâ,;NEU;NEU;NONE;NONE;
+v145;crisolte, rubîne,;NEU;NEU;NONE;NONE;
+v146;paleise unt sardîne,;NEU;NEU;NONE;NONE;
+v147;adamas unt crisoprassîs,;NEU;NEU;NONE;NONE;
+v148;melochîtes unt dîadochîs,;NEU;NEU;NONE;NONE;
+v149;pêanîtes unt mêdus,;NEU;NEU;NONE;NONE;
+v150;berillus unt topazîus.;NEU;NEU;NONE;NONE;
+v151;Etslîcher lêrte hôhen muot:;POS;POS;FREUDE;CONTEXT;hôher muot = ánimo elevado, orgullo positivo.
+v152;ze sælde unt ze erzenîe guot;POS;POS;FREUDE;CONTEXT;sælde = bienestar, fortuna → positivo.
+v153;was dâ maneges steines sunder art.;NEU;NEU;NONE;NONE;
+v154;vil kraft man an in innen wart,;NEU;NEU;NONE;NONE;
+v155;derz versuochen kund mit listen.;NEU;NEU;NONE;NONE;
+v156;dâ mite si muosen vristen;NEU;NEU;NONE;NONE;
+v157;Anfortas, der ir herze truoc:;NEG;NEG;TRAUER;CONTEXT;Designación de Anfortas con epíteto 'der ir herze truoc' (quien llevaba su corazón). No hay lexema emocional explícito, pero la construcción participial ('truoc' = llevaba/soportaba) evoca la carga de sufrimiento. La emoción está cristalizada en la identidad del personaje. CONTEXT porque el pathos se infiere del rol narrativo, no del vocabulario.
+v158;sîme volke er jâmers gap genuoc.;NEG;NEG;TRAUER;LEX;jâmers (genitivo de jâmer = angustia/pena) + gap genuoc (dio abundancia). Lexema directo negativo. Anfortas no solo sufre, sino que transmite el sufrimiento a su pueblo como un bien (genuoc). Paradoja trágica: la angustia se cuantifica y distribuye.
+v159;doch wirt nu freude an im vernomn.;POS;POS;FREUDE;LEX;doch (pero/sin embargo - conjunción adversativa crucial) + wirt nu freude (ahora será alegría) + vernomn (será hallada/percibida). El lexema freude es positivo explícito. Pero la estructura sintáctica 'vernomn' (pasiva: será descubierta) sugiere que la alegría es una revelación futura, no una posesión presente. Giro pivotal del capítulo.
+v160;in Terre de salvæsche ist komn,;NEU;NEU;NONE;NONE;Indicador localizador: 'en Tierra Salvaje ha llegado'. Verso informativo sobre desplazamiento geográfico. No contiene carga emocional, pero contextualmente sigue a v159 esperanzadora, preparando encuentro.
+v161;von Jôflanze gestrichen,;NEU;NEU;NONE;NONE;Continuación localizadora: 'partiendo de Jaufrez'. gestrichen (marchado/partido) indica movimiento, pero sin carga emocional. Narrativa pura de origen geográfico.
+v162;dem sîn sorge was entwichen,;POS;POS;FREUDE;CONTEXT;sorge (preocupación/angustia) + was entwichen (había desaparecido/huido). Negación contextual de estado negativo anterior. No hay lexema positivo explícito, pero la estructura sintáctica 'X was entwichen' (X ha huido) implica alivio/liberación. Mecanismo de transición mediante negación de negatividad, no afirmación de positividad. Polo opuesto de v158: donde Anfortas daba abundancia de sufrimiento, aquí la preocupación se escapa.
+v163;Parzivâl, sîn bruoder unde ein magt.;NEU;NEU;LIEBE;LEX;Identificación de Parzival: 'Parzival, su hermano y una doncella'. bruoder (hermano) es término de parentesco que evocaría LIEBE/lealtad familiar en teoría, pero el verso es primariamente identificatorio, no emocional. La polaridad NEU refleja que el verso cumple función de designación de personajes en la narrativa. LIEBE se registra como emoción subtextual implícita (relación fraternalista), pero no modifica la polaridad general.
+v164;mir ist niht für wâr gesagt,;NEU;NEU;NONE;NONE;Fórmula metanarrativa: 'No me ha sido dicho con certeza'. El narrador declara su propia ignorancia sobre los hechos siguientes. Verso de suspensión narrativa que introduce incertidumbre deliberada.
+v165;wie verr dâ zwischen wære.;NEU;NEU;NONE;NONE;Continuación de incertidumbre narrativa: 'cuál era la distancia entre ellos'. verr (distancia) como sustantivo y concepto: ¿distancia espacial o temporal? Verso que prolonga la indeterminación metanarrativa.
+v166;si erfüern nu strîtes mære:;NEU;NEU;NONE;NONE;erfüern (se enteraron), nu (ahora), strîtes mære (noticias de batalla). Transición narrativa: abandonamos incertidumbre metanarrativa y entramos en acción. Verso conectivo que introduce evento siguiente.
+v167;wan Cundrîe ir geleite;NEU;NEU;LIEBE;LEX;wan (porque) + Cundrîe + ir geleite (su escolta/compañía). geleite es término que expresa protección y cuidado. Condrie actúa como guía protectora. LIEBE se registra como emoción de lealtad y servicio (Condrie es mensajera del Grial), pero polaridad NEU porque verso es narrativo (función: explicar cómo fue posible el encuentro).
+v168;schiet si von arbeite.;POS;POS;FREUDE;CONTEXT;schied (separó) + si (ellos) + von (de) + arbeite (trabajo/fatiga/pena). Negación contextual: 'los apartó del trabajo/pena'. Paralela a v162: nuevo mecanismo de alegría mediante negación de estado negativo. arbeite puede significar 'trabajo duro' o 'sufrimiento', connotación melancólica. Su 'schiedenʻ (separación) implica alivio sin lexema positivo explícito.
+v169;si riten gein einer warte.;NEU;NEU;NONE;NONE;si riten (cabalgaron) + gein einer warte (hacia una atalaya/fortaleza). Acción narrativa de movimiento. warte sugiere punto defensivo de vigía. Verso de desplazamiento espacial.
+v170;dâ gâhte gein in harte;NEU;NEU;NONE;NONE;dâ (allí) + gâhte (se apresura) + gein in (hacia ellos) + harte (fuertemente/con prisa). gâhte (verbo de movimiento rápido) sugiere anticipación pero no emoción explícita. Verso de acción de encuentro.
+v171;manc wol geriten templeis,;POS;POS;FREUDE;LEX;manc (muchos) + wol geriten (bien montados/bien preparados) + templeis (templarios). wol (bien) es epíteto laudatorio. geriten (participio: montados) es epíteto de excelencia caballeresca. Polaridad POS porque la descripción de los templarios es positiva, pero emoción FREUDE se infiere del contexto de alabanza, no de afirmación emocional directa.
+v172;gewâpent. die wârn sô kurteis,;POS;POS;LIEBE;LEX;gewâpent (armados). die wârn sô kurteis (eran tan corteses/nobles). kurteis es término medieval que condensa excelencia social, moral y emocional. En contexto de literatura cortés, kurteis evoca LIEBE como virtud social (capacidad de servicio, nobleza de comportamiento). Polaridad POS porque la descripción es laudatoria.
+v173;ame geleite si wol sâhen;NEU;NEU;NONE;NONE;ame geleite (en el grupo/convoy) + si wol sâhen (percibieron bien). sâhen (vieron) es verbo de percepción. Verso que registra reconocimiento visual del grupo de Parzival. Función narrativa: confirmación de identificación.
+v174;daz in freude solte nâhen.;POS;POS;FREUDE;LEX;daz (que) + in (a ellos) + freude (alegría) + solte nâhen (debería aproximarse/vendría). freude es lexema positivo explícito. Pero solte nâhen (modo condicional-subjuntivo) indica PREDICCIÓN de emoción futura, no estado presente. Verso clave: marca que la alegría será descubierta, no que es poseída ahora. Este es un horizonte de esperanza, no una consumación.
+v175;der selben rotte meister sprach,;NEU;NEU;NONE;NONE;der selben rotte meister (el maestro/líder de ese grupo) + sprach (habló). Verso de introducción a discurso directo. Designación del enunciador y apertura de diálogo.
+v176;dô er vil turteltûben sach;NEU;NEU;NONE;NONE;dô (cuando) + er (él) + vil turteltûben (muchas tórtolas) + sach (vio). turteltûben (tórtolas/palomas) son símbolos épico-líricos de parejas amorosas y fidelidad. Verso que proporciona el MOTIVO del reconocimiento siguiente, pero sin carga emocional explícita. La metáfora de tórtolas prepara la revelación de identidad de Parzival y Condrie.
+v177;glesten ab Cundrîen wât,;NEU;NEU;NONE;NONE;glesten (brillar/relucir) + ab (de/desde) + Cundrîen (de Condrie) + wât (ropa/vestido). Verso de descripción visual: el brillo del atuendo de Condrie es reconocible. La luminosidad (glesten) es detalle visual, no emocional. Verso que prepara el reconocimiento del verso siguiente.
+v178;«unser sorge ein ende hât:;POS;POS;FREUDE;LEX;DISCURSO DIRECTO: unser (nuestra) + sorge (preocupación/angustia) + ein (un) + ende (fin) + hât (ha tenido). Negación contextual mediante consumación: 'nuestra preocupación ha alcanzado su fin'. Primer verso del discurso revelador del maestro. La estructura parallela a v162 (sorge entwichen) pero con mayor enfasis: sorge ahora tiene ein ende (un fin definitivo). FREUDE se infiere de la negación de sorge, no de afirmación positiva directa.
+v179;mit des grâls insigel hie;POS;POS;FREUDE;LEX;mit (con) + des grâls (del Grial) + insigel (sello/insignia) + hie (aquí/presente). grâls insigel: referencia teológica al poder salvífico del Grial. El sello es marca de autenticidad divina. hie (presente) transforma lo esperado en lo realizado. Verso que combina lexema positivo (grâl = redención, salvación) con lexema de emoción implícita (el poder salvífico = alegría de redención).
+v180;kumt uns des wir gerten ie,;POS;POS;FREUDE;LEX;kumt (llega/viene) + uns (a nosotros) + des (que) + wir gerten (deseamos) + ie (siempre/jamás). Verso de cumplimiento de deseo: 'lo que siempre hemos deseado llega a nosotros'. gerten (desear/anhelar) es verbo de emoción latente, kumt (viene) es actualización del deseo. La estructura temporal: ie (jamás/siempre) vs. nu (ahora, del verso anterior) marca la transición de deseo eterno a cumplimiento actual.
+v181;Sît uns der jâmerstric beslôz.;NEG;NEG;TRAUER;LEX;Sît (puesto que/ya que) + uns (a nosotros) + der jâmerstric (la red/trampa de angustia) + beslôz (encerró/cerró). jâmerstric es metáfora de sufrimiento: red que encierra, trampa que atrapa. beslôz (pasado: encerró) evoca el tiempo de cautiverio emocional previo. Verso que nombra explícitamente el dolor anterior como contexto de la liberación presente. TRAUER porque referencia el sufrimiento previo, pero en función de negarlo.
+v182;habt stille: uns næhet freude grôz.»;POS;POS;FREUDE;LEX;habt stille (permaneced quietos/callados) + uns (a nosotros) + næhet (se aproxima/acerca) + freude grôz (gran alegría). Verso de culminación emocional del discurso. freude grôz es acumulación de lexema positivo (freude) + intensificador (grôz = grande/profunda). næhet (se aproxima) transforma la predicción de v174 en presentación inmediata: la alegría no solo vendrá, sino que ESTÁ llegando. El imperativo habt stille (permaneced quietos) ordena la quietud como receptividad al milagro inminente. Cierre de discurso: la palabra final es 'freude grôz' (gran alegría).
+v183;Feirefîz Anschevîn;NEU;NEU;NONE;NONE;Identificación del personaje: 'Feirefiz Anschevín'. Verso de designación nominal sin carga emocional. Función: introducción del nuevo agente narrativo (el hermano pagano de Parzival).
+v184;mant Parzivâln den bruoder sîn;NEU;NEU;LIEBE;LEX;mant (exhortó/amonestó) + Parzivâln + den bruoder sîn (su hermano). 'bruoder' es término de parentesco que evoca LIEBE/lealtad fraternalista. Pero verso es acción narrativa (Feirefiz exhorta a Parzival), no expresión de sentimiento interno. Polaridad NEU porque verso es funcional.
+v185;an der selben zîte,;NEU;NEU;NONE;NONE;an der selben zîte (en ese mismo momento/tiempo). Indicador temporal de simultaneidad. Verso de estructura narrativa que marca velocidad del evento.
+v186;und gâhte geime strîte.;NEU;NEU;WUT;CONTEXT;und gâhte (se apresuró) + geime strîte (hacia el combate). 'strîte' (combate/batalla) como contexto de acción guerrera. WUT (ira/agresividad guerrera) es subtexto del ímpetu combativo, pero verso registra movimiento hacia batalla, no emoción interna. Polaridad NEU porque es acción narrativa.
+v187;Cundrîe in mit dem zoume vienc,;NEU;NEU;NONE;NONE;Cundrîe + in (lo) + mit dem zoume (con la rienda/brida) + vienc (sujetó/agarró). Condrie interviene físicamente para detener a Feirefiz. 'vienc' (agarró) es acción de control/restricción. Verso de intervención pacificadora sin emoción explícita.
+v188;daz sîner tjost dâ niht ergienc.;NEU;NEU;NONE;NONE;daz (que) + sîner tjost (su acometida/ataque de lanza) + dâ (allí) + niht ergienc (no llegó a ocurrir). Resultado de intervención anterior: la tjost (acción bélica) es negada. Verso de consecuencia: el combate NO sucede. Polaridad NEU porque es información factual negativa (no hay combate), no emoción.
+v189;dô sprach diu maget rûch gemâl;NEU;NEU;NONE;NONE;dô sprach (entonces habló) + diu maget (la doncella) + rûch gemâl (de aspecto áspero/tosco). 'rûch gemâl' es epíteto de Condrie (su apariencia física es descrita como áspera). Verso de introducción a discurso directo.
+v190;bald zir hêrren Parzivâl;NEU;NEU;LIEBE;LEX;bald (osadamente/con valentía) + zir hêrren (a su señor) + Parzivâl. 'hêrren' (señor) es término de deferencia que evoca LIEBE/lealtad. 'bald' sugiere audacia cortés en la deferencia. Pero verso es designación del destinatario del discurso, no expresión emocional. Polaridad NEU.
+v191;«schilde und baniere;NEU;NEU;NONE;NONE;DISCURSO DIRECTO: schilde (escudos) und baniere (y banderas). Inicio de discurso sobre identificación heráldica. Verso de enumeración de símbolos de reconocimiento.
+v192;möht ir rekennen schiere.;NEU;NEU;NONE;NONE;möht ir (podríais) + rekennen (reconocer) + schiere (rápidamente). Propuesta de identificación visual: 'podríais reconocer rápidamente'. Verso de instrucción/invitación a la observación.
+v193;dort habt niht wans grâles schar:;NEU;NEU;NONE;NONE;dort (allí) + habt (hay) + niht wan (no hay sino/solamente) + s grâles schar (la compañía del Grial). Identificación de los templarios: 'allí no hay sino la compañía del Grial'. Verso informativo que resuelve la incertidumbre de identidad.
+v194;die sint vil diensthaft iu gar.»;POS;POS;LIEBE;LEX;die (ellos) + sint (son) + vil diensthaft (muy serviciales/leales) + iu (a vosotros) + gar (completamente). 'diensthaft' es término de lealtad/servicio que evoca LIEBE social. 'vil...gar' (muy...completamente) es acumulación de intensificadores. Cierre del discurso de Condrie: afirma lealtad total de templarios a Parzival. Polaridad POS porque la descripción es laudatoria.
+v195;dô sprach der werde heiden;NEU;NEU;NONE;NONE;dô sprach (entonces habló) + der werde heiden (el noble pagano). 'werde' (noble/digno) es epíteto laudatorio para Feirefiz. 'heiden' (pagano) marca diferencia religiosa. Verso de introducción a discurso directo de Feirefiz.
+v196;«sô sî der strît gescheiden.»;POS;POS;FREUDE;LEX;DISCURSO DIRECTO: sô sî (que sea) + der strît (el combate) + gescheiden (separado/finalizado). Feirefiz acepta la cesación de hostilidades: 'que sea finalizada la batalla'. 'gescheiden' (separado/terminado) implica paz. Polaridad POS porque la cesación voluntaria de combate es alegría implícita (alivio). FREUDE se infiere de la aceptación de paz.
+v197;Parzivâl Cundrîen bat;NEU;NEU;NONE;NONE;Parzivâl + Cundrîen (a Condrie) + bat (pidió/rogó). Verso de petición cortés. 'bat' (rogar) sugiere deferencia, pero verso es acción de solicitud, no emoción.
+v198;gein in rîten ûf den pfat.;NEU;NEU;NONE;NONE;gein in (hacia ellos) + rîten (cabalgar) + ûf den pfat (sobre el sendero). Instrucción de movimiento: 'cabalgar hacia ellos por el sendero'. Verso de acción de aproximación. Polaridad NEU porque es información de desplazamiento.
+v199;diu reit und sagt in mære,;NEU;NEU;NONE;NONE;diu (ella) + reit (cabalgó) + und sagt (y contó) + in (a ellos) + mære (noticias). Condrie actúa como mensajera: 'ella cabalgó y les contó noticias'. Verso de acción comunicativa sin emoción explícita.
+v200;waz in freuden komen wære.;POS;POS;FREUDE;LEX;waz (qué) + in freuden (en alegría) + komen (venido/llegado) + wære (sería). Contenido de las noticias: 'qué alegría habría llegado a ellos'. 'in freuden' es lexema positivo explícito. 'komen wære' (modo subjuntivo) marca el anuncio como revelación de estado futuro-presente. Polaridad POS porque el contenido de las noticias es alegre.
+v201;swaz dâ templeise was,;NEU;NEU;NONE;NONE;swaz (cuantos) + dâ (allí) + templeise (templarios) + was (había). Designación cuantitativa: 'cuantos templarios había allí'. Verso de especificación del grupo receptor.
+v202;die rebeizten nider ûfez gras.;NEU;NEU;NONE;NONE;die (ellos) + rebeizten (desmontaron) + nider (abajo) + ûfez gras (sobre la hierba). Acción colectiva de desmonte: 'desmontaron sobre la hierba'. rebeizten (desmontar) es gesto de deferencia caballeresca (abandonan posición de combate montado). Verso de acción ritual sin emoción explícita.
+v203;an den selben stunden;NEU;NEU;NONE;NONE;an den selben stunden (en ese mismo momento/instante). Indicador temporal de simultaneidad. Verso de estructura narrativa que marca velocidad del gesto siguiente.
+v204;manc helm wart ab gebunden.;NEU;NEU;NONE;NONE;manc (muchos) + helm (yelmos/cascos) + wart ab gebunden (fueron desatados/quitados). Acción colectiva de desarme parcial: 'muchos yelmos fueron quitados'. Gesto de paz (quitarse el casco = mostrar rostro = vulnerabilidad). Polaridad NEU porque es acción ritual sin emoción explícita.
+v205;Parzivâln enpfiengen si ze fuoz:;POS;POS;LIEBE;ACTION;Parzivâln + enpfiengen (recibieron) + si (ellos) + ze fuoz (a pie/de pie). 'enpfiengen ze fuoz' es gesto ritual de recepción con máxima deferencia: recibir A PIE (habiendo desmontado) es reconocimiento de superioridad. ACTION porque la emoción (LIEBE/lealtad) se codifica en gesto corporal, no en lexema. Polaridad POS porque el gesto es de honra.
+v206;ein segen dûhte si sîn gruoz.;POS;POS;FREUDE;LEX;ein segen (una bendición) + dûhte si (les pareció) + sîn gruoz (su saludo). 'segen' (bendición) es lexema positivo de gracia divina. La llegada de Parzival es percibida como bendición sagrada. Polaridad POS porque el saludo es equiparado a gracia divina. FREUDE se infiere de la percepción bendita del encuentro.
+v207;si enpfiengn och Feirefîzen;NEU;NEU;LIEBE;ACTION;si (ellos) + enpfiengn (recibieron) + och (también) + Feirefîzen (a Feirefiz). Extensión de la recepción al hermano pagano. 'och' (también) marca inclusión de Feirefiz en el gesto de deferencia. ACTION porque la emoción (LIEBE/aceptación) se codifica en gesto de recepción. Polaridad NEU porque verso registra acción, no emoción explícita.
+v208;den swarzen unt den wîzen.;NEU;NEU;NONE;NONE;den swarzen (el negro) + unt (y) + den wîzen (el blanco). Designación física de Feirefiz: 'el negro y el blanco' (Feirefiz tiene piel moteada, mitad negra y mitad blanca). Verso descriptivo de apariencia física sin emoción. Nota: esta descripción marca diferencia racial pero sin valoración negativa.
+v209;ûf Munsalvæsche wart geriten;NEU;NEU;NONE;NONE;ûf (hacia) + Munsalvæsche (Munsalvaesche/castillo del Grial) + wart geriten (fue cabalgado/se cabalgó). Acción de desplazamiento hacia el castillo del Grial. Verso de movimiento narrativo sin emoción explícita.
+v210;al weinde und doch mit freude siten.;MIX;MIX;FREUDE + TRAUER;LEX + PROCESS;al weinde (llorando) + und doch (y sin embargo) + mit freude (con alegría) + siten (también/además). OXÍMORON CRÍTICO: 'llorando y sin embargo con alegría'. 'weinde' (llorando) es PROCESS somático de TRAUER. 'freude' es lexema de FREUDE. 'und doch' (y sin embargo) es conjunción adversativa que marca coexistencia de emociones contradictorias. Polaridad MIX porque positivo y negativo coexisten simultáneamente.
+v211;Si funden volkes ungezalt,;NEU;NEU;NONE;NONE;Si (ellos) + funden (encontraron) + volkes (gente/pueblo) + ungezalt (incontable/innumerable). Descripción cuantitativa: 'encontraron gente innumerable'. ungezalt (sin cuenta) marca abundancia. Verso de descripción de llegada sin emoción explícita.
+v212;mangen wünneclîchen rîter alt,;POS;POS;FREUDE;LEX;mangen (muchos) + wünneclîchen (deliciosos/excelentes/alegres) + rîter (caballeros) + alt (viejos/ancianos). 'wünneclîchen' es término de alabanza que combina belleza y alegría. 'rîter alt' (caballeros ancianos) marca sabiduría y experiencia. Polaridad POS porque la descripción es laudatoria. FREUDE se infiere del epíteto wünneclîchen.
+v213;edeliu kint, vil sarjante.;POS;POS;FREUDE;LEX;edeliu (nobles) + kint (niños/jóvenes) + vil (muchos) + sarjante (sargentos/escuderos). Continuación de enumeración laudatoria: 'nobles jóvenes, muchos escuderos'. 'edeliu' (nobles) es epíteto de excelencia social. Polaridad POS porque la descripción continúa siendo positiva. FREUDE se mantiene del contexto anterior.
+v214;diu trûrge mahinante;NEG;NEG;TRAUER;LEX;trûrge(triste, afligido) es epíteto explícito negativo (asociado a Anfortas). Marca la continuación del pathos y la atmósfera de duelo abierta.
+v215;dirre künfte vrô wol mohten sîn.;POS;POS;FREUDE;LEX;vrô(alegre, contento) + condicional modal indica posibilidad o expectativa de alegría ante el reencuentro. Tensión positiva frente a la tristeza predominante anterior.
+v216;Feirefîz Anschevîn;NEU;NEU;NONE;NONE;Identificación nominal del personaje, pura función narrativa. Introduce a Feirefiz en la escena sin carga emocional explícita.
+v217;unt Parzivâl, si bêde,;NEU;NEU;LIEBE;LEX;Enumeración de los dos hermanos juntos: la conjunción, aunque neutra en polaridad, sugiere LIEBE/fraternidad por yuxtaposición.
+v218;vor dem palas an der grêde;NEU;NEU;NONE;NONE;"Sobre el lugar físico (""delante del palacio, en la grada/escalera""). Verso situacional neutro."
+v219;si wurden wol enpfangen.;POS;POS;LIEBE;ACTION;"wol enpfangen(bien recibidos): encierra hospitalidad y lealtad de la corte del Grial; el gesto de bienvenida es emoción expresada ritualmente."
+v220;in den palas wart gegangen.;NEU;NEU;NONE;NONE;Progresión narrativa: 'Entraron al palacio'. Acción neutra.
+v221;dâ lac nâh ir gewonheit;NEU;NEU;NONE;NONE;
+v222;hundert sinwel teppech breit,;NEU;NEU;NONE;NONE;Descripción de la costumbre de la corte (alfombras dispuestas). Detalle ritual, no emocional.
+v223;ûf ieslîchem ein pflûmît;NEU;NEU;NONE;NONE;"Continúa la descripción del entorno ceremonial; contexto de riqueza, sin carga emocional directa."
+v224;und ein kulter lanc von samît.;NEU;NEU;NONE;NONE;'Los dos avanzaron con dignidad/juicio'. Movimiento cortesano, neutro aunque con valoración positiva implícita.
+v225;fuorn die zwên mit witzen,;NEU;NEU;NONE;NONE;"'Se pudieron sentar allí'; verso sobre la posibilidad/acción de tomar asiento. Neutro."
+v226;si mohtn etswâ dâ sitzen,;NEU;NEU;NONE;NONE;"Indicación de la costumbre de quitar armaduras; protocolo de recepción, sin emoción marcada."
+v227;unz manz harnasch von in enpfienc.;NEU;NEU;NONE;NONE;'Un camarero se acercó'. Desplazamiento de personaje secundario, neutro.
+v228;ein kamerær dar nâher gienc:;NEU;NEU;NONE;NONE;'Un camarero se acercó'. Desplazamiento de personaje secundario, neutro.
+v229;der brâht in kleider rîche,;POS;POS;FREUDE;LEX;"Traer vestiduras ricas es signo de honor y gratitud; aunque acción factual, el gesto protocolario involucra valoración positiva (hospitalidad cortesana)."
+v230;den beiden al gelîche.;POS;POS;LIEBE;LEX;"'A ambos por igual'; equidad e inclusión, que subraya LIEBE más allá de diferencia religiosa o social."
+v231;si sâzen, swaz dâ rîter was.;NEU;NEU;NONE;NONE;"Todos los caballeros se sentaron juntos; acto inclusivo, pero descriptivo."
+v232;man truoc von golde (ez was niht glas);POS;POS;FREUDE;LEX;"Traer copas de oro (no de cristal): la riqueza del vaso refuerza solemnidad y gozo del banquete; lexema tiwern (precioso) es clave positivo."
+v233;für si manegen tiwern schâl.;POS;POS;FREUDE;LEX;"Traer copas de oro (no de cristal): la riqueza del vaso refuerza solemnidad y gozo del banquete; lexema tiwern (precioso) es clave positivo."
+v234;Feirefîz unt Parzivâl;NEU;NEU;NONE;NONE;
+v235;trunken unde giengen dan;POS;POS;FREUDE;ACTION;Los hermanos brindan (alegría ritual),
+v236;Anfortase dem trûrgen man.;NEG;NEG;TRAUER;LEX + CONTEXT;pero caminan hacia Anfortas dem trûrgen man (al hombre triste):
+v237;ir habt wol ê vernomen daz;NEG;NEG;TRAUER;CONTEXT;Recordatorio de las penurias de Anfortas (ayuno, poco descanso, lecho singular). La emoción es contextual, no léxica directa.
+v238;der lente, unt daz er selten saz,;NEG;NEG;TRAUER;CONTEXT;Recordatorio de las penurias de Anfortas (ayuno, poco descanso, lecho singular). La emoción es contextual, no léxica directa.
+v239;unt wie sîn bette gehêret was.;NEG;NEG;TRAUER;CONTEXT;Recordatorio de las penurias de Anfortas (ayuno, poco descanso, lecho singular). La emoción es contextual, no léxica directa.
+v240;dise zwêne enpfienc dô Anfortas;NEU;NEU;NONE;NONE;Acción de recepción: 'a estos dos recibió entonces Anfortas'. Verso de transición a la escena del encuentro.
+v241;Vrœlîche unt doch mit jâmers siten.;MIX;MIX;FREUDE + TRAUER;LEX;OXÍMORON CRÍTICO: 'alegremente y sin embargo con disposición de dolor'. Vrœlîche (alegre) + jâmers (dolor) coexisten mediante unt doch (y sin embargo).
+v242;er sprach «ich hân unsanfte erbiten,;NEG;NEG;TRAUER;LEX;Discurso directo de Anfortas: 'he esperado con dificultad/sufrimiento'. unsanfte (con dificultad) es lexema negativo que expresa dolor de espera.
+v243;wirde ich immer von iu vrô.;POS;POS;FREUDE;LEX;Esperanza condicional: 'si alguna vez llego a ser alegre por vosotros'. vrô (alegre) + condicional modal marca esperanza futura.
+v244;ir schiet nu jungest von mir sô,;NEU;NEU;NONE;NONE;Recordatorio de separación previa: 'os fuisteis recientemente de mí así'. Referencia temporal sin emoción explícita.
+v245;pflegt ir helflîcher triuwe,;POS;POS;LIEBE;LEX;Condición de lealtad: 'si cultiváis fidelidad auxiliadora'. helflîcher triuwe (fidelidad auxiliadora) es lexema positivo de LIEBE/lealtad.
+v246;man siht iuch drumbe in riuwe.;NEG;NEG;TRAUER;LEX;Consecuencia dolorosa: 'se os verá por ello en pena'. riuwe (pena/arrepentimiento) es lexema negativo que liga la lealtad al dolor.
+v247;wurde ie prîs von iu gesagt,;NEU;NEU;NONE;NONE;Condición de honor: 'si alguna vez se dijo gloria de vosotros'. Referencia a la reputación caballeresca sin emoción directa.
+v248;hie sî rîter oder magt,;NEU;NEU;NONE;NONE;Especificación de audiencia: 'sea aquí caballero o doncella'. Verso inclusivo que designa toda la corte como testigo.
+v249;werbet mir dâ zin den tôt;NEG;NEG;TRAUER;CONTEXT;Súplica de muerte: 'procuradme allí la muerte'. Deseo de morir como expresión máxima de desesperación sin lexema emocional explícito.
+v250;und lât sich enden mîne nôt.;NEG;NEG;TRAUER;LEX;Petición de final del sufrimiento: 'y dejad que termine mi aflicción'. nôt (aflicción/necesidad) es lexema negativo explícito.
+v251;sît ir genant Parzivâl,;NEU;NEU;NONE;NONE;Condición de identidad: 'ya que sois llamado Parzival'. Reconocimiento de identidad sin emoción explícita.
+v252;sô wert mîn sehen an den grâl;NEU;NEU;NONE;NONE;Prohibición ritual: 'entonces impedid mi visión del Grial'. Referencia al ritual del Grial sin emoción explícita.
+v253;siben naht und aht tage:;NEU;NEU;NONE;NONE;Especificación temporal ritual: 'siete noches y ocho días'. Número ritual que marca el período necesario para la muerte.
+v254;dâ mite ist wendec al mîn klage.;POS;POS;FREUDE;LEX;Resolución esperada: 'con eso terminará toda mi queja'. wendec (convertible/terminable) + klage (queja) marca esperanza de final.
+v255;ine getar iuch anders warnen niht:;NEU;NEU;NONE;NONE;Advertencia: 'no me atrevo a advertiros de otra manera'. Verso de transición que introduce bendición siguiente.
+v256;wol iu, op man iu helfe giht.;POS;POS;FREUDE;LEX;Bendición condicional: 'bien para ti si alguien te da ayuda'. wol iu (bien para ti) es lexema positivo de bendición.
+v257;iwer geselle ist hie ein vremder man:;NEU;NEU;NONE;NONE;Observación sobre Feirefiz: 'vuestro compañero es aquí un hombre extraño'. vremder (extraño/extranjero) marca diferencia sin valoración.
+v258;sîns stêns ich im vor mir niht gan.;NEU;NEU;NONE;NONE;Restricción protocolaria: 'no le concedo su permanencia ante mí'. Verso de protocolo sin emoción explícita.
+v259;wan lât irn varn an sîn gemach?»;NEU;NEU;NONE;NONE;Sugerencia práctica: '¿por qué no lo dejáis ir a sus aposentos?'. Cierre del discurso de Anfortas con sugerencia funcional.
+v260;alweinde Parzivâl dô sprach;NEG;NEG;TRAUER;PROCESS;Descripción de estado emocional: 'llorando Parzival entonces habló'. alweinde (llorando) es PROCESS somático que codifica TRAUER.
+v261;«saget mir wâ der grâl hie lige.;NEU;NEU;NONE;NONE;Pregunta ritual: 'decidme dónde yace aquí el Grial'. Inicio del discurso de Parzival con pregunta funcional.
+v262;op diu gotes güete an mir gesige,;POS;POS;ESPERANZA;LEX;Invocación de gracia divina: 'si la bondad de Dios triunfa en mí'. güete (bondad) + gesige (triunfe) expresan esperanza en intervención divina.
+v263;des wirt wol innen disiu schar.»;POS;POS;FREUDE;LEX;Predicción de reconocimiento colectivo: 'de eso se dará bien cuenta esta asamblea'. wol innen (bien consciente) marca esperanza de revelación.
+v264;sîn venje er viel des endes dar;NEU;NEU;NONE;NONE;Acción ritual: 'cayó de rodillas en esa dirección'. Gesto de oración sin emoción explícita.
+v265;drîstunt zêrn der Trinitât:;NEU;NEU;NONE;NONE;Especificación ritual: 'tres veces hacia la Trinidad'. Número ritual (drîstunt = tres veces) que marca solemnidad de la invocación.
+v266;er warp daz müese werden rât;POS;POS;ESPERANZA;CONTEXT;Contenido de la oración: 'rogó que se hiciera remedio'. warp (rogó) + rât (remedio/consejo) expresa esperanza de curación.
+v267;des trûrgen mannes herzesêr.;NEG;NEG;TRAUER;LEX;Objeto de la oración: 'del dolor de corazón del hombre triste'. herzesêr (dolor de corazón) es lexema negativo compuesto que expresa sufrimiento profundo.
+v268;er riht sich ûf und sprach dô mêr;NEU;NEU;NONE;NONE;Acción de Parzival: 'se incorporó y habló entonces más'. Transición narrativa a nuevo discurso.
+v269;«œheim, waz wirret dier?»;NEU;NEU;NONE;NONE;"Pregunta de compasión: 'tío, ¿qué te aflige?'. œheim (tío) marca relación de parentesco; wirret (aflige) pregunta por el mal sin emoción explícita."
+v270;der durch sant Silvestern einen stier;NEU;NEU;NONE;NONE;Referencia hagiográfica: 'aquel que por San Silvestre un toro'. Inicio de comparación con milagro cristiano.
+v271;Von tôde lebendec dan hiez gên,;NEU;NEU;NONE;NONE;Continuación del milagro: 'de la muerte ordenó ir vivo'. Referencia a resurrección milagrosa como paralelo tipológico.
+v272;unt der Lazarum bat ûf stên,;NEU;NEU;NONE;NONE;Continuación de referencia hagiográfica: 'y que mandó a Lázaro levantarse'. Referencia a la resurrección de Lázaro como paralelo tipológico para la curación de Anfortas.
+v273;der selbe half daz Anfortas;POS;POS;FREUDE;CONTEXT;Intervención divina: 'el mismo ayudó a que Anfortas'. Referencia a que Dios (der selbe = el mismo) interviene para curar. Polaridad POS porque marca la curación milagrosa.
+v274;wart gesunt unt wol genas.;POS;POS;FREUDE;LEX;Resolución de la curación: 'se volvió sano y bien curado'. gesunt (sano) + wol genas (bien curado) son lexemas positivos explícitos que marcan el milagro cumplido.
+v275;swaz der Franzoys heizt flôrî,;NEU;NEU;NONE;NONE;Introducción de comparación: 'lo que el francés llama florido'. Referencia lingüística que introduce la descripción de la belleza restaurada de Anfortas.
+v276;der glast kom sînem velle bî.;POS;POS;FREUDE;BODY;Descripción de belleza corporal: 'el brillo llegó a su piel'. glast (brillo/resplandor) + velle (piel) marcan la transformación física visible. Modo BODY porque la emoción se codifica en descripción corporal.
+v277;Parzivâls schœn was nu ein wint,;NEU;NEU;NONE;NONE;Comparación hiperbólica: 'la belleza de Parzival era ahora un viento'. Inicio de serie comparativa donde la belleza de Anfortas supera a todos los héroes anteriores.
+v278;und Absalôn Dâvîdes kint,;NEU;NEU;NONE;NONE;Referencia bíblica: 'y Absalón, hijo de David'. Primer elemento de la serie comparativa: Absalón, famoso por su belleza en el Antiguo Testamento.
+v279;von Ascalûn Vergulaht,;NEU;NEU;NONE;NONE;Referencia textual interna: 'Vergulaht de Ascalón'. Segundo elemento comparativo: personaje del propio Parzival conocido por su belleza.
+v280;und al den schœne was geslaht,;NEU;NEU;NONE;NONE;Generalización comparativa: 'y todos aquellos a quienes la belleza fue otorgada'. Amplía la comparación a todos los seres bellos en general.
+v281;unt des man Gahmurete jach;NEU;NEU;NONE;NONE;Referencia genealógica: 'y lo que de Gahmurete se dijo'. Gahmurete (padre de Parzival) como término de comparación de belleza.
+v282;dô mann în zogen sach;NEU;NEU;NONE;NONE;Continuación: 'cuando se le vio cabalgar'. Referencia a momento específico de exhibición de belleza de Gahmurete.
+v283;ze Kanvoleiz sô wünneclîch,;POS;POS;FREUDE;LEX;Localización de la belleza: 'en Kanvoleis tan deliciosamente'. wünneclîch (delicioso/hermoso/alegre) es lexema positivo que marca la belleza extrema.
+v284;ir decheins schœn was der gelîch,;POS;POS;FREUDE;LEX;Resolución comparativa: 'la belleza de ninguno de ellos era comparable a ella'. Cierre de la serie: ninguna belleza previa se compara con la de Anfortas curado.
+v285;die Anfortas ûz siechheit truoc.;POS;POS;FREUDE;CONTEXT;Fuente de la belleza: 'que Anfortas sacó de la enfermedad'. La belleza proviene de la curación (ûz siechheit = desde la enfermedad). Polaridad POS porque marca transformación positiva.
+v286;got noch künste kan genuoc.;POS;POS;FREUDE;LEX;Comentario del narrador: 'Dios aún conoce suficiente arte'. Atribución de la belleza a poder divino (got) y arte (künste). Polaridad POS porque alaba el poder creador divino.
+v287;da ergienc dô dehein ander wal,;NEU;NEU;NONE;NONE;Afirmación de inevitabilidad: 'allí no hubo entonces otra elección'. Marca que la sucesión de Parzival como rey del Grial era necesaria.
+v288;wan die diu schrift ame grâl;NEU;NEU;NONE;NONE;Autoridad del Grial: 'sino aquella que la escritura en el Grial'. Referencia a la escritura mágica del Grial que designa al rey.
+v289;hete ze hêrren in benant:;NEU;NEU;NONE;NONE;Designación divina: 'había nombrado como señor'. La escritura del Grial designa (benant = nombrado) a Parzival como rey.
+v290;Parzivâl wart schiere bekant;POS;POS;FREUDE;CONTEXT;Reconocimiento público: 'Parzival fue pronto reconocido'. schiere (pronto) + bekant (reconocido/conocido) marca la aceptación inmediata de su realeza.
+v291;ze künige unt ze hêrren dâ.;POS;POS;FREUDE;LEX;Títulos de realeza: 'como rey y como señor allí'. Acumulación de títulos (künige + hêrren) que marcan la elevación de Parzival.
+v292;ich wæne iemen anderswâ;NEU;NEU;NONE;NONE;Comentario del narrador: 'creo que nadie en otro lugar'. Inicio de comparación sobre la riqueza de Parzival y Feirefiz.
+v293;funde zwêne als rîche man,;POS;POS;FREUDE;LEX;Comparación de riqueza: 'encontrara dos hombres tan ricos'. rîche (rico/poderoso) es lexema positivo que marca la magnificencia de los hermanos.
+v294;ob ich rîcheit prüeven kan,;NEU;NEU;NONE;NONE;Modestia del narrador: 'si yo puedo juzgar la riqueza'. El narrador se presenta como incapaz de medir la magnitud de la riqueza.
+v295;als Parzivâl unt Feirefîz.;POS;POS;FREUDE;LEX;Conclusión comparativa: 'como Parzival y Feirefiz'. Los dos hermanos son presentados como pináculo de riqueza y poder.
+v296;man bôt vil dienstlîchen vlîz;POS;POS;LIEBE;LEX;Servicio cortesano: 'se ofreció muy servicial diligencia'. dienstlîchen (servicial) + vlîz (diligencia/celo) expresan LIEBE mediante servicio.
+v297;dem wirte unt sîme gaste.;POS;POS;LIEBE;LEX;Designación de roles: 'al anfitrión y a su huésped'. wirte (anfitrión = Parzival) + gaste (huésped = Feirefiz) marca la hospitalidad fraternalista.
+v298;ine weiz wie mange raste;NEU;NEU;NONE;NONE;Fórmula de incertidumbre narrativa: 'no sé cuántas jornadas'. El narrador declara ignorancia sobre la distancia recorrida por Condwiramurs.
+v299;Condwîrâmûrs dô was geriten;NEU;NEU;NONE;NONE;Introducción de Condwiramurs: 'Condwiramurs entonces había cabalgado'. Acción de desplazamiento que prepara el reencuentro conyugal.
+v300;gein Munsalvæsch mit freude siten.;POS;POS;FREUDE;LEX;Destino y disposición: 'hacia Munsalvaesche con disposición de alegría'. mit freude siten (con disposición de alegría) marca el estado emocional positivo del viaje.

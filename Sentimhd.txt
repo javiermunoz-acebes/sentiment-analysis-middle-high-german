@@ -1,0 +1,2109 @@
+__ manuell	__NO unflekt	Ursprungsform in FreqLi	NO-Form
+negativ	ach	ach;	ach;
+negativ	ache	ach;	ach;
+positiv	adel	adel;adels;adil;adele;	adel;adels;adel;adele;
+positiv	allerbezzeste	allerbeste;	allerbezzeste;
+positiv	allerbezzesten	allerbesten;	allerbezzesten;
+positiv	allerbezziste	allerbest;	allerbezziste;
+positiv	allerliebst	allerliebst;	allerliebst;
+negativ	angest	angesten;angsten;	angesten;angesten;
+negativ	angestbaere	angestbaere;	angestbaere;
+negativ	angestbaeren	angestbaeren;	angestbaeren;
+negativ	angestlich	angestlichen;angestlich;angestlicher;angestliche;engestlichen;	angestlichen;angestlich;angestlicher;angestliche;angestlichen;
+negativ	angestlîche	angestlîche;angestlîcher;	angestlîche;angestlîcher;
+negativ	angestlîchen	angestlîchen;	angestlîchen;
+negativ	arbaitt	arbaitt;	arbaitt;
+negativ	arbeit	arbeit;arbait;arbeiten;arbeite;arbeyt;arbaiten;arebeit	arbeit;arbeit;arbeiten;arbeite;arbeit;arbeiten;
+negativ	arc	argen;arge;arges;arc;arger;erger;arg;argem;	argen;arge;arges;arc;arger;arger;arc;argem;
+negativ	arg	argen;arge;arges;arc;arger;erger;arg;argem;	argen;arge;arges;arc;arger;arger;arc;argem;
+negativ	arcwan	arcwan;	arcwan;
+negativ	arcwân	arcwân;	arcwân;
+negativ	argwân	arcwân;	arcwân;
+negativ	arm	armen;arm;arme;armer;armez;armes;armiu;armin;	armen;arm;arme;armer;armez;armes;armiu;armen;
+negativ	armuete	armuete;	armuete;
+negativ	armüete	armüete;	armüete;
+negativ	armuot	armuot;armut;	armuot;armuot;
+negativ	armüete	armuot;armut;	armuot;armuot;
+negativ	armüt	armüt;	armüt;
+positiv	basz	basz;	basz;
+positiv	baz	baz;bas;baß;pas;paß;	baz;baz;baz;baz;baz;
+positiv	bazz	baz;bas;baß;pas;paß;	baz;baz;baz;baz;baz;
+positiv	behage	behagen;behage;behag;	behagen;behage;behage;
+positiv	behagen	behaget;behagt;behagte;	behaget;behagt;behagte;
+positiv	behagete	behagete;	behagete;
+positiv	behalde	behalde;	behalde;
+positiv	behalden	behalden;	behalden;
+positiv	behalten	behalten;behielt;behalt;behaltet;behielten;behalte;behielte;behaltent;behilt;beheltet;behaltest;	behalten;behielt;behalt;behaltet;behielten;behalte;behielte;behaltent;behielt;behalt;behaltest;
+positiv	behueet	behüt;	behueet;
+positiv	behueete	behuet;	behueete;
+positiv	behueeten	behuten;behuoten;behueten;	behueeten;behueeten;behueeten;
+positiv	behüet	behüet;	behüet;
+positiv	behuete	behuete;	behuete;
+positiv	behüeten	behüeten;behüete;behüetet;	behüeten;behüete;behüetet;
+positiv	behuot	behuot;behut;behuote;	behuot;behuot;behuote;
+positiv	behút	behút;	behút;
+positiv	beschirm	beschirmen;beschirme;	beschirmen;beschirme;
+positiv	beschirmen	beschirmet;	beschirmet;
+positiv	beschermen	beschirmet;	beschirmet;
+positiv	beßer	beßer;	beßer;
+positiv	bestan	bestan;	bestan;
+positiv	bestán	bestán;	bestán;
+positiv	bestân	bestân;bestên;	bestân;bestên;
+positiv	bestanden	bestanden;	bestanden;
+positiv	bestanten	bestanden;	bestanden;
+positiv	bestat	bestat;	bestat;
+positiv	bestât	bestât;	bestât;
+positiv	besten	bestet;	bestet;
+positiv	bester	bester;	bester;
+positiv	bestêt	bestêt;	bestêt;
+positiv	bestez	bestez;	bestez;
+positiv	bestiu	bestiu;	bestiu;
+negativ	beswaerde	beswaerde;	beswaerde;
+negativ	beswære	beswæren;	beswæren;
+negativ	beswaeren	beswaeren;	beswaeren;
+negativ	beswæren	beswârte;beswæret;	beswârte;beswæret;
+negativ	beswaeret	beswaeret;besweret;	beswaeret;beswaeret;
+negativ	beswâert	beswârt;	beswâert;
+negativ	beswert	beswert;	beswert;
+negativ	betriegen	betriegen;betrouc;betriuget;betrog;	betriegen;betrouc;betriuget;betrouc;
+negativ	betrogen	betrogen;bedrogen;	betrogen;betrogen;
+negativ	betrübet	betrübet;	betrübet;
+negativ	betrubniß	betrubniß;	betrubniß;
+negativ	betrübt	betrübt;	betrübt;
+negativ	betrüeben	betrüebet;betrüeben;	betrüebet;betrüeben;
+negativ	betrueebet	betrubet;betruebet;	betrueebet;betrueebet;
+negativ	betruobt	betrubt;	betruobt;
+negativ	betrupt	betrupt;	betrupt;
+positiv	bewære	bewæren;	bewæren;
+positiv	bewaere	bewaere;	bewaere;
+positiv	bewaeren	bewaeren;beweren;	bewaeren;bewaeren;
+positiv	bewaeret	bewaeret;	bewaeret;
+positiv	bewar	bewar;	bewar;
+positiv	beware	bewar;	bewar;
+positiv	bewaren	bewaren;	bewaren;
+positiv	bewarn	bewarn;bewarte;bewarten;beware;bewaret;	bewarn;bewarte;bewarten;beware;bewaret;
+positiv	bewaren	bewarn;bewarte;bewarten;beware;bewaret;	bewarn;bewarte;bewarten;beware;bewaret;
+negativ	beweinen	beweinen;beweinet;beweinte;	beweinen;beweinet;beweinte;
+positiv	bezzer	bezzer;besser;bezzern;pesser;bezzers;pezzer;beßern;bezer;bessern;pezzern;	bezzer;bezzer;bezzern;bezzer;bezzers;bezzer;bezzern;bezzer;bezzern;bezzern;
+positiv	bezzern	bezzert;gebezzert;	bezzert;gebezzert;
+positiv	bezzeren	bezzert;gebezzert;	bezzert;gebezzert;
+positiv	bezzerunge	bezzerunge;	bezzerunge;
+positiv	bezzerz	bessers;bezzerz;	bezzerz;bezzerz;
+positiv	bezziste	peste;	bezziste;
+positiv	bezzisten	pesten;bestin;	bezzisten;bezzisten;
+positiv	biderbe	biderbe;biderben;biderb;biderber;bederbe;	biderbe;biderben;biderbe;biderber;biderbe;
+positiv	billich	billich;billichen;pillich;pilleich;billicher;billiche;	billich;billichen;billich;billich;billicher;billiche;
+positiv	billîch	billîch;	billîch;
+positiv	billich	billîch;	billîch;
+positiv	billîche	billîche;billîcher;	billîche;billîcher;
+positiv	billîchen	billîchen;	billîchen;
+negativ	bitter	bitter;bittern;	bitter;bittern;
+negativ	bittere	bitter;bittern;	bitter;bittern;
+negativ	bitterkeit	bitterkeit;	bitterkeit;
+negativ	bitterlich	bitterlichen;bitterlich;bitterlicher;	bitterlichen;bitterlich;bitterlicher;
+negativ	bitterlîche	bitterlîche;bitterlîcher;	bitterlîche;bitterlîcher;
+negativ	bitterlîchen	bitterlîchen;	bitterlîchen;
+positiv	blanke	blanken;blanke;	blanken;blanke;
+positiv	blüemen	geblüemet;geblüemten;	geblüemet;geblüemten;
+positiv	blüende	blüende;	blüende;
+positiv	blüenden	blüenden;	blüenden;
+positiv	blüender	blüender;	blüender;
+positiv	blüet	blüet;	blüet;
+positiv	blum	blum;	blum;
+positiv	bluome	bluomen;blumen;bluome;bluemen;blume;pluomen;	bluomen;bluomen;bluome;bluomen;bluome;bluomen;
+negativ	bluot	bluot;bluote;blut;bluotes;blüete;plut;blute;pluet;blutes;bluoten;bloit;	bluot;bluote;bluot;bluotes;blüete;bluot;bluote;bluot;bluotes;bluoten;bluot;
+negativ	bluod	bluot;bluote;blut;bluotes;blüete;plut;blute;pluet;blutes;bluoten;bloit;	bluot;bluote;bluot;bluotes;blüete;bluot;bluote;bluot;bluotes;bluoten;bluot;
+negativ	blûot	blût;	blûot;
+negativ	bluotic	blutig;bluotic;	bluotic;bluotic;
+negativ	bluotigen	bluotigen;	bluotigen;
+negativ	bluotvar	bluotvar;	bluotvar;
+negativ	bluotvarw	bluotvar;	bluotvar;
+negativ	boese	boese;boes;boeß;	boese;boese;boese;
+negativ	boesem	boesem;	boesem;
+negativ	boesen	boesen;bösen;bosen;bosin;posen;poesen;	boesen;boesen;boesen;boesen;boesen;boesen;
+negativ	boeser	boeser;böser;boser;	boeser;boeser;boeser;
+negativ	boesewiht	boesewiht;	boesewiht;
+negativ	boesez	boesez;	boesez;
+negativ	boesiu	boesiu;	boesiu;
+negativ	boeste	boeste;	boeste;
+negativ	boesten	boesten;	boesten;
+negativ	bös	bös;	bös;
+negativ	bose	bose;	bose;
+negativ	böse	böse;	böse;
+negativ	bôsen	bôsen;bôse;	bôsen;bôse;
+negativ	bosheit	bosheit;boßheit;	bosheit;bosheit;
+negativ	bôsheit	bôsheit;	bôsheit;
+negativ	böß	böß;	böß;
+negativ	bößlich	bößlich;	bößlich;
+negativ	boszheit	boszheit;	boszheit;
+negativ	brest	bresten;breste;	bresten;breste;
+negativ	bresten	brast;gebrosten;	brast;gebrosten;
+positiv	brût	brût;briute;	brût;briute;
+negativ	büezen	büezen;bott;büeze;büezet;buozte;gebüezet;	büezen;buozte;büeze;büezet;buozte;gebüezet;
+positiv	christi	christi;xi;cristi;	christi;christi;christi;
+positiv	christo	christo;cristo;	christo;christo;
+positiv	christum	christum;cristum;	christum;christum;
+positiv	christus	christus;cristus;x;	christus;christus;christus;
+negativ	clag	clag;	clag;
+negativ	clagen	clagen;	clagen;
+negativ	clagete	clagete;	clagete;
+positiv	clar	clar;klar;	clar;clar;
+positiv	clâr	klâr;clâr;clâren;clâre;	clâr;clâr;clâren;clâre;
+positiv	clare	clare;	clare;
+positiv	claren	claren;	claren;
+positiv	clarheit	clarheit;	clarheit;
+positiv	clârheit	clârheit;	clârheit;
+positiv	danc	danc;dank;danch;denke;dang;	danc;danc;danc;denke;danc;
+positiv	dank	danc;dank;danch;denke;dang;	danc;danc;danc;denke;danc;
+positiv	danckten	danckten;	danckten;
+positiv	danct	danct;	danct;
+positiv	dancte	dancte;	dancte;
+positiv	dancten	dancten;dankten;	dancten;dancten;
+positiv	dank	danck;	dank;
+positiv	danken	danken;danke;dancken;danket;danchen;dankte;dankt;gedanket;dancket;	danken;danke;danken;danket;danken;dankte;danket;gedanket;danket;
+positiv	dankes	dankes;	dankes;
+positiv	dankete	danckt;dankete;dancht;danchte;	dankete;dankete;dankete;dankete;
+positiv	degen	degen;degene;degenen;degne;	degen;degene;degenen;degene;
+positiv	degenheit	degenheit;	degenheit;
+positiv	degn	degn;	degn;
+negativ	diep	diep;diebe;dieb;diebes;	diep;diebe;diep;diebes;
+negativ	dieb	diep;diebe;dieb;diebes;	diep;diebe;diep;diebes;
+positiv	drivaltekeit	drivaltekeit;	drivaltekeit;
+positiv	drivaltikeit	drivaltikeit;	drivaltikeit;
+negativ	dro	dro;	dro;
+negativ	drô	drô;	drô;
+negativ	dürre	dürre;dürren;	dürre;dürren;
+positiv	edel	edel;edele;edeln;edelen;edlen;edle;edels;edil;edeles;ediln;	edel;edele;edeln;edelen;edelen;edele;edeles;edel;edeles;edeln;
+positiv	edele	edel;edele;edeln;edelen;edlen;edle;edels;edil;edeles;ediln;	edel;edele;edeln;edelen;edelen;edele;edeles;edel;edeles;edeln;
+positiv	edelem	edelem;	edelem;
+positiv	edeler	edeler;edler;	edeler;edeler;
+positiv	edeliu	edeliu;	edeliu;
+positiv	edelkeit	edelkeit;	edelkeit;
+positiv	edell	edell;	edell;
+positiv	edelm	edelm;	edelm;
+positiv	edelsten	edelsten;	edelsten;
+positiv	edliu	edliu;	edliu;
+positiv	einic	eynich;einic;einig;eynig;	einic;einic;einic;einic;
+positiv	einig	eynich;einic;einig;eynig;	einic;einic;einic;einic;
+positiv	ellen	ellen;ellens;	ellen;ellens;
+positiv	ellent	ellen;ellens;	ellen;ellens;
+negativ	ellende	ellende;ellenden;ellend;ellender;ellendes;	ellende;ellenden;ellende;ellender;ellendes;
+negativ	ellente	ellende;ellenden;ellend;ellender;ellendes;	ellende;ellenden;ellende;ellender;ellendes;
+positiv	ellensriche	ellensreiche;	ellensriche;
+positiv	ellent	ellent;	ellent;
+positiv	ellenthaft	ellenthaften;ellenthaft;ellenthaftiu;	ellenthaften;ellenthaft;ellenthaftiu;
+positiv	ellenthafte	ellenthafter;ellenthafte;	ellenthafter;ellenthafte;
+positiv	ellentrîche	ellentrîcher;ellentrîchen;ellentrîche;	ellentrîcher;ellentrîchen;ellentrîche;
+positiv	engel	engel;engeln;engele;engels;engil;engelen;	engel;engeln;engele;engels;engel;engelen;
+negativ	entberen	enperen;	entberen;
+negativ	entbern	enpern;	entbern;
+negativ	entberen	enpern;	entbern;
+negativ	entbernte	enpernde;	entbernte;
+positiv	entriuwen	entriuwen;entriwen;entruwen;	entriuwen;entriuwen;entriuwen;
+positiv	enttriuwen	entriuwen;entriwen;entruwen;	entriuwen;entriuwen;entriuwen;
+positiv	erbarme	erbarme;erbarm;	erbarme;erbarme;
+positiv	erbarmen	erbarmen;erbarmet;erbarmte;erbarmt;	erbarmen;erbarmet;erbarmte;erbarmt;
+positiv	erbarmete	erbarmete;	erbarmete;
+positiv	erbarmunge	erbarmunge;	erbarmunge;
+positiv	erbermde	erbermde;	erbermde;
+positiv	erbermeclichen	erbermeclichen;	erbermeclichen;
+positiv	êre	êre;êren;êrn;êrîn;	êre;êren;êrn;êre;
+positiv	êren	êrte;geêret;êrt;êrten;êrent;geêrt;	êrte;geêret;êrt;êrten;êrent;geêret;
+positiv	erent	erent;	erent;
+positiv	erlich	erlich;	erlich;
+positiv	êrlich	êrlich;	êrlich;
+positiv	erlichen	erlichen;	erlichen;
+negativ	erlîden	erliten;erlitten;erleit;erlîden;	erliten;erliten;erleit;erlîden;
+positiv	erliuhten	erlûhte;erliuhtet;	erlûhte;erliuhtet;
+positiv	erloesen	erloesen;	erloesen;
+positiv	erloeset	erloeset;	erloeset;
+positiv	erlösen	erlösen;	erlösen;
+positiv	erloset	erlost;	erloset;
+positiv	erlôset	erlôst;	erlôset;
+positiv	erlöset	erlöset;	erlöset;
+positiv	erloßt	erloßt;	erloßt;
+positiv	erlößt	erlößt;	erlößt;
+positiv	erlost	erloest;	erlost;
+positiv	erlöst	erlöst;	erlöst;
+positiv	erloste	erloste;	erloste;
+positiv	erlôste	erlôste;	erlôste;
+negativ	ermorden	ermordet;	ermordet;
+negativ	ermort	ermort;	ermort;
+negativ	errechen	errochen;	errochen;
+negativ	erschrecken	erschrecken;erschrecket;	erschrecken;erschrecket;
+negativ	erslahen	erslagen;erschlagen;ersluoc;irslagen;ersluogen;irslagin;erslahen;	erslagen;erslagen;ersluoc;erslagen;ersluogen;erslagen;erslahen;
+negativ	ersterben	ersterben;erstorben;erstarp;ersterbet;erstirbet;erstarb;ersterbe;	ersterben;erstorben;erstarp;ersterbet;erstirbet;erstarp;ersterbe;
+positiv	erwirdigen	erwirdigen;	erwirdigen;
+negativ	erzuernet	erzurnet;	erzuernet;
+negativ	erzürnen	erzürnet;	erzürnet;
+positiv	ewic	ewig;ewic;	ewic;ewic;
+positiv	êwic	êwigen;êwige;êwic;	êwigen;êwige;êwic;
+positiv	êwig	êwigen;êwige;êwic;	êwigen;êwige;êwic;
+positiv	êwige	êwigen;êwige;êwic;	êwigen;êwige;êwic;
+positiv	ewicheit	ewikeit;	ewicheit;
+positiv	ewichleichen	ewichleichen;	ewichleichen;
+positiv	ewiclich	ewiger;	ewiclich;
+positiv	êwiclich	êwiger;	êwiclich;
+positiv	êwiglich	êwiger;	êwiclich;
+positiv	ewicliche	ewiclich;ewichleich;eweklich;ewiglich;	ewicliche;ewicliche;ewicliche;ewicliche;
+positiv	êwiclîche	êwiclîche;êweclîche;	êwiclîche;êwiclîche;
+positiv	ewiclichen	ewiclichen;eweclichen;	ewiclichen;ewiclichen;
+positiv	êwiclichen	êweclichen;	êwiclichen;
+positiv	êwiclîchen	êwiclîchen;	êwiclîchen;
+positiv	ewige	ewige;	ewige;
+positiv	ewigen	ewigen;ewigin;	ewigen;ewigen;
+positiv	ewiges	ewigs;	ewiges;
+positiv	ewigklich	ewigklich;	ewigklich;
+negativ	fliehen	fliehen;	fliehen;
+positiv	fliz	fliz;	fliz;
+positiv	flîz	flîz;	flîz;
+positiv	flîzeclîche	flîzeclîche;	flîzeclîche;
+positiv	flîziclich	flîziclich;	flîziclich;
+negativ	fluhen	fluhen;	fluhen;
+negativ	fluht	fluht;	fluht;
+negativ	flühte	flühte;	flühte;
+negativ	fluoch	fluoch;	fluoch;
+negativ	fluochen	fluochen;	fluochen;
+negativ	flust	flust;	flust;
+negativ	forchten	forchten;	forchten;
+negativ	forchtet	forchtet;	forchtet;
+negativ	forht	forht;	forht;
+negativ	forhte	forhte;	forhte;
+negativ	forhten	forhten;	forhten;
+negativ	freise	freise;	freise;
+negativ	freisen	freisen;	freisen;
+negativ	freislich	freislich;	freislich;
+negativ	freislîch	freislîch;	freislîch;
+negativ	freislîche	freislîche;	freislîche;
+positiv	freud	freud;	freud;
+positiv	freude	freude;	freude;
+positiv	freuden	freuden;fröden;	freuden;freuden;
+positiv	freut	freut;	freut;
+positiv	freute	freute;	freute;
+positiv	freuten	freuten;	freuten;
+positiv	frewen	frewen;	frewen;
+positiv	frewnt	frewnt;	frewnt;
+positiv	freye	freye;	freye;
+positiv	fri	fri;	fri;
+positiv	frî	frî;	frî;
+positiv	fride	fride;	fride;
+positiv	frides	frides;	frides;
+positiv	frie	frie;	frie;
+positiv	frîe	frîe;	frîe;
+positiv	frien	frien;	frien;
+positiv	frîen	frîen;	frîen;
+positiv	friende	friende;	friende;
+positiv	frîer	frîer;	frîer;
+positiv	frisch	frisch;	frisch;
+positiv	friunde	friunde;	friunde;
+positiv	friunden	friunden;	friunden;
+positiv	friundes	friundes;	friundes;
+positiv	friundîn	friundîn;	friundîn;
+positiv	friunt	friunt;	friunt;
+positiv	friuntlîche	friuntlîche;	friuntlîche;
+positiv	friuntschaft	friuntschaft;	friuntschaft;
+positiv	frö	frö;	frö;
+positiv	fröd	fröd;	fröd;
+positiv	fröide	fröide;	fröide;
+positiv	fröiden	fröiden;	fröiden;
+positiv	fröit	fröit;	fröit;
+positiv	frôlich	frôlich;	frôlich;
+positiv	frôlîche	frôlîche;	frôlîche;
+positiv	frölichen	frölichen;	frölichen;
+positiv	fröud	fröud;	fröud;
+positiv	fröude	fröude;	fröude;
+positiv	fröuden	fröuden;	fröuden;
+positiv	fröut	fröut;	fröut;
+positiv	fröute	fröute;	fröute;
+positiv	fröuten	fröuten;	fröuten;
+positiv	fröuwe	fröuwe;	fröuwe;
+positiv	fröuwen	fröuwen;	fröuwen;
+positiv	fröuwet	fröuwet;	fröuwet;
+positiv	frum	frum;	frum;
+positiv	frümcheit	frümcheit;	frümcheit;
+positiv	frümekeit	frümekeit;	frümekeit;
+positiv	frumer	frumer;	frumer;
+positiv	frumikeit	frumikeit;	frumikeit;
+positiv	frümkeit	frümkeit;	frümkeit;
+positiv	frumme	frumme;	frumme;
+positiv	frummen	frummen;	frummen;
+positiv	frumt	frumt;	frumt;
+positiv	frumte	frumte;	frumte;
+positiv	frumten	frumten;	frumten;
+positiv	frünt	frünt;	frünt;
+positiv	früntlich	früntlich;	früntlich;
+positiv	fruntlichen	fruntlichen;	fruntlichen;
+positiv	fruntschafft	fruntschafft;	fruntschafft;
+positiv	ganzer	ganzer;gantzer;ganczer;	ganzer;ganzer;ganzer;
+positiv	ganzære	ganzer;gantzer;ganczer;	ganzer;ganzer;ganzer;
+positiv	gehoehet	gehoehet;	gehoehet;
+positiv	geil	geil;gail;geile;	geil;geil;geile;
+positiv	geile	geil;gail;geile;	geil;geil;geile;
+positiv	gekroenet	gekroenet;	gekroenet;
+positiv	gekronet	gekronet;	gekronet;
+positiv	gekrônet	gekrônet;	gekrônet;
+positiv	gelert	gelert;	gelert;
+positiv	gelerten	gelerten;	gelerten;
+negativ	gelitten	gelitten;geliden;	gelitten;gelitten;
+negativ	gelîtten	gelîden;	gelîtten;
+positiv	geloben	geloub;gelobe;	gelobe;gelobe;
+positiv	gelonet	gelonet;	gelonet;
+positiv	gelücke	gelücke;gelückes;	gelücke;gelückes;
+positiv	geluecke	gelucke;glück;gelück;geluck;glucke;	geluecke;geluecke;geluecke;geluecke;geluecke;
+positiv	gelueckes	geluckes;	gelueckes;
+positiv	gelük	gelük;	gelük;
+positiv	gemeit	gemeit;gemait;	gemeit;gemeit;
+positiv	genade	gnade;genade;gnâde;gnad;genad;gnâd;genat;	genade;genade;genade;genade;genade;genade;genade;
+positiv	genâde	genâde;genâden;genâd;genât;	genâde;genâden;genâde;genâde;
+positiv	genaden	genaden;gnadin;gnadon;	genaden;genaden;genaden;
+positiv	genadet	genadet;	genadet;
+positiv	genaedeclîche	genaedeclîche;	genaedeclîche;
+positiv	genaedic	genaedic;gnedig;genedig;	genaedic;genaedic;genaedic;
+positiv	genædic	genædic;	genædic;
+positiv	genædicliche	genædiclich;	genædicliche;
+positiv	genesen	genesen;genas;genese;genesin;geniset;	genesen;genas;genese;genesen;geniset;
+positiv	genesn	genesn;	genesn;
+positiv	geniez	geniezen;geniessen;geniez;geniezzen;genieze;	geniezen;geniezen;geniez;geniezen;genieze;
+positiv	genôz	genôz;genôzen;genôze;	genôz;genôzen;genôze;
+positiv	genôze	genôz;genôzen;genôze;	genôz;genôzen;genôze;
+positiv	gepriset	gepriset;	gepriset;
+negativ	gerechen	gerichet;gerach;gerechent;	gerichet;gerach;gerechent;
+positiv	gerehte	gerechten;gerehten;	gerehten;gerehten;
+positiv	gerehticheit	gerechtikeit;gerehtekeit;	gerehticheit;gerehticheit;
+positiv	gerehtikeit	gerehtikeit;	gerehtikeit;
+positiv	gerne	gerne;gerner;gernest;	gerne;gerner;gernest;
+positiv	gesange	gesange;	gesange;
+positiv	gesanges	gesanges;	gesanges;
+positiv	gesunt	gesunt;gesunden;gesunde;gesvnt;	gesunt;gesunden;gesunde;gesunt;
+positiv	getar	getar;getorste;getorst;getorsten;getörste;getürre;geturren;	getar;getorste;getorst;getorsten;getörste;getürre;geturren;
+positiv	getriulich	getriulich;	getriulich;
+positiv	getriuwe	getriuwe;getriuwen;getriuwer;getriu;getrewen;getruwer;getrew;getriuwes;getriuwez;	getriuwe;getriuwen;getriuwer;getriuwe;getriuwen;getriuwer;getriuwer;getriuwes;getriuwez;
+positiv	getriuwelich	getriuwelîche;	getriuwelîche;
+positiv	getriuweliche	getruwelich;	getriuweliche;
+positiv	getriwe	getriwe;	getriwe;
+positiv	getriwen	getriwen;	getriwen;
+positiv	getriwer	getriwer;	getriwer;
+positiv	getroesten	getroesten;	getroesten;
+positiv	getrœsten	getrôste;	getrôste;
+positiv	getroestet	getroestet;	getroestet;
+positiv	getruw	getruw;	getruw;
+positiv	getruwe	getruwe;getrowe;	getruwe;getruwe;
+positiv	getrúwe	getrúwe;	getrúwe;
+positiv	getrûwe	getrouwe;	getrouwe;
+positiv	getruwen	getruwen;getrouwen;getrowen;getrawen;	getruwen;getruwen;getruwen;getruwen;
+positiv	getrûwen	getrûwen;	getrûwen;
+positiv	getruwet	getruwet;	getruwet;
+negativ	geuneret	geuneret;	geuneret;
+positiv	gevüege	gevüegen;gevüege;	gevüegen;gevüege;
+positiv	gewin	gewinnen;gewin;gewinne;gewann;gewynnen;gwin;gewinnes;gwinnen;gwinne;	gewinnen;gewin;gewinne;gewinnen;gewinnen;gewinne;gewinnes;gewinnen;gewinne;
+positiv	gewinn	gewinnen;gewin;gewinne;gewann;gewynnen;gwin;gewinnes;gwinnen;gwinne;	gewinnen;gewin;gewinne;gewinnen;gewinnen;gewinne;gewinnes;gewinnen;gewinne;
+positiv	gewinnen	gewan;gewinnet;gwan;gewinnent;gewünne;gewinnest;gewinn;gwinnet;	gewan;gewinnet;gewan;gewinnent;gewünne;gewinnest;gewinn;gewinnet;
+positiv	gezaeme	gezaeme;	gezaeme;
+positiv	gezæme	gezæme;	gezæme;
+positiv	gezem	gezem;	gezem;
+positiv	gezemen	gezam;gezemen;gezeme;gezimt;gezimet;gezemende;	gezam;gezemen;gezeme;gezimt;gezimet;gezemende;
+positiv	gezierde	gezierde;gezirde;	gezierde;gezierde;
+positiv	gezierede	gezierde;gezirde;	gezierde;gezierde;
+positiv	geziere	geziere;	geziere;
+positiv	gezieren	gezieret;geziert;geziret;gezierten;gecieret;	gezieret;geziert;gezieret;gezierten;gezieret;
+positiv	gezierett	gezierett;	gezierett;
+positiv	gezogenliche	gezogenliche;	gezogenliche;
+positiv	gezogenlîche	gezogenlîche;	gezogenlîche;
+positiv	gezogenlichen	gezogenlichen;	gezogenlichen;
+positiv	gezogenlîchen	gezogenlîchen;	gezogenlîchen;
+negativ	gîsel	gîsel;	gîsel;
+positiv	gleste	glesten;gleste;	glesten;gleste;
+positiv	gnâde	gnâden;	gnâden;
+positiv	gnaden	gnaden;	gnaden;
+positiv	gnadet	gnadet;	gnadet;
+positiv	golt	golt;gold;	golt;golt;
+positiv	gold	golt;gold;	golt;golt;
+positiv	goltvar	goltvar;	goltvar;
+positiv	goldvarw	goltvar;	goltvar;
+positiv	goltvaz	goltvaz;	goltvaz;
+positiv	goldvazz	goltvaz;	goltvaz;
+positiv	got	got;gotes;gote;gott;gottes;gots;gotte;goten;gotez;goet;gode;god;gotis;godis;gotz;godes;gottis;	got;gotes;gote;got;gotes;gots;gote;goten;gotes;gote;gote;got;gotes;gotes;gotes;gotes;gotes;
+positiv	göt	göt;	göt;
+positiv	gote	göte;göten;	göte;göten;
+positiv	gotelich	gotlich;gotliche;goetlichen;gotlîche;goetlich;	gotelich;goteliche;gotelichen;goteliche;gotelich;
+positiv	goteshûs	goteshûs;goteshûse;goteshûses;	goteshûs;goteshûse;goteshûses;
+positiv	goteshuse	gotshaus;gotzhaus;	goteshuse;goteshuse;
+positiv	gotheit	gotheit;	gotheit;
+positiv	götlich	götlich;	götlich;
+positiv	gotlichen	gotlichen;	gotlichen;
+positiv	gotlîchen	gotlîchen;	gotlîchen;
+positiv	gôtlichen	gôtlichen;	gôtlichen;
+positiv	götlichen	götlichen;	götlichen;
+positiv	götlîchen	götlîchen;	götlîchen;
+positiv	gotlicher	gotlicher;	gotlicher;
+positiv	gotlîcher	gotlîcher;	gotlîcher;
+positiv	götlicher	götlicher;	götlicher;
+positiv	gotshauss	gotshauss;	gotshauss;
+positiv	gotshavs	gotshavs;	gotshavs;
+negativ	grim	grimmen;grimmes;grimen;grime;grim;	grimmen;grimmes;grimen;grime;grim;
+negativ	grimm	grimmen;grimmes;grimen;grime;grim;	grimmen;grimmes;grimen;grime;grim;
+negativ	grimme	grimmen;grimmes;grimen;grime;grim;	grimmen;grimmes;grimen;grime;grim;
+negativ	grimme	grimme;grimmer;grimmez;grimmem;	grimme;grimmer;grimmez;grimmem;
+negativ	grimmeclich	grimmeclichen;grimmeclîchen;grimmeclich;	grimmeclichen;grimmeclîchen;grimmeclich;
+negativ	grimmiglich	grimmeclichen;grimmeclîchen;grimmeclich;	grimmeclichen;grimmeclîchen;grimmeclich;
+negativ	grimmic	grimmic;	grimmic;
+negativ	grimmigem	grimmigem;	grimmigem;
+negativ	grimmigen	grimmigen;	grimmigen;
+positiv	groeste	groeste;	groeste;
+positiv	groesten	groesten;	groesten;
+positiv	groeze	groeze;	groeze;
+positiv	groezer	groezer;	groezer;
+positiv	groezern	groezern;	groezern;
+positiv	groezlîche	groezlîche;	groezlîche;
+positiv	grösser	grösser;	grösser;
+positiv	größer	größer;	größer;
+positiv	grosseu	grosseu;	grosseu;
+positiv	grozem	grossem;großem;grozem;grozzem;groszem;	grozem;grozem;grozem;grozem;grozem;
+positiv	grozen	großen;grozen;grossen;grozzen;groszen;groissen;grosen;	grozen;grozen;grozen;grozen;grozen;grozen;grozen;
+positiv	grozer	grozer;grosser;großer;grozzer;grozz;groszer;groesser;	grozer;grozer;grozer;grozer;grozer;grozer;grozer;
+positiv	grozes	grosses;grozes;	grozes;grozes;
+positiv	grozestez	grost;	grozestez;
+positiv	groziu	groziu;groziv;	groziu;groziu;
+positiv	grôzlich	grôzlich;grôzlîche;	grôzlich;grôzlîche;
+positiv	grozliche	grozliche;	grozliche;
+positiv	grozlichen	groezlîchen;grozlichen;	grozlichen;grozlichen;
+positiv	grueeze	grueze;	grueeze;
+positiv	grueezen	gruezen;gruezzen;	grueezen;grueezen;
+positiv	gruoz	gruoz;grüezen;gruoze;grüeze;gruozes;gruozen;	gruoz;grüezen;gruoze;grüeze;gruozes;gruozen;
+positiv	gruozt	grußt;gruozt;	gruozt;gruozt;
+positiv	gruß	gruß;	gruß;
+positiv	grüss	grüss;	grüss;
+positiv	gueete	guet;guete;güt;gueti;guede;	gueete;gueete;gueete;gueete;gueete;
+positiv	guete	guett;gvte;gvete;	guete;guete;guete;
+positiv	güete	güete;güeten;	güete;güeten;
+positiv	guetleichem	guetleichem;	guetleichem;
+positiv	guetleichen	guetleichen;	guetleichen;
+positiv	güetlich	güetlîch;güetlich;güetlichen;	güetlîch;güetlich;güetlichen;
+positiv	güetlîche	güetlîche;	güetlîche;
+positiv	guetlichen	guetlichen;	guetlichen;
+positiv	güetlîchen	güetlîchen;	güetlîchen;
+positiv	guette	guette;	guette;
+positiv	guetten	guetten;	guetten;
+positiv	gunst	gunst;günste;gunste;	gunst;günste;gunste;
+positiv	guot	guot;guote;gut;guoten;guotes;guoter;guten;gute;gutes;guotem;guter;guotiu;gvt;gueten;gutem;gueter;guts;goit;guetem;guots;gud;gvot;gvten;goter;gude;guden;guotez;guets;gvote;gvet;guetz;gvoten;gutin;	guot;guote;guot;guoten;guotes;guoter;guoten;guote;guotes;guotem;guoter;guotiu;guot;guoten;guotem;guoter;guotes;guot;guotem;guots;guot;guot;guoten;guoter;guote;guoten;guotez;guotes;guote;guot;guotes;guoten;guoten;
+positiv	gûot	gût;	gûot;
+positiv	guotæte	guotæte;	guotæte;
+positiv	gûote	gûte;	gûote;
+positiv	gûoten	gûten;	gûoten;
+positiv	gûotes	gûtes;	gûotes;
+positiv	guotlich	gutlich;guotlich;guotlichen;gutlichen;guetlich;	guotliche;guotlich;guotlichen;guotlichen;guotliche;
+positiv	guotlîche	guotlîche;	guotlîche;
+positiv	guottât	guottât;	guottât;
+positiv	guotten	guotten;	guotten;
+positiv	guotter	guotter;	guotter;
+positiv	gút	gút;	gút;
+positiv	güte	güte;	güte;
+positiv	gúten	gúten;	gúten;
+positiv	güten	güten;	güten;
+positiv	gütlich	gütlich;	gütlich;
+positiv	gutt	gutt;	gutt;
+positiv	gütt	gütt;	gütt;
+positiv	gutte	gutte;	gutte;
+positiv	gütte	gütte;	gütte;
+positiv	gutten	gutten;	gutten;
+positiv	gütten	gütten;	gütten;
+positiv	gutter	gutter;	gutter;
+positiv	gütter	gütter;	gütter;
+positiv	gutz	gutz;	gutz;
+negativ	haz	haz;has;hass;haß;hazzen;hazze;hazzes;hassen;hasse;	haz;haz;hazze;haz;hazzen;hazze;hazzes;hazzen;hazze;
+negativ	hazz	haz;has;hass;haß;hazzen;hazze;hazzes;hassen;hasse;	haz;haz;hazze;haz;hazzen;hazze;hazzes;hazzen;hazze;
+negativ	hâz	hâs;	hâz;
+negativ	hazzen	hazzet;hazzent;	hazzet;hazzent;
+negativ	heide	heiden;heide;haide;hayden;heyde;	heiden;heide;heide;heiden;heide;
+negativ	heiden	haiden;heyden;heidin;	heidene;heidene;heidene;
+negativ	heidenîn	heidenîn;	heidenîn;
+negativ	heidenisch	heidenischen;heidenischer;heidenische;heidensche;heidenisch;	heidenischen;heidenischer;heidenische;heidenische;heidenisch;
+negativ	heidensch	heidensch;heidenschen;	heidensch;heidenschen;
+negativ	heidenschaft	heidenschaft;heidenshaft;haidenschaft;	heidenschaft;heidenschaft;heidenschaft;
+negativ	heidenschefte	heidenschefte;	heidenschefte;
+negativ	heidentuom	heidentuom;	heidentuom;
+positiv	heil	heil;hail;heile;heilen;heyl;haile;	heil;heil;heile;heilen;heil;heile;
+positiv	heilant	heilant;hailant;	heilant;heilant;
+positiv	heilec	heilegen;heilege;	heilegen;heilege;
+positiv	heilig	heilegen;heilege;	heilegen;heilege;
+positiv	heilige	heilegen;heilege;	heilegen;heilege;
+positiv	heilen	geheilet;heilet;heilt;	geheilet;heilet;heilt;
+positiv	heiles	heiles;hailes;	heiles;heiles;
+positiv	heilic	heilig;heilic;helig;hailig;heilich;	heilic;heilic;heilic;heilic;heilic;
+positiv	heilichait	heilichait;	heilichait;
+positiv	heilicheit	heilicheit;	heilicheit;
+positiv	heilige	heiligen;heilige;heligen;hailigen;heyligen;hailige;heilgen;helige;heiligin;hailgen;heilge;	heiligen;heilige;heiligen;heiligen;heiligen;heilige;heiligen;heilige;heiligen;heiligen;heilige;
+positiv	heiliger	heiliger;heliger;hailiger;	heiliger;heiliger;heiliger;
+positiv	heiligære	heiliger;heliger;hailiger;	heiliger;heiliger;heiliger;
+positiv	heiligez	heiligez;	heiligez;
+positiv	heiligiu	heiligiu;	heiligiu;
+positiv	heilikeit	heilikeit;	heilikeit;
+positiv	heiltuom	heiltuom;	heiltuom;
+positiv	held	held;	held;
+positiv	helde	helde;	helde;
+positiv	helfaere	helfaere;	helfaere;
+positiv	helfe	helfe;helfen;helffen;helffe;helpen;hilffe;helpe;	helfe;helfen;helfen;helfe;helfen;helfe;helfe;
+positiv	hülfe	helfe;helfen;helffen;helffe;helpen;hilffe;helpe;	helfe;helfen;helfen;helfe;helfen;helfe;helfe;
+positiv	helfelich	helflich;	helfelich;
+positiv	helfelîche	helflich;	helfelich;
+positiv	hülfelich	helflich;	helfelich;
+positiv	helfen	hilf;half;hilff;hilfet;hulfen;helfet;hilft;helfent;hilfft;hülfe;helft;hylf;helfest;	hilf;half;hilf;hilfet;hulfen;helfet;hilft;helfent;hilfet;hülfe;helft;hilf;helfest;
+positiv	helfer	helfer;	helfer;
+positiv	helferîche	helferîch;	helferîche;
+positiv	helff	helff;	helff;
+positiv	helffent	helffent;	helffent;
+positiv	helikeit	helikeit;	helikeit;
+negativ	helle	helle;hellen;hellem;	helle;hellen;hellem;
+positiv	helt	helt;helden;heldes;helld;hellden;	helt;helden;heldes;helt;helden;
+positiv	heled	helt;helden;heldes;helld;hellden;	helt;helden;heldes;helt;helden;
+negativ	henken	henken;hencken;gehenket;	henken;henken;gehenket;
+positiv	herleich	herleich;	herleich;
+positiv	herlich	herlich;	herlich;
+positiv	herelich	herlich;	herlich;
+positiv	hêrlich	hêrlîchen;hêrlîch;hêrlich;	hêrlîchen;hêrlîch;hêrlich;
+positiv	herliche	herliche;	herliche;
+positiv	hêrlîche	hêrlîche;hêrlîcher;	hêrlîche;hêrlîcher;
+positiv	herlichen	herlichen;	herlichen;
+positiv	herlicher	herlicher;	herlicher;
+positiv	herzeclich	herzeclicher;herzeclichen;	herzeclicher;herzeclichen;
+positiv	herziglich	herzeclicher;herzeclichen;	herzeclicher;herzeclichen;
+positiv	herzeclîche	herzeclîche;herzeclîcher;	herzeclîche;herzeclîcher;
+positiv	herzeclîchen	herzeclîchen;	herzeclîchen;
+negativ	herzeleit	herzeleit;herzeleide;herzeleides;	herzeleit;herzeleide;herzeleides;
+negativ	herzenleid	herzeleit;herzeleide;herzeleides;	herzeleit;herzeleide;herzeleides;
+positiv	herzeliep	herzeliebe;herzelieber;herzeliep;	herzeliebe;herzelieber;herzeliep;
+positiv	herzenlieb	herzeliebe;herzelieber;herzeliep;	herzeliebe;herzelieber;herzeliep;
+negativ	herzeloide	herzeloide;	herzeloide;
+negativ	herzenleide	herzenleide;	herzenleide;
+negativ	herzenleit	herzenleit;	herzenleit;
+positiv	herzenlich	herzenlichen;herzenlicher;	herzenlichen;herzenlicher;
+positiv	herzenlîche	herzenlîche;	herzenlîche;
+positiv	herzenlîchen	herzenlîchen;	herzenlîchen;
+positiv	herzenliebe	herzenliebe;	herzenliebe;
+positiv	herzenlieben	herzenlieben;	herzenlieben;
+negativ	herzensêr	herzensêr;	herzensêr;
+negativ	herzensêre	herzensêre;	herzensêre;
+negativ	herzenswaere	herzenswaere;	herzenswaere;
+negativ	herzesêr	herzesêr;	herzesêr;
+negativ	herzensêr	herzesêr;	herzesêr;
+negativ	herzensêre	herzesêr;	herzesêr;
+negativ	herzesêre	herzesêre;	herzesêre;
+positiv	himel	himel;himele;himels;hymel;himmel;himile;hymels;himil;	himel;himele;himels;himel;himel;himele;himels;himel;
+positiv	himelisch	himelischen;himelschen;himelische;himelsche;himilisken;himiliske;himelisch;	himelischen;himelischen;himelische;himelische;himelischen;himelische;himelisch;
+positiv	himelriche	himelriche;himelrich;himelreich;hymelrich;himmelrich;himilriche;	himelriche;himelriche;himelriche;himelriche;himelriche;himelriche;
+positiv	himelrîche	himelrîche;himelrîch;himelrîches;	himelrîche;himelrîche;himelrîches;
+positiv	himlisch	himlisch;	himlisch;
+positiv	himmelriche	himmelriche;	himmelriche;
+positiv	himmelschen	himmelschen;	himmelschen;
+positiv	hoch	hoch;	hoch;
+positiv	hôch	hôch;	hôch;
+positiv	hôh	hôch;	hôch;
+positiv	hochgeboren	hochgeborn;	hochgeboren;
+positiv	hôchgeboren	hôchgeborn;	hôchgeboren;
+positiv	hochgeborene	hochgeborne;	hochgeborene;
+positiv	hôchgeborene	hôchgeborne;	hôchgeborene;
+positiv	hôchgeborenen	hôchgebornen;	hôchgeborenen;
+positiv	hôchgelobet	hôchgelobte;	hôchgelobete;
+positiv	hôhgelobet	hôchgelobte;	hôchgelobete;
+positiv	hochgelobeten	hochgelobten;	hochgelobeten;
+positiv	hochgemüete	hochgemüete;	hochgemüete;
+positiv	hôchgemüete	hôchgemüete;	hôchgemüete;
+positiv	hôhgemüete	hôchgemüete;	hôchgemüete;
+positiv	hochgemuot	hochgemuot;	hochgemuot;
+positiv	hôchgemuot	hôchgemuot;hôchgemuote;hôchgemuoten;hôhgemuot;	hôchgemuot;hôchgemuote;hôchgemuoten;hôchgemuot;
+positiv	hôhgemuot	hôchgemuot;hôchgemuote;hôchgemuoten;hôhgemuot;	hôchgemuot;hôchgemuote;hôchgemuoten;hôchgemuot;
+positiv	hochgemuoten	hochgemuoten;	hochgemuoten;
+positiv	hôchgenant	hôchgenant;	hôchgenant;
+positiv	hochgezit	hochgezit;	hochgezit;
+positiv	hochgezite	hochgezite;	hochgezite;
+positiv	hôchgezîte	hôchgezîte;	hôchgezîte;
+positiv	hochste	hochste;	hochste;
+positiv	höchster	höchster;	höchster;
+negativ	hochvart	hoffart;hochfart;hochvart;hohfart;hohvart;	hochvart;hochvart;hochvart;hochvart;hochvart;
+negativ	hôchvart	hôchvart;hôchfart;hôhvart;	hôchvart;hôchvart;hôchvart;
+negativ	hôhvart	hôchvart;hôchfart;hôhvart;	hôchvart;hôchvart;hôchvart;
+positiv	hochzit	hochzeit;hochzit;	hochzit;hochzit;
+positiv	hôchzît	hôchzît;hôchgezît;	hôchzît;hôchgezît;
+positiv	hôhgezît	hôchzît;hôchgezît;	hôchzît;hôchgezît;
+positiv	hôhzît	hôchzît;hôchgezît;	hôchzît;hôchgezît;
+positiv	hôchzîten	hôchzîten;	hôchzîten;
+positiv	hôhzîten	hôchzîten;	hôchzîten;
+positiv	hoechsten	hochsten;höchsten;	hoechsten;hoechsten;
+positiv	hoehe	hoehe;hoe;	hoehe;hoehe;
+positiv	hoehen	hoehen;	hoehen;
+positiv	hoeher	hoher;hoeher;	hoeher;hoeher;
+positiv	hoehære	hoher;hoeher;	hoeher;hoeher;
+positiv	hoehet	hoehet;	hoehet;
+positiv	hoehin	hoehin;	hoehin;
+positiv	hoehste	hoehste;	hoehste;
+positiv	hoehsten	hoehsten;	hoehsten;
+positiv	hoesten	hoesten;	hoesten;
+positiv	hoevesche	hübsche;	hoevesche;
+positiv	hoevescheit	hübscheit;	hoevescheit;
+positiv	hoeveschen	hübschen;	hoeveschen;
+positiv	hoevescher	hubscher;	hoevescher;
+positiv	hoevisch	hubsch;	hoevisch;
+positiv	hoevischen	hubschen;	hoevischen;
+positiv	höfsch	höfsche;höfsch;höfscher;	höfsche;höfsch;höfscher;
+positiv	hoh	hoh;	hoh;
+positiv	hôh	hôh;	hôh;
+positiv	hohe	hohe;	hohe;
+positiv	hôhe	hôher;hôhe;	hôher;hôhe;
+positiv	höhe	höhe;	höhe;
+positiv	höhe	höhe;	höhe;
+positiv	hohem	hohem;	hohem;
+positiv	hôhem	hôhem;	hôhem;
+positiv	hohen	hohen;hoen;	hohen;hohen;
+positiv	hôhen	hôhen;	hôhen;
+positiv	hoher	hoeh;	hoher;
+positiv	höher	höher;	höher;
+positiv	hohes	hohes;	hohes;
+positiv	hôhes	hôhes;	hôhes;
+positiv	hoheste	hoeste;	hoheste;
+positiv	hoheste	hoeste;	hoheste;
+positiv	hôhesten	hôhisten;	hôhesten;
+positiv	hôhesten	hôhisten;	hôhesten;
+positiv	hohez	hohez;	hohez;
+positiv	hôhez	hôhez;	hôhez;
+positiv	hôhgemüete	hôhgemüete;	hôhgemüete;
+positiv	hohgezit	hohgezit;	hohgezit;
+positiv	hôhgezît	hôhgezît;	hôhgezît;
+positiv	hôhgezîte	hôhgezîte;	hôhgezîte;
+positiv	hôhste	hôhste;	hôhste;
+positiv	hohsten	hohsten;	hohsten;
+positiv	hôhsten	hôhsten;	hôhsten;
+positiv	höhsten	höhsten;	höhsten;
+positiv	hohzit	hohzit;	hohzit;
+positiv	hôhzît	hôhzît;	hôhzît;
+positiv	holdez	holdez;	holdez;
+positiv	holt	holt;hold;holte;	holt;holt;holte;
+positiv	hold	holt;hold;holte;	holt;holt;holte;
+positiv	hübesch	hübesch;	hübesch;
+positiv	hübesche	hübesche;	hübesche;
+positiv	hübische	hübesche;	hübesche;
+positiv	hübsch	hübsch;	hübsch;
+positiv	hubscheit	hubscheit;	hubscheit;
+positiv	hübscher	hübscher;	hübscher;
+positiv	hueeten	huten;huoten;hueten;hüten;	hueeten;hueeten;hueeten;hueeten;
+positiv	hüet	hüet;	hüet;
+positiv	hüeten	hüetet;hüetent;	hüetet;hüetent;
+positiv	huetet	hut;hutt;	huetet;huetet;
+positiv	hûetet	hût;	hûetet;
+positiv	huetten	hutten;	huetten;
+positiv	hulde	hulde;hulden;holden;huld;holde;holdes;	hulde;hulden;holden;hulde;holde;holdes;
+negativ	hunger	hunger;hungers;	hunger;hungers;
+negativ	hungern	hungert;	hungert;
+negativ	hungeren	hungert;	hungert;
+positiv	hýmel	hýmel;	hýmel;
+positiv	hymmel	hymmel;	hymmel;
+positiv	innicheit	innekeit;	innicheit;
+positiv	innicliche	innecliche;	innicliche;
+positiv	inniclîche	inneclîche;	inniclîche;
+positiv	inniclichen	inneclichen;innechlichen;	inniclichen;inniclichen;
+positiv	inniclîchen	inneclîchen;	inniclîchen;
+negativ	jæmerlich	jæmerlîch;jæmerlich;jæmerlichen;	jæmerlîch;jæmerlich;jæmerlichen;
+negativ	jaemerlich	jaemerlich;	jaemerlich;
+negativ	jaemerlîch	jaemerlîch;	jaemerlîch;
+negativ	jaemerliche	jaemerliche;	jaemerliche;
+negativ	jaemerlîche	jaemerlîche;	jaemerlîche;
+negativ	jaemerlichen	jaemerlichen;	jaemerlichen;
+negativ	jaemerlîchen	jaemerlîchen;	jaemerlîchen;
+negativ	jæmerlîchen	jæmerlîchen;	jæmerlîchen;
+negativ	jaemerlîcher	jaemerlîcher;	jaemerlîcher;
+negativ	jamer	jamer;iamer;jomer;	jamer;jamer;jamer;
+negativ	jâmer	jâmer;jâmers;	jâmer;jâmers;
+negativ	jâmerlich	jâmerlîchen;jâmerlîch;	jâmerlîchen;jâmerlîch;
+negativ	jamerliche	jemerlich;jemerliche;iemerlich;iemerliche;	jamerliche;jamerliche;jamerliche;jamerliche;
+negativ	jâmerlîche	jâmerlîche;	jâmerlîche;
+negativ	jamerlichen	iemerlichen;	jamerlichen;
+negativ	jâmern	jâmert;	jâmert;
+negativ	jâmeren	jâmert;	jâmert;
+negativ	jamers	jamers;iamers;	jamers;jamers;
+negativ	jemerlichen	jemerlichen;	jemerlichen;
+positiv	jesu	jhesu;jesu;ihesu;	jesu;jesu;jesu;
+positiv	jêsu	jêsu;	jêsu;
+positiv	jesum	ihm;jesum;jhesum;ihesum;	jesum;jesum;jesum;jesum;
+positiv	jêsum	jêsum;	jêsum;
+positiv	jesus	jesus;jhesus;ihesus;iesus;	jesus;jesus;jesus;jesus;
+positiv	jugend	jugend;	jugend;
+positiv	jugende	jugende;	jugende;
+positiv	jugent	jugent;iugent;	jugent;jugent;
+positiv	jugend	jugent;iugent;	jugent;jugent;
+negativ	kalt	kalt;kalter;chalt;	kalt;kalter;kalt;
+negativ	kalte	kalten;kalte;kalde;	kalten;kalte;kalte;
+negativ	karc	karc;	karc;
+negativ	karg	karc;	karc;
+positiv	kirche	kirchen;kirche;	kirchen;kirche;
+positiv	kireche	kirchen;kirche;	kirchen;kirche;
+positiv	kiusche	kiusche;kiuschen;kuesche;kiuscher;keusch;kuesch;kusche;kueschen;keusche;	kiusche;kiuschen;kiusche;kiuscher;kiusche;kiusche;kiusche;kiuschen;kiusche;
+negativ	klaffen	klaffen;claffen;	klaffen;klaffen;
+negativ	klag	klag;	klag;
+negativ	klage	klagen;klage;clage;chlagen;chlage;chlag;	klagen;klage;klage;klagen;klage;klage;
+negativ	klagelich	klegelich;	klageliche;
+negativ	klagen	gekleit;klaget;klagt;clagt;klagte;geklaget;klagten;klagende;gecleit;gechleit;klagent;geklagt;chlaget;chlagt;klagender;geclagt;klagenden;clagent;	gekleit;klaget;klagt;klaget;klagte;geklaget;klagten;klagende;gekleit;gekleit;klagent;geklagt;klaget;klaget;klagender;geklaget;klagenden;klagent;
+negativ	klagente	clagende;	klagente;
+negativ	klagenten	clagenden;	klagenten;
+negativ	klagenter	clagender;	klagenter;
+negativ	klagete	klagete;clagte;	klagete;klagete;
+negativ	klageten	clagten;klageten;clageten;chlagten;	klageten;klageten;klageten;klageten;
+positiv	klar	chlar;	klar;
+positiv	klâre	klâre;	klâre;
+positiv	kleinôt	kleinôt;cleinôt;	kleinôt;kleinôte;
+positiv	kostelich	kostlicher;	kostelicher;
+positiv	kostlich	kostlich;	kostlich;
+positiv	köstlich	köstlich;	köstlich;
+positiv	kostlichen	kostlichen;	kostlichen;
+positiv	kraft	kraft;craft;krefte;kreften;chraft;krafft;crefte;creften;chrefte;chreften;	kraft;kraft;krefte;kreften;kraft;kraft;krefte;kreften;krefte;kreften;
+negativ	kranc	kranc;krank;krang;chranch;cranc;chranc;	kranc;kranc;kranc;kranc;kranc;kranc;
+negativ	krang	kranc;krank;krang;chranch;cranc;chranc;	kranc;kranc;kranc;kranc;kranc;kranc;
+negativ	krank	kranc;krank;krang;chranch;cranc;chranc;	kranc;kranc;kranc;kranc;kranc;kranc;
+negativ	krancheit	krancheit;	krancheit;
+negativ	krankheit	krancheit;	krancheit;
+negativ	kranckheit	kranckheit;	kranckheit;
+negativ	kranckheyt	kranckheyt;	kranckheyt;
+negativ	krancz	krancz;	krancz;
+negativ	krank	kranck;	krank;
+negativ	kranke	kranken;kranke;krancken;	kranken;kranke;kranken;
+negativ	kranker	kranker;krancker;	kranker;kranker;
+negativ	krankez	krankez;	krankez;
+negativ	krankheit	krankheit;	krankheit;
+positiv	kreftic	kreftic;kreftig;	kreftic;kreftic;
+positiv	kreftig	kreftic;kreftig;	kreftic;kreftic;
+positiv	kreftige	kreftic;kreftig;	kreftic;kreftic;
+positiv	kreftigen	kreftigen;kreftige;	kreftigen;kreftige;
+positiv	kreftiger	kreftiger;	kreftiger;
+positiv	kreftigære	kreftiger;	kreftiger;
+positiv	kreftigez	kreftigez;	kreftigez;
+negativ	krenken	krenket;gekrenket;	krenket;gekrenket;
+negativ	krenker	krenker;	krenker;
+negativ	kriec	krieg;kriec;kriegen;krieges;chrieg;kriege;kriegs;	kriec;kriec;kriegen;krieges;kriege;kriege;kriegs;
+negativ	krieg	krieg;kriec;kriegen;krieges;chrieg;kriege;kriegs;	kriec;kriec;kriegen;krieges;kriege;kriege;kriegs;
+positiv	krist	kristen;krist;crist;christ;christes;kristes;cristes;christe;kriste;cristin;criste;krists;	kristen;krist;krist;krist;kristes;kristes;kristes;kriste;kriste;kristen;kriste;krists;
+positiv	kristen	cristen;christen;cristan;	kristene;kristene;kristene;
+positiv	kristenheit	kristenheit;christenhait;cristenheit;christenheit;cristenhait;kristenheite;cristinheit;	kristenheit;kristenheit;kristenheit;kristenheit;kristenheit;kristenheite;kristenheit;
+positiv	kristenlich	kristenlichen;kristenlicher;kristenliche;cristenlichen;	kristenlichen;kristenlicher;kristenliche;kristenlichen;
+positiv	kristenlîche	kristenlîche;kristenlîcher;	kristenlîche;kristenlîcher;
+positiv	kristenman	kristenman;	kristenman;
+positiv	kristenmann	kristenman;	kristenman;
+positiv	kristentum	kristentum;	kristentum;
+positiv	kristi	kristi;	kristi;
+positiv	kristus	kristus;	kristus;
+positiv	kronen	cronen;kronen;kroenen;	kronen;kronen;kronen;
+negativ	krump	krump;krumbe;krumb;krumben;	krump;krumbe;krump;krumben;
+negativ	krumb	krump;krumbe;krumb;krumben;	krump;krumbe;krump;krumben;
+positiv	kueene	chvene;kune;chuene;chuen;kuone;kone;chuone;chvne;	kueene;kueene;kueene;kueene;kueene;kueene;kueene;kueene;
+positiv	kûeene	kûne;	kûeene;
+positiv	kueenen	chvenen;chuenen;kuenen;	kueenen;kueenen;kueenen;
+positiv	küen	küen;	küen;
+positiv	kuene	kuene;	kuene;
+positiv	küene	küene;küenen;küener;	küene;küenen;küener;
+positiv	kuenste	kunste;	kuenste;
+negativ	kumber	kumber;kumbers;kumer;kummers;chumber;	kumber;kumbers;kumber;kumbers;kumber;
+negativ	kummer	kummer;	kummer;
+positiv	kuonheit	kunheit;kuonheit;	kuonheit;kuonheit;
+positiv	kus	kus;kusse;kusses;	kus;kusse;kusses;
+positiv	kuss	kus;kusse;kusses;	kus;kusse;kusses;
+positiv	küssen	küssen;geküsset;küsset;	küssen;geküsset;küsset;
+positiv	küsse	küssen;geküsset;küsset;	küssen;geküsset;küsset;
+positiv	lache	lache;	lache;
+positiv	lachen	lachen;lachet;lacht;lachte;lachende;lachent;lachten;gelachet;lachendem;	lachen;lachet;lachet;lachte;lachende;lachent;lachten;gelachet;lachendem;
+positiv	lachete	lachete;	lachete;
+negativ	laere	ler;laere;lêr;	laere;laere;laere;
+negativ	lære	lære;	lære;
+negativ	laster	laster;lasters;	laster;lasters;
+negativ	lasterlich	lesterlich;lasterlichen;lesterlichen;	lasterliche;lasterlichen;lasterlichen;
+negativ	lasterlîche	lasterlîche;	lasterlîche;
+negativ	lasterlîchen	lasterlîchen;	lasterlîchen;
+negativ	leide	leide;leider;leides;leiden;leid;laider;laide;laides;laiden;leyde;leyder;leyden;layd;leydes;leyd;	leide;leider;leides;leiden;leider;leider;leide;leides;leiden;leide;leider;leiden;leider;leides;leider;
+negativ	leideme	layde;	leideme;
+negativ	leiden	leidet;	leidet;
+negativ	leidez	leidez;	leidez;
+negativ	leidic	leidic;leidig;	leidic;leidic;
+negativ	leidige	leidige;	leidige;
+negativ	leidigen	leidigen;	leidigen;
+negativ	leidiu	leidiu;	leidiu;
+negativ	leit	leit;laid;lait;leyt;læit;läid;latt;	leit;leit;leit;leit;leit;leit;leit;
+negativ	leid	leit;laid;lait;leyt;læit;läid;latt;	leit;leit;leit;leit;leit;leit;leit;
+positiv	lere	lere;	lere;
+positiv	lêre	lêre;	lêre;
+positiv	leren	leren;	leren;
+positiv	lêren	lêrte;lêren;lêrt;lêret;gelêret;gelêrt;lêrten;gelêrte;	lêrte;lêren;lêrt;lêret;gelêret;gelêrt;lêrten;gelêrte;
+positiv	leret	leret;	leret;
+positiv	lern	lern;	lern;
+positiv	lerne	lernen;lerne;	lernen;lerne;
+positiv	lernen	gelernet;lernet;lernt;gelernt;lernent;	gelernet;lernet;lernt;gelernt;lernent;
+positiv	lirnen	gelernet;lernet;lernt;gelernt;lernent;	gelernet;lernet;lernt;gelernt;lernent;
+positiv	lernte	lernte;	lernte;
+negativ	liden	lidet;lident;	lidet;lident;
+negativ	lîden	lîdet;lîdent;	lîdet;lîdent;
+positiv	liebe	lieber;liebe;lieben;liebi;liber;liebest;liebst;lieue;l;lieve;lieuer;	lieber;liebe;liebe;liebe;lieber;liebest;liebest;liebe;liebe;liebe;lieber;
+positiv	lieben	geloben;liebet;liebt;globen;geliebet;liebte;	geloben;liebet;liebet;geloben;geliebet;liebte;
+positiv	liebern	liebern;	liebern;
+positiv	liebers	liebers;	liebers;
+positiv	liebesten	liebesten;	liebesten;
+positiv	liebeu	liebeu;	liebeu;
+positiv	liebste	liebste;	liebste;
+positiv	liebsten	liebsten;	liebsten;
+positiv	liebster	liebster;	liebster;
+positiv	liebú	liebú;	liebú;
+positiv	lieht	lieht;liehten;liecht;licht;liechten;liehtes;liehtem;liehtiu;liehtez;liechtes;	lieht;liehten;lieht;lieht;liehten;liehtes;liehtem;liehtiu;liehtez;liehtes;
+positiv	liehte	liehte;liehter;liechte;liechter;lichter;	liehte;liehter;liehte;liehter;liehter;
+positiv	liehtgevar	liehtgevar;	liehtgevar;
+positiv	liehtgevarw	liehtgevar;	liehtgevar;
+positiv	liep	lieb;liep;lib;liebes;liebiu;libes;liebez;liebem;liben;liebin;liebiv;liebs;libev;lieuen;	liep;liep;liep;liebes;liebiu;liebes;liebez;liebem;lieben;lieben;liebiu;liebez;liebiu;lieben;
+positiv	lieb	lieb;liep;lib;liebes;liebiu;libes;liebez;liebem;liben;liebin;liebiv;liebs;libev;lieuen;	liep;liep;liep;liebes;liebiu;liebes;liebez;liebem;lieben;lieben;liebiu;liebez;liebiu;lieben;
+positiv	liepleich	liepleich;	liepleich;
+positiv	lieplich	lieplich;lieplîch;lieblich;lieplîche;lieplichen;lieblîch;liplich;	lieplich;lieplîch;liepliche;lieplîche;lieplichen;lieplîche;lieplich;
+positiv	lieblich	lieplich;lieplîch;lieblich;lieplîche;lieplichen;lieblîch;liplich;	lieplich;lieplîch;liepliche;lieplîche;lieplichen;lieplîche;lieplich;
+positiv	lieplîchen	lieplîchen;	lieplîchen;
+positiv	liuhten	lûhte;liuhtet;	lûhte;liuhtet;
+positiv	lob	lob;	lob;
+positiv	lobebaere	lobebaere;	lobebaere;
+positiv	lobelich	lobelich;lobelîch;loblich;lobelîchen;lobelichen;lobeliche;loblichen;	lobelich;lobelîch;lobeliche;lobelîchen;lobelichen;lobeliche;lobelichen;
+positiv	lobelîche	lobelîche;lobelîcher;	lobelîche;lobelîcher;
+positiv	loben	gelobet;gelobt;lobt;lobten;lobet;lobte;gelobten;gelobte;lobent;gelobete;lobene;gelopt;lobende;gelobter;gelobeten;	gelobet;gelobt;lobt;lobten;lobet;lobte;gelobten;gelobte;lobent;gelobete;lobene;gelobet;lobende;gelobter;gelobeten;
+positiv	lobesam	lobesam;lobesan;lobsam;lobesamen;	lobesam;lobesam;lobesam;lobesamen;
+positiv	lobete	lobete;lopt;	lobete;lobete;
+positiv	lobeten	lobeten;lopten;	lobeten;lobeten;
+positiv	loesen	loesen;	loesen;
+positiv	loeset	loeset;	loeset;
+positiv	lôn	lône;lônen;lônes;	lône;lônen;lônes;
+positiv	lone	lone;	lone;
+positiv	lonen	lonen;	lonen;
+positiv	lônen	gelônet;lônet;lônte;	gelônet;lônet;lônte;
+positiv	lones	lones;	lones;
+positiv	lonet	lonet;	lonet;
+positiv	lonete	lond;	lonete;
+positiv	lont	lont;	lont;
+positiv	lop	lop;lobe;loben;lobes;lobs;lof;	lop;lobe;loben;lobes;lobs;lop;
+positiv	lob	lop;lobe;loben;lobes;lobs;lof;	lop;lobe;loben;lobes;lobs;lop;
+positiv	lopte	lopte;	lopte;
+negativ	lougen	lougen;laugen;logen;	lougen;lougenen;lougen;
+negativ	lucifer	lucifer;	lucifer;
+positiv	luhte	luthe;luchte;luhte;	luhte;luhte;luhte;
+positiv	lust	lust;luste;	lust;luste;
+positiv	lustsam	lussam;lossam;lustsam;	lustsam;lustsam;lustsam;
+positiv	luter	luter;laut;lauter;lutter;lautt;luder;	luter;luter;luter;luter;luter;luter;
+positiv	manhaft	manhaft;	manhaft;
+positiv	mannhaft	manhaft;	manhaft;
+positiv	manhaitt	manhaitt;	manhaitt;
+positiv	manheit	manheit;manhait;manheite;	manheit;manheit;manheite;
+positiv	mannheit	manheit;manhait;manheite;	manheit;manheit;manheite;
+positiv	manlich	manlich;manlichen;manlicher;menlichen;manliche;maenlich;menlicher;manlichem;	manlich;manlichen;manlicher;manlichen;manliche;manlichen;manlicher;manlichem;
+positiv	mannlich	manlich;manlichen;manlicher;menlichen;manliche;maenlich;menlicher;manlichem;	manlich;manlichen;manlicher;manlichen;manliche;manlichen;manlicher;manlichem;
+positiv	manlîch	manlîch;	manlîch;
+positiv	manbriev	manlîch;	manlîch;
+positiv	mänlich	mänlich;	mänlich;
+positiv	manlîche	manlîcher;manlîche;	manlîcher;manlîche;
+positiv	mannlîche	manlîcher;manlîche;	manlîcher;manlîche;
+positiv	manlîchen	manlîchen;	manlîchen;
+positiv	mannegelich	menglich;iederman;	mannegelich;mannegelich;
+positiv	mannelich	mallich;	mannelich;
+positiv	mannheit	mannheit;	mannheit;
+positiv	maria	maria;	maria;
+positiv	marîa	marîa;	marîa;
+positiv	marîâ	marîâ;	marîâ;
+positiv	mariam	mariam;	mariam;
+positiv	marien	marien;	marien;
+negativ	martel	martel;	martel;
+negativ	marter	marter;martir;	marter;marter;
+negativ	martere	marter;martir;	marter;marter;
+negativ	marteraer	marterer;	marteraer;
+negativ	marterære	marterære;	marterære;
+negativ	martelære	marterære;	marterære;
+negativ	marteraere	marteraere;	marteraere;
+negativ	martern	gemartert;	gemartert;
+negativ	martelen	gemartert;	gemartert;
+negativ	marteren	gemartert;	gemartert;
+positiv	maz	maz;mazze;maß;mas;	maz;mazze;maz;maz;
+positiv	mazz	maz;mazze;maß;mas;	maz;mazze;maz;maz;
+positiv	mâz	mâz;	mâz;
+positiv	maze	maze;	maze;
+positiv	mâze	mâze;	mâze;
+positiv	meinen	meynt;meinet;meinte;meint;maint;meynten;gemeinet;meinent;meinten;	meinet;meinet;meinte;meint;meinte;meinten;gemeinet;meinent;meinten;
+positiv	meisterlîch	meisterlich;meisterlichen;	meisterliche;meisterlichen;
+positiv	meisterlîche	meisterlîch;meisterlîche;	meisterlîche;meisterlîche;
+positiv	meisterlîchen	meisterlîchen;	meisterlîchen;
+positiv	meistern	gemeistert;	gemeistert;
+positiv	meisteren	gemeistert;	gemeistert;
+positiv	meisterschaft	meisterschaft;meisterschefte;maisterschaft;meisterschafft;	meisterschaft;meisterschefte;meisterschaft;meisterschaft;
+positiv	messe	messe;messer;mess;messen;	messe;messe;messe;messen;
+positiv	milt	milt;mild;	milt;milt;
+positiv	milte	milte;milten;milter;milden;	milte;milten;milter;milten;
+positiv	miltekeit	miltekeit;	miltekeit;
+positiv	milticheit	miltikeit;	milticheit;
+positiv	miltte	miltte;	miltte;
+positiv	minne	minne;minnen;mynne;minn;mynn;mynnen;minnest;	minne;minnen;minne;minne;minne;minnen;minnest;
+positiv	minneclîch	minneclîch;minneclich;minneclichen;minnecliche;minneclicher;minnichleich;minneclîchem;	minneclîch;minneclich;minneclichen;minnecliche;minneclicher;minneclich;minneclîchem;
+positiv	minneclîche	minneclîche;minneclîcher;	minneclîche;minneclîcher;
+positiv	minniglîche	minneclîche;minneclîcher;	minneclîche;minneclîcher;
+positiv	minneclîchen	minneclîchen;	minneclîchen;
+positiv	minnen	minnet;minnent;geminnet;mynnet;minnende;minnenden;minte;minten;	minnet;minnent;geminnet;minnet;minnende;minnenden;minte;minten;
+positiv	minnenklich	minnenklich;	minnenklich;
+positiv	minnenklichen	minnenklichen;	minnenklichen;
+positiv	minnete	minnete;	minnete;
+positiv	minnichleiche	minnichleiche;	minnichleiche;
+positiv	minnichleichen	minnichleichen;	minnichleichen;
+positiv	minniclich	minniclich;minnenclîch;minnenclich;minnechlich;	minniclich;minniclich;minniclich;minniclich;
+positiv	minniclîch	minniclîch;	minniclîch;
+positiv	minnicliche	minnenclîche;minnechliche;minneklich;minekliche;	minnicliche;minnicliche;minnicliche;minnicliche;
+positiv	minniclîche	minniclîche;minneklîche;	minniclîche;minniclîche;
+positiv	minniclichen	minnechlichen;minnenclîchen;minneklichen;minniclichen;	minniclichen;minniclichen;minniclichen;minniclichen;
+positiv	minniclîchen	minniclîchen;minneklîchen;	minniclîchen;minniclîchen;
+positiv	minniclîchez	minneclîchez;	minniclîchez;
+positiv	minniclîchiu	minneclîchiu;	minniclîchiu;
+negativ	minre	minre;	minre;
+negativ	misse	misse;	misse;
+negativ	missegan	missegan;	missegan;
+negativ	missegân	missegân;	missegân;
+negativ	missegangen	missegangen;	missegangen;
+negativ	missegie	missegie;	missegie;
+negativ	misselinge	misselingen;misselinge;	misselingen;misselinge;
+negativ	misselingen	misselungen;misselanc;	misselungen;misselanc;
+negativ	missetaete	missetaete;	missetaete;
+negativ	missetæte	missetæte;	missetæte;
+negativ	missetan	missetan;	missetan;
+negativ	missetân	missetân;	missetân;
+negativ	missetat	missetat;missedat;	missetat;missetat;
+negativ	missetât	missetât;	missetât;
+negativ	missetuot	missetuot;	missetuot;
+negativ	missevallen	missevallen;misseviel;	missevallen;misseviel;
+negativ	missevar	missevar;missevarn;	missevar;missevarn;
+negativ	missevarw	missevar;missevarn;	missevar;missevarn;
+negativ	missewende	missewende;	missewende;
+negativ	missewente	missewende;	missewende;
+negativ	missezimn	missezimt;	missezimt;
+negativ	mist	mist;	mist;
+negativ	mordaer	morder;	mordaer;
+negativ	morden	morden;morde;	morden;morde;
+negativ	morderet	morderet;	morderet;
+negativ	mordes	mordes;	mordes;
+negativ	mort	mort;	mort;
+negativ	mord	mort;	mort;
+negativ	mortlîch	mortlichen;mortlich;	mortlichen;mortlich;
+positiv	münster	münster;	münster;
+negativ	niden	niden;nyden;	niden;niden;
+negativ	nîden	nîden;	nîden;
+negativ	nidene	nidene;	nidene;
+negativ	nider	nider;nyder;neder;nidder;nydder;nidern;nyd;nidir;	nider;nider;nider;nider;nider;nidern;nider;nider;
+negativ	nidere	nidere;	nidere;
+negativ	nideren	genidert;nidert;	genidert;nidert;
+negativ	nît	nîde;nîdes;	nîde;nîdes;
+negativ	nîd	nîde;nîdes;	nîde;nîdes;
+negativ	nîtgêr	nîtgêr;	nîtgêr;
+positiv	niuwe	niuwe;niuwen;newen;nuwe;niuwer;nue;newe;nuwen;newes;niuwez;niuwiu;newr;nuw;	niuwe;niuwen;niuwen;niuwe;niuwer;niuwe;niuwe;niuwen;niuwez;niuwez;niuwiu;niuwer;niuwer;
+positiv	niuwer	nur;neur;niur;new;nuer;nuor;	niur;niur;niur;niur;niur;niur;
+positiv	niuwes	niuwes;	niuwes;
+negativ	noete	noete;node;	noete;noete;
+negativ	noeten	noeten;nöten;notin;	noeten;noeten;noeten;
+negativ	not	not;noit;noet;noth;nod;	not;not;not;not;not;
+negativ	nôt	nôt;	nôt;
+negativ	nöt	nöt;	nöt;
+negativ	note	noten;note;	noten;note;
+negativ	nôte	nôte;	nôte;
+negativ	noten	nott;genote;	nott;genote;
+negativ	nôten	nôten;	nôten;
+negativ	nötten	nötten;	nötten;
+positiv	obedach	obedach;	obedach;
+positiv	oben	oben;	oben;
+positiv	obene	obene;	obene;
+positiv	oberen	oberst;	oberst;
+positiv	obersten	obersten;	obersten;
+positiv	offenbaere	offenbaere;	offenbaere;
+positiv	offenbaeren	offenbaren;	offenbaeren;
+positiv	offenbar	offenbar;offenbare;	offenbare;offenbare;
+positiv	offenbâre	offenbâr;offenbâre;	offenbâre;offenbâre;
+positiv	offenlich	offenlich;offenlichen;offenleich;offenlîch;offenliche;	offenlich;offenlichen;offenliche;offenlîch;offenliche;
+positiv	offenlîche	offenlîche;	offenlîche;
+positiv	offenlîchen	offenlîchen;	offenlîchen;
+negativ	ouwe	ouwe;awe;ouwen;	ouwe;ouwe;ouwen;
+negativ	ouwê	ouwê;	ouwê;
+negativ	ouwi	owi;owî;	ouwi;ouwi;
+negativ	ouwî	ouwî;	ouwî;
+negativ	owe	owe;	owe;
+negativ	owê	owê;	owê;
+negativ	ôwê	ôwê;	ôwê;
+positiv	paradis	paradys;paradis;	paradis;paradis;
+positiv	paradîs	paradîs;	paradîs;
+positiv	paradise	paradise;paradyse;	paradise;paradise;
+positiv	paradîse	paradîse;	paradîse;
+negativ	pin	pin;pine;pinen;pins;pynen;	pin;pine;pinen;pins;pinen;
+negativ	pinne	pin;pine;pinen;pins;pynen;	pin;pine;pinen;pins;pinen;
+negativ	pîn	pîn;pîne;pînen;	pîn;pîne;pînen;
+negativ	pîne	pîn;pîne;pînen;	pîn;pîne;pînen;
+negativ	pînen	gepînet;	gepînet;
+positiv	pris	pris;preis;preys;bris;	pris;pris;pris;pris;
+positiv	prîs	prîs;prîse;prîses;prîsen;	prîs;prîse;prîses;prîsen;
+positiv	prise	prise;	prise;
+positiv	prisen	prisen;preisen;	prisen;prisen;
+positiv	prîsen	geprîset;prîset;prîste;	geprîset;prîset;prîste;
+positiv	prises	prises;	prises;
+positiv	priset	priset;	priset;
+positiv	priß	priß;	priß;
+positiv	priss	priss;	priss;
+positiv	rat	rat;rait;rate;raten;rates;rade;radt;rad;rayt;raden;rats;	rat;rat;rate;raten;rates;rate;rate;rat;rat;raten;rats;
+positiv	rate	rat;rait;rate;raten;rates;rade;radt;rad;rayt;raden;rats;	rat;rat;rate;raten;rates;rate;rate;rat;rat;raten;rats;
+positiv	rât	rât;râte;râten;râtes;ræte;ræten;	rât;râte;râten;râtes;ræte;ræten;
+positiv	râten	rieten;râtet;riete;râtent;ryden;	rieten;râtet;riete;râtent;rieten;
+positiv	ratent	ratent;	ratent;
+positiv	ratet	ratt;ratet;	ratet;ratet;
+negativ	reche	rechen;reche;	rechen;reche;
+negativ	rechen	rach;richt;richet;rechent;rechet;gerechter;	rach;richt;richet;rechent;rechet;gerechter;
+positiv	recke	recken;recke;reken;reke;	recken;recke;recken;recke;
+positiv	reht	reht;recht;reyt;rechtem;rehtiu;rehtem;rehtez;riecht;	reht;reht;reht;rehtem;rehtiu;rehtem;rehtez;reht;
+positiv	rehte	rehte;rechten;rehten;rechte;rehter;rechter;rehtes;rechtes;rechtin;	rehte;rehten;rehten;rehte;rehter;rehter;rehtes;rehtes;rehten;
+positiv	rehtikeit	rehtikeit;	rehtikeit;
+positiv	reiche	reiche;reichen;	reiche;reichen;
+positiv	rein	reinen;rein;rain;rainen;reines;reyn;reynen;	reinen;rein;rein;reinen;reines;rein;reinen;
+positiv	reine	reine;reiner;raine;reiniu;reinez;reinem;reyne;rainer;raines;	reine;reiner;reine;reiniu;reinez;reinem;reine;reiner;reinez;
+positiv	reinekeit	reinekeit;	reinekeit;
+positiv	reinen	gereinet;	gereinet;
+positiv	reinicheit	reinikeit;	reinicheit;
+positiv	rette	retten;rette;reten;	retten;rette;retten;
+positiv	retten	gerett;	gerett;
+positiv	rîch	rîch;	rîch;
+positiv	rîche	rîche;rîchen;rîcher;rîchiu;rîchez;rîchem;	rîche;rîchen;rîcher;rîchiu;rîchez;rîchem;
+positiv	richeit	richeit;richait;reichait;	richeit;richeit;richeit;
+positiv	rîcheit	rîcheit;rîcheite;	rîcheit;rîcheite;
+positiv	richeliche	reichlich;	richeliche;
+positiv	richem	richem;	richem;
+positiv	rîchen	gerîchet;	gerîchet;
+positiv	richer	richer;reicher;	richer;richer;
+positiv	rîches	rîches;	rîches;
+positiv	rîchesenen	rîchsen;	rîchesenen;
+positiv	rîchesenet	rîchset;	rîchesenet;
+positiv	richez	richez;	richez;
+positiv	richiu	richiu;richiv;	richiu;richiu;
+positiv	richlîch	richlich;	richlich;
+positiv	richtuom	reichtum;richtum;richtuom;	richtuom;richtuom;richtuom;
+positiv	rîchtuom	rîchtuom;	rîchtuom;
+positiv	rilich	rilich;	rilich;
+positiv	rîlîch	rîlich;rîlîch;rîlichen;rîlicher;	rîlich;rîlîch;rîlichen;rîlicher;
+positiv	rîlîche	rîlîche;	rîlîche;
+positiv	ritterlich	ritterlich;ritterlicher;	ritterlich;ritterlicher;
+positiv	ritterlîch	ritterlichen;ritterlîch;ritterliche;ritterleichen;ritterlichem;ritterlîchem;ritterlichez;ritterlîchez;ritterlîchiu;ritterliches;	ritterlichen;ritterlîch;ritterliche;ritterlichen;ritterlichem;ritterlîchem;ritterlichez;ritterlîchez;ritterlîchiu;ritterliches;
+positiv	ritterlîche	ritterlîche;ritterlîcher;	ritterlîche;ritterlîcher;
+positiv	ritterlîchen	ritterlîchen;	ritterlîchen;
+positiv	ritterschafft	ritterschafft;	ritterschafft;
+positiv	ritterschaft	ritterschaft;rittershaft;	ritterschaft;ritterschaft;
+positiv	ritterschefte	ritterschefte;	ritterschefte;
+negativ	riuwe	riuwe;ruwe;rue;rewe;rouwe;	riuwe;riuwe;riuwe;riuwe;riuwe;
+negativ	riuwen	riuwen;ruwen;riuwet;rewen;geriuwen;rüwe;geriwen;rüwen;ruwet;rouwen;rûwen;gerewen;	riuwen;riuwen;riuwet;riuwen;geriuwen;rüwe;geriuwen;rüwen;ruwet;riuwen;riuwen;geriuwen;
+negativ	riuwic	riuwic;ruwig;	riuwic;riuwic;
+negativ	riwe	riwe;riwen;	riwe;riwen;
+positiv	rôse	rôsen;rôse;	rôsen;rôse;
+negativ	roup	roup;roube;rouben;roubes;raub;roub;rauben;raube;	roup;roube;rouben;roubes;roup;roup;rouben;roube;
+negativ	roub	roup;roube;rouben;roubes;raub;roub;rauben;raube;	roup;roube;rouben;roubes;roup;roup;rouben;roube;
+positiv	rubin	rubin;	rubin;
+positiv	rubîn	rubîn;	rubîn;
+positiv	rüemen	gerüemet;rüemen;rüemet;	gerüemet;rüemen;rüemet;
+positiv	ruom	ruom;ruome;ruomes;ruon;ruomen;	ruom;ruome;ruomes;ruom;ruomen;
+positiv	sælde	sælden;sælde;sæld;	sælden;sælde;sælde;
+positiv	sælede	sælden;sælde;sæld;	sælden;sælde;sælde;
+positiv	saelde	saelde;selde;saeld;salde;	saelde;saelde;saelde;saelde;
+positiv	saelden	saelden;selden;salden;sêlden;	saelden;saelden;saelden;saelden;
+positiv	saeldenbaere	saeldenbaere;	saeldenbaere;
+positiv	sældenbære	sældenbære;	sældenbære;
+positiv	saelec	saelec;	saelec;
+positiv	saelekeit	saelekeit;	saelekeit;
+positiv	saelic	saelic;selig;saelig;sêlic;selich;selic;	saelic;saelic;saelic;saelic;saelic;saelic;
+positiv	sælic	sælic;sælig;sælich;	sælic;sælic;sælic;
+positiv	sælicheit	sælicheit;	sælicheit;
+positiv	saelicheit	selikeit;saelicheit;selekeit;selicheit;	saelicheit;saelicheit;saelicheit;saelicheit;
+positiv	saelige	selige;saelige;	saelige;saelige;
+positiv	saeligen	seligen;saeligen;	saeligen;saeligen;
+positiv	sæligen	sæligen;sælige;	sæligen;sælige;
+positiv	saeliger	seliger;	saeliger;
+positiv	saelikeit	saelikeit;	saelikeit;
+positiv	sælikeit	sælikeit;	sælikeit;
+positiv	sanc	sanc;sang;sange;sanch;sanges;sank;sanck;	sanc;sanc;sange;sanc;sanges;sanc;sanc;
+positiv	sang	sanc;sang;sange;sanch;sanges;sank;sanck;	sanc;sanc;sange;sanc;sanges;sanc;sanc;
+positiv	sanfte	sanfte;sanfter;sanft;	sanfte;sanfter;sanfte;
+positiv	samft	sanfte;sanfter;sanft;	sanfte;sanfter;sanfte;
+negativ	schade	schade;schad;	schade;schade;
+negativ	schadehaft	schadehaft;	schadehaft;
+negativ	schadelich	schedlich;	schadelich;
+negativ	schaden	schaden;schadet;shaden;scaden;schadens;schadin;geschadet;	schaden;schadet;schaden;schaden;schadens;schaden;geschadet;
+negativ	scham	scham;schamen;schame;shamen;	scham;schamen;schame;schamen;
+negativ	schame	scham;schamen;schame;shamen;	scham;schamen;schame;schamen;
+negativ	schande	schande;schanden;schand;shande;scande;scanden;shanden;	schande;schanden;schande;schande;schande;schanden;schanden;
+negativ	schante	schande;schanden;schand;shande;scande;scanden;shanden;	schande;schanden;schande;schande;schande;schanden;schanden;
+negativ	schedelich	schedelich;schedelichen;schedelicher;schedelîch;	schedelich;schedelichen;schedelicher;schedelîch;
+negativ	schadelich	schedelich;schedelichen;schedelicher;schedelîch;	schedelich;schedelichen;schedelicher;schedelîch;
+negativ	schedelîche	schedelîche;	schedelîche;
+negativ	schelten	schelten;schiltet;gescholten;schelden;	schelten;schiltet;gescholten;schelten;
+negativ	schinden	schant;schinden;	schant;schinden;
+negativ	schinten	schant;schinden;	schant;schinden;
+negativ	schlaffen	schlaffen;	schlaffen;
+positiv	schoen	schoen;	schoen;
+positiv	schoene	schoene;schone;schon;schonen;schöne;shone;shoene;scône;scoene;schne;scone;schoeni;	schoene;schoene;schoene;schoene;schoene;schoene;schoene;schoene;schoene;schoene;schoene;schoene;
+positiv	schoenem	schoenem;	schoenem;
+positiv	schoenen	schoenen;schönen;shoenen;scoenen;scônen;	schoenen;schoenen;schoenen;schoenen;
+positiv	schoener	schoener;	schoener;
+positiv	schoenes	schoenes;	schoenes;
+positiv	schoenest	schonst;schoenest;	schoenest;schoenest;
+positiv	schoenez	schoenez;schones;	schoenez;schoenez;
+positiv	schoenheit	schonheit;schoenheit;	schoenheit;schoenheit;
+positiv	schoeniu	schoeniu;	schoeniu;
+positiv	schoenste	schoenste;	schoenste;
+positiv	schoensten	schoensten;	schoensten;
+positiv	schôn	schôn;	schôn;
+positiv	schone	schön;	schone;
+positiv	schône	schône;schônen;schôner;	schône;schônen;schôner;
+positiv	schöner	schöner;	schöner;
+positiv	schönes	schönes;	schönes;
+positiv	schônheit	schônheit;	schônheit;
+positiv	schönne	schönne;	schönne;
+positiv	schönnen	schönnen;	schönnen;
+positiv	schönst	schönst;	schönst;
+positiv	schonste	schonste;	schonste;
+positiv	schönste	schönste;	schönste;
+positiv	schonsten	schonsten;	schonsten;
+positiv	schönsten	schönsten;	schönsten;
+positiv	schöpffer	schöpffer;	schöpffer;
+negativ	schulde	schulde;schulden;sculde;scholten;shulde;schvlden;schvlde;	schulde;schulden;schulde;schulden;schulde;schulden;schulde;
+negativ	schuldec	schuldec;	schuldec;
+negativ	schuldig	schuldec;	schuldec;
+negativ	schuldic	schuldig;schuldic;schuldich;	schuldic;schuldic;schuldic;
+negativ	schuldige	schuldigen;	schuldigen;
+negativ	schult	scholt;schult;schuld;	schult;schult;schult;
+negativ	schuld	scholt;schult;schuld;	schult;schult;schult;
+negativ	schwere	schwere;	schwere;
+negativ	schweren	schweren;	schweren;
+negativ	schwern	schwern;	schwern;
+positiv	segene	segene;	segene;
+positiv	segenen	gesegent;segent;	gesegent;segent;
+positiv	segenete	segente;	segenete;
+positiv	sele	sele;sel;selen;	sele;sele;selen;
+positiv	sêle	sêle;sêl;sêlen;	sêle;sêle;sêlen;
+positiv	senft	senft;	senft;
+positiv	senfte	senfte;senften;senfter;senftem;senftes;	senfte;senften;senfter;senftem;senftes;
+positiv	semfte	senfte;senften;senfter;senftem;senftes;	senfte;senften;senfter;senftem;senftes;
+positiv	senften	senftet;gesenftet;	senftet;gesenftet;
+positiv	semften	senftet;gesenftet;	senftet;gesenftet;
+negativ	sêr	sêren;	sêren;
+negativ	sere	sere;ser;	sere;sere;
+negativ	sêre	sêre;sêr;	sêre;sêre;
+positiv	sicherheit	sicherheit;sicherhait;sicherheite;	sicherheit;sicherheit;sicherheite;
+positiv	sicherleich	sicherleich;	sicherleich;
+positiv	sicherleiche	sicherleiche;	sicherleiche;
+positiv	sicherleichen	sicherleichen;	sicherleichen;
+positiv	sicherlich	sicherlich;sicherlichen;sicherliche;	sicherliche;sicherlichen;sicherliche;
+positiv	sicherlîche	sicherlîch;sicherlîche;	sicherlîche;sicherlîche;
+positiv	sicherlîchen	sicherlîchen;	sicherlîchen;
+positiv	sidin	sidin;sydin;	sidin;sidin;
+positiv	sîdîn	sîdîn;	sîdîn;
+negativ	siech	siech;siecher;sych;	siech;siecher;siech;
+negativ	sieche	siechen;sieche;siehe;	siechen;sieche;sieche;
+negativ	siecheit	siecheit;	siecheit;
+negativ	siechen	siecht;	siecht;
+negativ	siuchen	siecht;	siecht;
+negativ	siechtagen	siechtagen;	siechtagen;
+negativ	siechtuom	siechtuom;siechtum;siechtuomes;	siechtuom;siechtuom;siechtuomes;
+positiv	sige	sige;siges;sigen;sik;	sige;siges;sigen;sige;
+positiv	sigehaft	sigehaft;	sigehaft;
+negativ	sigelôs	sigelôs;	sigelôs;
+positiv	sîgen	sîgen;seic;seig;	sîgen;seic;seic;
+positiv	silber	silber;silbers;selbers;silbir;	silber;silbers;silbers;silber;
+positiv	silberin	silberin;	silberin;
+positiv	silberîn	silberîn;	silberîn;
+positiv	silberwîz	silberwîz;	silberwîz;
+negativ	smacheit	smacheit;	smacheit;
+negativ	smackheit	smacheit;	smacheit;
+negativ	smâcheit	smâcheit;	smâcheit;
+negativ	smâchheit	smâheit;	smâchheit;
+negativ	smæhe	smæhe;	smæhe;
+negativ	smaehe	smaehe;smehe;	smaehe;smaehe;
+negativ	smaehen	smaehen;	smaehen;
+negativ	smertze	smertze;	smertze;
+negativ	smerze	smerze;	smerze;
+negativ	smerzen	smerzen;smertzen;schmertzen;smerczen;	smerzen;smerzen;smerzen;smerzen;
+positiv	snel	snel;	snel;
+positiv	snell	snel;	snel;
+positiv	snelheit	snelheit;	snelheit;
+positiv	snellheit	snelheit;	snelheit;
+positiv	snell	snell;	snell;
+positiv	snelle	snelle;snellen;sneller;schnell;schnellen;	snelle;snellen;sneller;snelle;snellen;
+positiv	snelleclich	snelleclîch;	snelleclîch;
+positiv	snelliglich	snelleclîch;	snelleclîch;
+positiv	snelleclîche	snelleclîche;	snelleclîche;
+positiv	snelleclîchen	snelleclîchen;	snelleclîchen;
+positiv	snellez	snellez;	snellez;
+positiv	snellich	snellich;	snellich;
+positiv	snelllich	snellich;	snellich;
+positiv	snelliclich	snelliclich;	snelliclich;
+positiv	snelliclichen	snelliclichen;	snelliclichen;
+negativ	sorg	sorg;	sorg;
+negativ	sorge	sorgen;sorge;	sorgen;sorge;
+negativ	spaehe	spaehe;	spaehe;
+negativ	spæhe	spæhe;	spæhe;
+positiv	stæt	stæt;	stæt;
+positiv	staet	staet;	staet;
+positiv	staete	staete;stete;stête;	staete;staete;staete;
+positiv	stæte	stæte;stæter;stæten;stætem;	stæte;stæter;stæten;stætem;
+positiv	stætekeit	stætekeit;	stætekeit;
+positiv	staetekeit	staetekeit;	staetekeit;
+positiv	staetem	staetem;	staetem;
+positiv	staeten	staeten;	staeten;
+positiv	staeter	staeter;	staeter;
+positiv	staetez	staetez;staetes;	staetez;staetez;
+positiv	staeticheit	staeticheit;stetikeit;	staeticheit;staeticheit;
+positiv	staetikeit	staetikeit;	staetikeit;
+positiv	staetiu	staetiu;	staetiu;
+negativ	starb	starb;	starb;
+positiv	starc	starc;starck;stark;starch;sterke;sterker;sterken;stercken;starg;	starc;starc;starc;starc;sterker;sterken;sterken;starc;
+positiv	stark	starc;starck;stark;starch;sterke;sterker;sterken;stercken;starg;	starc;starc;starc;starc;sterker;sterken;sterken;starc;
+positiv	starke	starke;starker;starche;starcke;starcker;starcher;	starke;starker;starke;starke;starker;starker;
+positiv	starkem	starkem;	starkem;
+positiv	starken	starken;starchen;starcken;	starken;starken;starken;
+positiv	starkes	starkes;	starkes;
+positiv	starkez	starkez;starchez;	starkez;starkez;
+positiv	starkiu	starkiu;	starkiu;
+negativ	sterbe	sterbe;sterb;	sterbe;sterbe;
+negativ	sterben	sterben;starp;stirbet;gestorben;sturben;sterbent;sterbens;stirbe;stirbt;stürbe;steruen;sterbin;	sterben;starp;stirbet;gestorben;sturben;sterbent;sterbens;stirbe;stirbet;stürbe;sterben;sterben;
+negativ	sterbet	sterbet;	sterbet;
+positiv	sterne	sternen;sterne;	sternen;sterne;
+positiv	sterre	sternen;sterne;	sternen;sterne;
+positiv	stolz	stolzen;stolze;stolz;stolzer;stolcz;stoltzen;stoltz;stoltzer;stolziu;stoltze;	stolzen;stolze;stolz;stolzer;stolz;stolzen;stolz;stolzer;stolziu;stolze;
+negativ	straf	straffen;straff;strafen;stroff;	strafen;strafe;strafen;strafe;
+negativ	straff	straffen;straff;strafen;stroff;	strafen;strafe;strafen;strafe;
+negativ	strâfe	strâfen;	strâfen;
+positiv	sueeze	suzze;suesse;süezze;suß;süsse;suezze;suße;susse;suez;suoz;	sueeze;sueeze;sueeze;sueeze;sueeze;sueeze;sueeze;sueeze;sueeze;sueeze;
+positiv	sueezen	suezen;suzzen;süezzen;suezzen;sussen;sußen;	sueezen;sueezen;sueezen;sueezen;sueezen;sueezen;
+positiv	sueezer	suezer;suesser;sußer;suzzer;susser;suezzer;suzer;	sueezer;sueezer;sueezer;sueezer;sueezer;sueezer;sueezer;
+negativ	suende	sunde;sünd;svnde;suende;	suende;suende;suende;suende;
+negativ	suenden	sunden;suenden;svnden;	suenden;suenden;suenden;
+negativ	suentaere	sundære;	suentaere;
+positiv	süesse	süesse;	süesse;
+positiv	suessekeit	suessekeit;	suessekeit;
+positiv	suessen	suessen;	suessen;
+positiv	süessen	süessen;	süessen;
+positiv	süesser	süesser;	süesser;
+positiv	süez	süez;	süez;
+positiv	sueze	sueze;suze;suozze;süzz;	sueze;sueze;sueze;sueze;
+positiv	süeze	süeze;süezen;süezer;süeziu;süezem;süezez;süezes;	süeze;süezen;süezer;süeziu;süezem;süezez;süezes;
+positiv	suezem	suezem;	suezem;
+positiv	suezen	süssen;suzen;	suezen;suezen;
+positiv	süezen	süezet;	süezet;
+positiv	süezzer	süezzer;	süezzer;
+negativ	sûft	siuften;	siuften;
+negativ	súnd	súnd;	súnd;
+negativ	súndær	súndær;	súndær;
+negativ	sündaere	sündaere;	sündaere;
+negativ	súnde	súnde;	súnde;
+negativ	sünde	sünden;sünde;	sünden;sünde;
+negativ	sünte	sünden;sünde;	sünden;sünde;
+negativ	súnden	súnden;	súnden;
+negativ	sünden	gesündet;	gesündet;
+negativ	sünten	gesündet;	gesündet;
+negativ	sur	sur;sure;suren;sawer;	sur;sure;suren;sur;
+negativ	sûr	sûr;	sûr;
+negativ	swach	swach;swachen;schwach;swachez;swachem;swaches;	swach;swachen;swach;swachez;swachem;swaches;
+negativ	swache	swacher;swache;	swacher;swache;
+negativ	swachen	swachet;geswachet;	swachet;geswachet;
+negativ	swaere	swaere;swere;swär;schwer;swäre;swêre;	swaere;swaere;swaere;swaere;swaere;swaere;
+negativ	swære	swære;swæren;	swære;swæren;
+negativ	swaeren	swaeren;	swaeren;
+negativ	swaerer	swerer;	swaerer;
+negativ	swaerliche	swerlich;	swaerliche;
+negativ	swîn	swîn;	swîn;
+xx	tievel	tievel;tievels;	tievel;tievels;
+positiv	tiur	tiur;tiuwer;	tiur;tiur;
+positiv	tiure	tiure;tiuren;ture;tiurer;tûre;dure;tivre;tiurem;	tiure;tiuren;tiure;tiurer;tiure;tiure;tiure;tiurem;
+positiv	tiuren	getiuret;tiuret;	getiuret;tiuret;
+negativ	tiuvel	tiuvel;tiufel;tiuvels;teufel;tivel;tiefel;tiufels;tufel;tuvel;tivels;	tiuvel;tiuvel;tiuvels;tiuvel;tiuvel;tiuvel;tiuvels;tiuvel;tiuvel;tiuvels;
+positiv	tiwer	tiwer;	tiwer;
+negativ	tode	tode;tod;dode;	tode;tode;tode;
+negativ	todes	todes;dodes;	todes;todes;
+negativ	toeten	toeten;töten;	toeten;toeten;
+negativ	toetet	toetet;	toetet;
+negativ	toetete	toete;	toetete;
+negativ	torheit	torheit;dorheit;torhait;	torheit;torheit;torheit;
+positiv	torste		
+negativ	tot	tot;dot;doit;toet;toit;tott;	tot;tot;tot;tot;tot;tot;
+negativ	tôt	tôt;tôde;tôdes;tôter;tôd;	tôt;tôde;tôdes;tôter;tôde;
+negativ	tôd	tôt;tôde;tôdes;tôter;tôd;	tôt;tôde;tôdes;tôter;tôde;
+negativ	tote	toten;tote;totin;doden;toden;	toten;tote;toten;toten;toten;
+negativ	tôte	tôten;tôte;	tôten;tôte;
+positiv	touc	tohte;töhte;touc;tüge;tohten;tuge;tugen;tochte;	tohte;töhte;touc;tüge;tohten;tuge;tugen;tohte;
+positiv	toug	tohte;töhte;touc;tüge;tohten;tuge;tugen;tochte;	tohte;töhte;touc;tüge;tohten;tuge;tugen;tohte;
+positiv	trehtin	trechtin;trehtin;	trehtin;trehtin;
+positiv	trehtîn	trehtîn;	trehtîn;
+negativ	triegen	triegen;triuget;trouc;triegent;	triegen;triuget;trouc;triegent;
+positiv	trinitat	trinitat;	trinitat;
+positiv	trinitât	trinitât;	trinitât;
+positiv	triute	triuten;triute;	triuten;triute;
+positiv	triuten	triutet;getriutet;	triutet;getriutet;
+positiv	triutinne	triutinne;	triutinne;
+positiv	triuwe	triuwe;triuwen;truwe;trewen;truwen;trewe;trew;triu;trûwe;trouwe;treuwen;triw;trouwen;	triuwe;triuwen;triuwe;triuwen;triuwen;triuwe;triuwe;triuwe;triuwe;triuwe;triuwen;triuwe;triuwen;
+positiv	triuwen	getrûwe;getriuwet;getrûwet;triuw;	getrûwe;getriuwet;getrûwet;triuw;
+positiv	triwe	triwe;triwen;	triwe;triwen;
+positiv	troest	troest;	troest;
+positiv	troeste	troeste;tröst;	troeste;troeste;
+positiv	troesten	troesten;	troesten;
+positiv	troestente	troestent;	troestente;
+positiv	troestet	troestet;	troestet;
+positiv	trost	trost;drost;troist;	trost;trost;trost;
+positiv	trôst	trôst;trôste;trôstes;trôsten;	trôst;trôste;trôstes;trôsten;
+positiv	trösten	trösten;	trösten;
+positiv	trostes	trostes;	trostes;
+negativ	trüebe	trüebe;trüeben;	trüebe;trüeben;
+negativ	trueebe	truebe;	trueebe;
+negativ	trueege	truge;	trueege;
+negativ	trüeg	trüeg;	trüeg;
+negativ	truege	truege;	truege;
+negativ	truegen	truegen;	truegen;
+negativ	trúg	trúg;	trúg;
+negativ	trüg	trüg;	trüg;
+negativ	trüge	trüge;trügen;	trüge;trügen;
+negativ	trügeheit	trügeheit;	trügeheit;
+negativ	trügenheit	trügeheit;	trügeheit;
+negativ	trügenaere	trügenaere;	trügenaere;
+negativ	trûrec	trûrec;	trûrec;
+negativ	trûrig	trûrec;	trûrec;
+negativ	trûreclîch	trûreclîche;trûreclîchen;	trûreclîche;trûreclîchen;
+negativ	truren	truren;trauren;trawren;	truren;truren;truren;
+negativ	trûren	trûren;trûrens;trûret;trûrte;	trûren;trûrens;trûret;trûrte;
+negativ	trurens	trurens;	trurens;
+negativ	truric	trurig;truric;traurig;	truric;truric;truric;
+negativ	trûric	trûric;	trûric;
+negativ	trûrigem	trûrigem;	trûrigem;
+negativ	trurigen	trurigen;	trurigen;
+negativ	trûrigen	trûrigen;	trûrigen;
+positiv	trut	trut;truot;	trut;trut;
+positiv	trût	trût;trûte;trûten;trûter;	trût;trûte;trûten;trûter;
+positiv	trûte	trût;trûte;trûten;trûter;	trût;trûte;trûten;trûter;
+positiv	trute	trute;	trute;
+positiv	trûtgeselle	trûtgeselle;	trûtgeselle;
+positiv	trutschaft	trutschaft;	trutschaft;
+positiv	trûtschaft	trûtschaft;	trûtschaft;
+positiv	trutt	trutt;	trutt;
+positiv	trüttin	trüttin;	trüttin;
+positiv	truw	truw;	truw;
+positiv	trúw	trúw;	trúw;
+positiv	trüw	trüw;	trüw;
+positiv	trúwe	trúwe;	trúwe;
+positiv	trüwe	trüwe;	trüwe;
+positiv	trúwen	trúwen;	trúwen;
+positiv	trüwen	trüwen;	trüwen;
+positiv	truwete	traut;	truwete;
+negativ	túfel	túfel;	túfel;
+negativ	tüfel	tüfel;	tüfel;
+positiv	tugenden	tugende;tugenden;tvgende;tvgenden;dugende;	tugende;tugenden;tugende;tugenden;tugende;
+positiv	tugent	tugent;tugend;dugent;togunt;tvgent;	tugent;tugent;tugent;tugent;tugent;
+positiv	tugende	tugent;tugend;dugent;togunt;tvgent;	tugent;tugent;tugent;tugent;tugent;
+positiv	tugentbaere	tugentbaere;	tugentbaere;
+positiv	tugenthaft	tugenthaft;tugenthafte;tugenthafter;tugenthaften;	tugenthaft;tugenthafte;tugenthafter;tugenthaften;
+positiv	tugendhaft	tugenthaft;tugenthafte;tugenthafter;tugenthaften;	tugenthaft;tugenthafte;tugenthafter;tugenthaften;
+positiv	tugentlich	tugentlich;tugentlichen;tugentlîch;tugentlicher;tugentliche;	tugentlich;tugentlichen;tugentlîch;tugentlicher;tugentliche;
+positiv	tugendlich	tugentlich;tugentlichen;tugentlîch;tugentlicher;tugentliche;	tugentlich;tugentlichen;tugentlîch;tugentlicher;tugentliche;
+positiv	tugentlîche	tugentlîche;tugentlîcher;	tugentlîche;tugentlîcher;
+positiv	tugentlîchen	tugentlîchen;	tugentlîchen;
+positiv	tugentrich	tugentrich;	tugentrich;
+positiv	tugentrîch	tugentrîch;	tugentrîch;
+positiv	tugentriche	tugentriche;	tugentriche;
+positiv	tugentrîche	tugentrîche;tugentrîchen;tugentrîcher;	tugentrîche;tugentrîchen;tugentrîcher;
+positiv	tugendrîche	tugentrîche;tugentrîchen;tugentrîcher;	tugentrîche;tugentrîchen;tugentrîcher;
+negativ	tumbe	tumben;tumbe;tummen;tumme;tumbes;	tumben;tumbe;tumben;tumbe;tumbes;
+negativ	tump	tumber;tump;tummer;tumb;tumbez;	tumber;tump;tumber;tump;tumbez;
+negativ	tumb	tumber;tump;tummer;tumb;tumbez;	tumber;tump;tumber;tump;tumbez;
+negativ	tumpheit	tumpheit;	tumpheit;
+negativ	tumbheit	tumpheit;	tumpheit;
+negativ	tumplich	tumplich;	tumplich;
+negativ	tumblich	tumplich;	tumplich;
+negativ	úbel	úbel;	úbel;
+negativ	übel	übel;übels;übeln;	übel;übels;übeln;
+negativ	übele	übele;übelen;	übele;übelen;
+negativ	übermüete	übermüete;übermüeten;	übermüete;übermüeten;
+negativ	übermuot	übermuot;	übermuot;
+negativ	uebel	ubel;vbel;uebel;vbil;ubil;	uebel;uebel;uebel;uebel;uebel;
+negativ	uebele	ubele;ubile;vbele;	uebele;uebele;uebele;
+negativ	uebelen	ubelen;	uebelen;
+negativ	uebeln	ubeln;	uebeln;
+negativ	uebels	ubels;	uebels;
+negativ	uebeltat	ubeltat;	uebeltat;
+negativ	unfro	unfro;	unfro;
+negativ	unfrô	unfrô;	unfrô;
+negativ	unfuoc	unfuoc;	unfuoc;
+negativ	unfuog	unfuog;	unfuog;
+negativ	unfuoge	unfuoge;	unfuoge;
+negativ	ungefüege	ungefüege;	ungefüege;
+negativ	ungefüegen	ungefüegen;	ungefüegen;
+negativ	ungefüeger	ungefüeger;	ungefüeger;
+negativ	ungefuoc	ungefuoc;	ungefuoc;
+negativ	ungefuoge	ungefuoge;	ungefuoge;
+negativ	ungehiure	ungehiure;ungehiuren;	ungehiure;ungehiuren;
+negativ	ungehiwer	ungehiwer;	ungehiwer;
+negativ	ungehorsam	ungehorsam;	ungehorsam;
+negativ	ungehôrsam	ungehôrsam;	ungehôrsam;
+negativ	ungelauben	ungelauben;	ungelauben;
+negativ	ungeloube	ungelouben;	ungelouben;
+negativ	ungelücke	ungelücke;ungelückes;	ungelücke;ungelückes;
+negativ	ungeluecke	ungelucke;	ungeluecke;
+negativ	ungemeit	ungemeit;	ungemeit;
+negativ	ungemuete	ungemuete;	ungemuete;
+negativ	ungemüete	ungemüete;ungemüetes;	ungemüete;ungemüetes;
+negativ	ungemuot	ungemuot;ungemuote;	ungemuot;ungemuote;
+negativ	ungemüet	ungemuot;ungemuote;	ungemuot;ungemuote;
+negativ	ungenâde	ungenâde;ungenâden;	ungenâde;ungenâden;
+negativ	ungenaden	ungenaden;	ungenaden;
+negativ	ungenæme	ungenæme;	ungenæme;
+negativ	ungenesen	ungenesen;	ungenesen;
+negativ	ungesunt	ungesunt;	ungesunt;
+negativ	ungetouften	ungetouften;	ungetouften;
+negativ	ungetriuwe	ungetriuwe;ungetriuwen;ungetriuwer;ungetruwe;ungetruwen;	ungetriuwe;ungetriuwen;ungetriuwer;ungetriuwe;ungetriuwen;
+negativ	ungetriwe	ungetriwe;	ungetriwe;
+negativ	ungetriwen	ungetriwen;	ungetriwen;
+negativ	ungetruwer	ungetruwer;	ungetruwer;
+negativ	ungevueege	ungefuge;	ungevueege;
+negativ	ungevueegen	ungefuegen;	ungevueegen;
+negativ	ungevüege	ungevüeger;	ungevüeger;
+negativ	ungevuoge	ungevüegen;ungevüege;ungevuoge;	ungevüegen;ungevüege;ungevuoge;
+negativ	ungewin	ungewin;	ungewin;
+negativ	ungewinn	ungewin;	ungewin;
+negativ	ungewinne	ungewinne;	ungewinne;
+negativ	ungezogen	ungezogen;	ungezogen;
+negativ	ungluck	ungluck;	ungluck;
+negativ	ungüete	ungüete;	ungüete;
+negativ	unguot	unguot;	unguot;
+negativ	unheil	unheil;unheile;unhail;	unheil;unheile;unheil;
+negativ	unkiusche	unkiusche;	unkiusche;
+negativ	unkraft	unkraft;	unkraft;
+negativ	unkreften	unkreften;	unkreften;
+negativ	unmaere	unmaere;unmere;unmêre;	unmaere;unmaere;unmaere;
+negativ	unmære	unmære;	unmære;
+negativ	unmaht	unmaht;unmacht;	unmaht;unmaht;
+negativ	unmaze	unmaze;	unmaze;
+negativ	unmâze	unmâze;	unmâze;
+negativ	unmazen	unmassen;unmazen;	unmazen;unmazen;
+negativ	unmâzen	unmâzen;	unmâzen;
+negativ	unminne	unminne;unminnen;	unminne;unminnen;
+negativ	unmuot	unmuot;unmuote;unmut;	unmuot;unmuote;unmuot;
+negativ	unpris	unpris;	unpris;
+negativ	unprîs	unprîs;	unprîs;
+negativ	unreht	unreht;unrecht;vnrecht;	unreht;unreht;unreht;
+negativ	unrehte	unrehte;unrehtes;unrehten;unrechte;unrehter;	unrehte;unrehtes;unrehten;unrehte;unrehter;
+negativ	unrein	unrein;	unrein;
+negativ	unreine	unreine;unreinen;unreiner;	unreine;unreinen;unreiner;
+negativ	unsaelde	unsaelde;	unsaelde;
+negativ	unsælde	unsælde;	unsælde;
+negativ	unsælede	unsælde;	unsælde;
+negativ	unsælic	unsælic;	unsælic;
+negativ	unsaelic	unsaelic;unselig;	unsaelic;unsaelic;
+negativ	unsanft	unsanft;	unsanft;
+negativ	unsanfte	unsanfte;	unsanfte;
+negativ	unsamfte	unsanfte;	unsanfte;
+negativ	unstæte	unstæte;	unstæte;
+negativ	unstaete	unstaete;unstete;unstête;	unstaete;unstaete;unstaete;
+negativ	unstætekeit	unstætekeit;	unstætekeit;
+negativ	untat	untat;	untat;
+negativ	untât	untât;	untât;
+negativ	untriu	untriu;	untriu;
+negativ	untriuwe	untriuwe;untriuwen;untruwe;untrew;	untriuwe;untriuwen;untriuwe;untriuwe;
+negativ	untriwe	untriwe;	untriwe;
+negativ	untriwen	untriwen;	untriwen;
+negativ	untruw	untruw;	untruw;
+negativ	untrúw	untrúw;	untrúw;
+negativ	untrüw	untrüw;	untrüw;
+negativ	untugend	untugend;	untugend;
+negativ	untugenden	untugende;untugenden;	untugende;untugenden;
+negativ	untugent	untugent;	untugent;
+negativ	untugende	untugent;	untugent;
+negativ	untugenthaft	untugenthaft;	untugenthaft;
+negativ	untugendhaft	untugenthaft;	untugenthaft;
+positiv	unverdorben	unverdorben;	unverdorben;
+positiv	unverdrozzen	unverdrozzen;unverdrossen;	unverdrozzen;unverdrozzen;
+positiv	unverzaget	unverzaget;unverzagete;	unverzaget;unverzagete;
+positiv	unverzagt	unverzagt;	unverzagt;
+positiv	unverzagte	unverzagte;	unverzagte;
+positiv	unverzagtem	unverzagtem;	unverzagtem;
+positiv	unverzagten	unverzagten;	unverzagten;
+positiv	unverzagter	unverzagter;	unverzagter;
+positiv	unverzagtt	unverzagtt;	unverzagtt;
+positiv	unverzagtte	unverzagtte;	unverzagtte;
+negativ	unvro	unvro;vnvro;	unvro;unvro;
+negativ	unvrô	unvrô;	unvrô;
+negativ	unvuoge	unvuoge;	unvuoge;
+negativ	unwerde	unwerde;unwerden;unwerder;	unwerde;unwerden;unwerder;
+negativ	unwert	unwert;	unwert;
+negativ	unwerd	unwert;	unwert;
+negativ	unwirde	unwirde;	unwirde;
+negativ	unwis	unwise;	unwise;
+negativ	unwiss	unwise;	unwise;
+negativ	unwîse	unwîse;	unwîse;
+negativ	unzuht	unzuht;unzucht;	unzuht;unzuht;
+negativ	urliuc	urliuc;	urliuc;
+negativ	urliug	urliug;	urliug;
+negativ	urliuge	urliuge;urliuges;urliugen;	urliuge;urliuges;urliugen;
+negativ	urlouge	urliuge;urliuges;urliugen;	urliuge;urliuges;urliugen;
+positiv	ûzerkorn	ûzerkorn;	ûzerkorn;
+positiv	ûzerkoren	ûzerkorn;	ûzerkorn;
+positiv	ûzerwelt	ûzerwelt;	ûzerwelt;
+positiv	ûzerwelet	ûzerwelt;	ûzerwelt;
+positiv	ûzerwelte	ûzerwelte;	ûzerwelte;
+positiv	ûzerwelten	ûzerwelten;	ûzerwelten;
+positiv	ûzerwelter	ûzerwelter;	ûzerwelter;
+negativ	valant	valant;	valant;
+negativ	vâlant	vâlant;	vâlant;
+negativ	valsch	valschen;valsche;valsch;valsches;valscher;falsch;falschen;valschez;valschem;falschez;falsche;valschiu;valshen;	valschen;valsche;valsch;valsches;valscher;valsch;valschen;valschez;valschem;valsches;valsche;valschiu;valschen;
+negativ	valscheit	valscheit;	valscheit;
+negativ	veige	veigen;veige;vaigen;	veigen;veige;veigen;
+negativ	veigen	geveiget;	geveiget;
+negativ	verbieten	verbôt;verbieten;	verbôt;verbieten;
+positiv	verbot	verboten;verbot;verbotten;	verboten;verbot;verboten;
+negativ	verderben	verderben;verdorben;verderbet;verdarp;verdirbet;verderbe;verdurben;verderbent;verderbt;verdarb;verterben;virderbin;verdürbe;verdirbe;	verderben;verdorben;verderbet;verdarp;verdirbet;verderbe;verdurben;verderbent;verdirbet;verdarp;verderben;verderben;verdürbe;verdirbe;
+negativ	verdriessen	verdriessen;	verdriessen;
+negativ	verdriezen	verdrôz;verdriezen;verdriuzet;verdrieze;	verdrôz;verdriezen;verdriuzet;verdrieze;
+negativ	verdroz	verdroz;	verdroz;
+negativ	verdrozzen	verdrozzen;	verdrozzen;
+negativ	verdurbe	verdurbe;	verdurbe;
+negativ	verfluochet	verfluochet;	verfluochet;
+negativ	verfluocht	verfluocht;	verfluocht;
+negativ	verliesen	verliesen;	verliesen;
+negativ	verlor	verlorn;verloren;flôre;verlor;flôren;	verlorn;verloren;verlore;verlor;verloren;
+negativ	verlos	verlos;	verlos;
+negativ	verlueste	fluste;	verlueste;
+negativ	verlür	verlür;	verlür;
+negativ	verlüre	verlüre;	verlüre;
+negativ	verluren	verluren;	verluren;
+negativ	verlürn	verlürn;	verlürn;
+negativ	verlust	verlust;vluste;	verlust;verluste;
+negativ	verlüste	verlüste;	verlüste;
+negativ	vermessen	vermessen;	vermessen;
+negativ	vermezzen	vermezzen;	vermezzen;
+negativ	vermezzenlîch	vermezzenlichen;	vermezzenlichen;
+negativ	vermezzenlîche	vermezzenlîche;	vermezzenlîche;
+positiv	vernufft	vernufft;	vernufft;
+positiv	vernumft	vernunft;	vernumft;
+positiv	vernunft	vernunfft;	vernunft;
+positiv	vernünfticheit	vernünfticheit;	vernünfticheit;
+positiv	vernunst	vernunst;	vernunst;
+positiv	vernumft	vernunst;	vernunst;
+negativ	verraten	verraten;	verraten;
+negativ	verrâten	verrâten;verriet;	verrâten;verriet;
+negativ	verretaer	verreter;	verretaer;
+negativ	verretery	verretery;	verretery;
+negativ	verretniß	verretniß;	verretniß;
+negativ	verschulden	verschulden;verschuldet;	verschulden;verschuldet;
+negativ	verschult	verschult;	verschult;
+negativ	versêren	versêret;versêren;	versêret;versêren;
+negativ	verseret	verseret;	verseret;
+negativ	versert	versert;	versert;
+negativ	versmahen	versmahen;	versmahen;
+negativ	versmâhen	versmâhen;versmâhet;	versmâhen;versmâhet;
+negativ	versmahet	versmahet;verschmecht;	versmahet;versmahet;
+negativ	versmaht	versmaht;	versmaht;
+negativ	versmâht	versmâhte;versmâht;	versmâhte;versmâht;
+negativ	versmahten	versmahte;	versmahte;
+negativ	verstossen	verstossen;	verstossen;
+negativ	verstozen	verstozen;	verstozen;
+negativ	verstôzen	verstiez;verstôzen;	verstiez;verstôzen;
+negativ	vertân	vertân;	vertân;
+negativ	vervluochen	vervluochet;verfluchet;	vervluochet;vervluochet;
+negativ	viande	veinde;	viande;
+negativ	vîande	vîande;	vîande;
+negativ	vianden	vianden;	vianden;
+negativ	vîanden	vîanden;	vîanden;
+negativ	viant	veint;	viant;
+negativ	vîant	vîant;	vîant;
+negativ	vîent	vîant;	vîant;
+negativ	vienden	vienden;vigenden;	vienden;vienden;
+negativ	vîenden	vîende;vîenden;	vîende;vîenden;
+negativ	vîenten	vîende;vîenden;	vîende;vîenden;
+negativ	vîent	vîent;	vîent;
+negativ	vîentlich	vîentlichen;vîentlîchen;vîentlîche;vîentlîcher;	vîentlichen;vîentlîchen;vîentlîche;vîentlîcher;
+negativ	vînde	vînde;	vînde;
+negativ	vinster	vinster;finster;vinstern;	vinster;vinster;vinstern;
+negativ	vinstere	vinster;finster;vinstern;	vinster;vinster;vinstern;
+negativ	vînt	vînt;	vînt;
+negativ	vintschaft	vintschaft;	vintschaft;
+negativ	vîntschaft	vîntschaft;	vîntschaft;
+negativ	vlust	vlust;	vlust;
+negativ	vnngern	vnngern;	vnngern;
+positiv	vogel	vogel;vogele;vogeln;vogelen;fogel;vogels;	vogel;vogele;vogeln;vogelen;vogel;vogels;
+positiv	vogelein	vogelein;	vogelein;
+positiv	vogelin	vogelin;	vogelin;
+positiv	vogelîn	vogelîn;	vogelîn;
+positiv	vogellîn	vogellîn;	vogellîne;
+positiv	vogelline	voglin;	vogelline;
+positiv	vogelsanc	vogelsanc;	vogelsanc;
+positiv	vogelsang	vogelsanc;	vogelsanc;
+positiv	volkomen	volkomen;volchomen;	volkomen;volkomen;
+positiv	vollkomen	volkomen;volchomen;	volkomen;volkomen;
+positiv	voll	voll;	voll;
+positiv	volle	vollen;volle;voller;vollem;vollez;follen;volles;	vollen;volle;voller;vollem;vollez;vollen;volles;
+positiv	vollebraht	vollebraht;	vollebraht;
+positiv	vollebrinc	vollebringen;	vollebringen;
+positiv	vollebringen	vollebrâht;	vollebrâht;
+positiv	volleclich	volleclîch;volleclichen;volleclich;	volleclîch;volleclichen;volleclich;
+positiv	volliglich	volleclîch;volleclichen;volleclich;	volleclîch;volleclichen;volleclich;
+positiv	volleclîche	volleclîche;volleclîcher;	volleclîche;volleclîcher;
+positiv	volleclîchen	volleclîchen;	volleclîchen;
+positiv	volleist	volleist;volleiste;	volleist;volleiste;
+positiv	vollleiste	volleist;volleiste;	volleist;volleiste;
+positiv	vollekomen	vollekomen;	vollekomen;
+positiv	vollenbraht	vollenbracht;	vollenbraht;
+positiv	vollicliche	volliclich;	vollicliche;
+positiv	volliclichen	volliclichen;	volliclichen;
+positiv	volloben	volloben;	volloben;
+positiv	vollloben	volloben;	volloben;
+negativ	vorht	vorht;	vorht;
+negativ	vorhte	vorht;	vorht;
+negativ	vorhte	vorhte;vorhten;vorcht;vorchte;vorchten;forchte;vorte;	vorhte;vorhten;vorhte;vorhte;vorhten;vorhte;vorhte;
+negativ	vorhtlîche	vorhtlîche;	vorhtlîche;
+negativ	vreislich	freischlich;	vreisliche;
+negativ	vreislîchen	freislîchen;vreislîchen;	vreislîchen;vreislîchen;
+negativ	vreissam	freissam;vreissam;fraissam;	vreissam;vreissam;vreissam;
+positiv	vreud	vreud;	vreud;
+positiv	vreude	vreuden;vreude;vraeuden;vraeude;vrouden;frewden;froude;freüden;vroeden;vroede;frouden;froede;froeiden;vrevden;froeden;frewde;froeide;vrovde;	vreuden;vreude;vreuden;vreude;vreuden;vreuden;vreude;vreuden;vreuden;vreude;vreuden;vreude;vreuden;vreuden;vreuden;vreude;vreude;vreude;
+positiv	vreuede	freüd;	vreuede;
+positiv	vreunde	vreunde;	vreunde;
+positiv	vreunden	vreunden;	vreunden;
+positiv	vreut	vreut;	vreut;
+positiv	vreute	vreute;	vreute;
+positiv	vreuten	vreuten;	vreuten;
+negativ	vrevel	frevel;vrevel;	vrevel;vrevel;
+negativ	vrevele	frevel;vrevel;	vrevel;vrevel;
+positiv	vri	vri;fry;frei;vrei;vry;	vri;vri;vri;vri;vri;
+positiv	vrî	vrî;	vrî;
+positiv	vrid	vrid;	vrid;
+positiv	vride	vride;frid;frieden;vrides;friden;frede;freiden;vreden;friede;	vride;vride;vriden;vrides;vriden;vride;vriden;vriden;vride;
+negativ	vrie	vrie;frye;	vrie;vrie;
+positiv	vrîe	vrîen;vrîe;	vrîen;vrîe;
+positiv	vriede	fried;	vriede;
+positiv	vriedel	vriedel;friedel;	vriedel;vriedel;
+positiv	vriheit	vriheit;freiheit;	vriheit;vriheit;
+positiv	vrîheit	vrîheit;	vrîheit;
+positiv	vrîheid	vrîheit;	vrîheit;
+positiv	vriundinne	vriundîn;vriundinne;	vriundîn;vriundinne;
+positiv	vriuntinne	vriundîn;vriundinne;	vriundîn;vriundinne;
+positiv	vriunt	vriunt;vriunde;frunt;vriunden;vrunt;vriundes;fründ;freunt;freünd;vrivnde;frunde;frunden;freunden;vrivnden;frivnde;frivnden;frund;vrunden;vrivnt;freunde;vrunde;frivnt;friund;	vriunt;vriunde;vriunde;vriunden;vriunde;vriundes;vriunt;vriunt;vriunt;vriunde;vriunde;vriunden;vriunden;vriunden;vriunde;vriunden;vriunt;vriunden;vriunt;vriunde;vriunde;vriunt;vriunt;
+positiv	vriuntinne	friundinne;	vriuntinne;
+positiv	vriuntlich	fruntlich;vriuntlich;	vriuntlich;vriuntlich;
+positiv	vriuntliche	friuntlich;	vriuntliche;
+positiv	vriuntlîche	vriuntlîche;friuntlîch;	vriuntlîche;vriuntlîche;
+positiv	vriuntlichen	friuntlichen;	vriuntlichen;
+positiv	vriuntlîchen	friuntlîchen;	vriuntlîchen;
+positiv	vriuntschaft	vriuntschaft;früntschafft;fruntschaft;	vriuntschaft;vriuntschaft;vriuntschaft;
+positiv	vro	fro;vro;	vro;vro;
+positiv	vrô	frô;vrô;	vrô;vrô;
+positiv	vroeide	frewd;	vroeide;
+positiv	vroeleich	vroeleich;	vroeleich;
+positiv	vroelich	frölich;froelich;frolich;vroelich;vrolich;	vroelich;vroelich;vroelich;vroelich;vroelich;
+positiv	vroelîch	froelîch;vroelîch;	vroelîch;vroelîch;
+positiv	vroeliche	vroeliche;	vroeliche;
+positiv	vroelîche	vroelîche;froelîche;	vroelîche;vroelîche;
+positiv	vroelîchem	vroelîchem;	vroelîchem;
+positiv	vroelichen	frolichen;vroelichen;	vroelichen;vroelichen;
+positiv	vroelîchen	vroelîchen;froelîchen;	vroelîchen;vroelîchen;
+positiv	vroelicher	frölicher;	vroelicher;
+positiv	vroeude	vroude;	vroeude;
+positiv	vroeuwe	frew;	vroeuwe;
+positiv	vroeuwent	vreunt;	vroeuwent;
+positiv	vroeuwete	frewet;frowete;	vroeuwete;vroeuwete;
+positiv	vröide	vröide;vröiden;	vröide;vröiden;
+positiv	vroliche	vroliche;	vroliche;
+positiv	vrolichen	vrolichen;	vrolichen;
+positiv	vrome	fromen;frommen;	vromen;vromen;
+positiv	vröude	vröuden;vröude;	vröuden;vröude;
+positiv	vröuwede	vröuden;vröude;	vröuden;vröude;
+positiv	vruemekeit	frumkeit;	vruemekeit;
+positiv	vruemic	frumic;	vruemic;
+positiv	vruht	frucht;vruht;vrucht;vruhte;frut;	vruht;vruht;vruht;vruhte;vruht;
+positiv	vrum	vrum;frumm;from;fron;vrumer;frummer;frvm;	vrum;vrum;vrum;vrum;vrumer;vrumer;vrum;
+positiv	vrume	frumen;vrumen;vromen;frume;frome;vrume;vrome;	vrumen;vrumen;vrumen;vrume;vrume;vrume;vrume;
+positiv	vrome	frumen;vrumen;vromen;frume;frome;vrume;vrome;	vrumen;vrumen;vrumen;vrume;vrume;vrume;vrume;
+positiv	vrümekeit	vrümekeit;	vrümekeit;
+positiv	vrumen	vrumt;frumet;vrumte;gefrumet;gevrumt;vrumet;	vrumt;vrumet;vrumte;gevrumet;gevrumt;vrumet;
+positiv	vromen	vrumt;frumet;vrumte;gefrumet;gevrumt;vrumet;	vrumt;vrumet;vrumte;gevrumet;gevrumt;vrumet;
+positiv	vrümkeit	vrümkeit;	vrümkeit;
+negativ	vuerhte	forcht;furcht;furht;furhte;	vuerhte;vuerhte;vuerhte;vuerhte;
+negativ	vuerhten	furhten;	vuerhten;
+negativ	waehe	waehe;wehe;	waehe;waehe;
+negativ	waehen	waehen;	waehen;
+positiv	wærlich	wærlich;	wærliche;
+positiv	waerliche	waerliche;	waerliche;
+positiv	wærlîche	wærlîch;wærlîche;	wærlîche;wærlîche;
+positiv	waerlîche	waerlîche;waerlîch;	waerlîche;waerlîche;
+positiv	waerlîchen	waerlîchen;	waerlîchen;
+positiv	wærlîchen	wærlîchen;	wærlîchen;
+positiv	waete	waete;wete;wête;	waete;waete;waete;
+positiv	waetlich	waetlich;	waetlich;
+positiv	waetlîche	waetlîche;	waetlîche;
+positiv	waetlîchen	waetlîchen;	waetlîchen;
+positiv	waetlîcher	waetlîcher;	waetlîcher;
+negativ	wanc	wanc;wanken;wanke;wanck;wank;wankes;	wanc;wanken;wanke;wanc;wanc;wankes;
+negativ	wank	wanc;wanken;wanke;wanck;wank;wankes;	wanc;wanken;wanke;wanc;wanc;wankes;
+positiv	warhaft	warhaft;	warhaft;
+positiv	wârhaft	wârhaft;	wârhaft;
+positiv	warhaitt	warhaitt;	warhaitt;
+positiv	warheit	warheit;warhait;worheit;wairheit;worheyt;	warheit;warheit;warheit;warheit;warheit;
+positiv	wârheit	wârheit;wârhait;wârheite;	wârheit;wârheit;wârheite;
+positiv	warheÿt	warheÿt;	warheÿt;
+positiv	warlich	worlich;	warlich;
+positiv	warm	warm;warmen;	warm;warmen;
+negativ	wê	wê;	wê;
+negativ	weinde	weinde;	weinde;
+positiv	weinden	weinden;	weinden;
+negativ	weinen	weinen;weinende;weynen;weinte;wainen;weinten;weinet;weinent;weint;weinens;geweinet;weinenden;waint;	weinen;weinende;weinen;weinte;weinen;weinten;weinet;weinent;weint;weinens;geweinet;weinenden;weinte;
+positiv	weinente	weynende;	weinente;
+positiv	weise	weisen;weise;weyse;	weisen;weise;weise;
+negativ	wenec	wenic;	wenec;
+negativ	wênec	wênic;wênec;	wênec;wênec;
+negativ	wênig	wênic;wênec;	wênec;wênec;
+negativ	wênige	wênic;wênec;	wênec;wênec;
+positiv	werdekeit	werdekeit;werdicheit;werdecheit;werdekait;werdekeite;	werdekeit;werdekeit;werdekeit;werdekeit;werdekeite;
+positiv	werdem	werdem;	werdem;
+positiv	werlich	werlich;werlichen;werlicher;werliche;werlîch;	werlich;werlichen;werlicher;werliche;werlîch;
+positiv	werelich	werlich;werlichen;werlicher;werliche;werlîch;	werlich;werlichen;werlicher;werliche;werlîch;
+positiv	wert	wert;werte;werten;	wert;werte;werten;
+positiv	werd	werd;werde;werder;	wert;werte;werten;
+negativ	widersage	widersagen;	widersagen;
+negativ	widersagen	widersaget;widersagt;	widersaget;widersagt;
+negativ	sagenwidere	widersaget;widersagt;	widersaget;widersagt;
+negativ	widersait	widersait;	widersait;
+negativ	widersatz	widersatz;	widersatz;
+negativ	widersaz	widersaz;	widersaz;
+negativ	widersatz	widersaz;	widersaz;
+negativ	widersazz	widersaz;	widersaz;
+negativ	widerseit	widerseit;	widerseit;
+negativ	widerstrit	widerstrit;	widerstrit;
+negativ	widerstrît	widerstrît;	widerstrît;
+negativ	widerwertig	widerwertig;	widerwertig;
+negativ	widerzaeme	widerzaeme;	widerzaeme;
+negativ	widerzæme	widerzæme;	widerzæme;
+negativ	widerzême	widerzême;	widerzême;
+positiv	wigande	wigande;	wigande;
+positiv	wîgande	wîgande;	wîgande;
+positiv	wîganden	wîganden;	wîganden;
+positiv	wigant	wigant;	wigant;
+positiv	wîgant	wîgant;	wîgant;
+positiv	wîhe	wîhe;wîhen;	wîhe;wîhen;
+positiv	wîhen	wiget;wigt;gewîhet;	wiget;wigt;gewîhet;
+positiv	wirdeclîche	wirdeclîche;	wirdeclîche;
+positiv	wirdekaitt	wirdekaitt;	wirdekaitt;
+positiv	wirdekeit	wirdikeit;wirdekeit;werdikeit;wirdichait;	wirdekeit;wirdekeit;wirdekeit;wirdekeit;
+positiv	wirdic	wirdig;wirdic;	wirdic;wirdic;
+positiv	wirdiclîchen	wirdeclîchen;	wirdiclîchen;
+positiv	wirdigen	wirdigen;	wirdigen;
+negativ	wirs	wirs;wirser;	wirs;wirser;
+negativ	wirser	wirs;wirser;	wirs;wirser;
+positiv	wîs	wîs;wîser;	wîs;wîser;
+positiv	wîse	wîs;wîser;	wîs;wîser;
+positiv	wîse	wîse;wîsen;	wîse;wîsen;
+positiv	wîsen	wîste;gewîset;wîsten;	wîste;gewîset;wîsten;
+positiv	wîset	wîset;	wîset;
+positiv	wisheit	wisheit;weishait;wißheit;wißheyt;weisheit;weißheit;	wisheit;wisheit;wisheit;wisheit;wisheit;wisheit;
+positiv	wissheit	wisheit;weishait;wißheit;wißheyt;weisheit;weißheit;	wisheit;wisheit;wisheit;wisheit;wisheit;wisheit;
+positiv	wîsheit	wîsheit;	wîsheit;
+positiv	wîslich	wîslich;wîslîch;wîslichen;	wîslich;wîslîch;wîslichen;
+positiv	wîslîche	wîslîche;wîslîcher;	wîslîche;wîslîcher;
+positiv	wîslîchen	wîslîchen;	wîslîchen;
+positiv	witz	witz;	witz;
+positiv	witze	witze;witzen;wiczen;	witze;witzen;witzen;
+positiv	witzic	witzic;witzig;	witzic;witzic;
+positiv	wîz	wîz;wîzer;wîziu;	wîz;wîzer;wîziu;
+positiv	wol	wol;wole;wail;	wol;wol;wol;
+positiv	wole	wol;wole;wail;	wol;wol;wol;
+positiv	wolgemuoten	wolgemuoten;	wolgemuoten;
+positiv	wolgestalt	wolgestalt;	wolgestalt;
+positiv	wolegestalt	wolgestalt;	wolgestalt;
+positiv	wolgetan	wolgetan;	wolgetan;
+positiv	wolgetân	wolgetân;	wolgetân;
+positiv	wolegetân	wolgetân;	wolgetân;
+positiv	wolgetanen	wolgetanen;	wolgetanen;
+positiv	wolgethan	wolgethan;	wolgethan;
+positiv	wolgezogen	wolgezogen;	wolgezogen;
+positiv	wuenne	wonne;wnne;	wuenne;wuenne;
+positiv	wuennen	wunnen;	wuennen;
+positiv	wuennesam	wunnesan;	wuennesam;
+positiv	wuenniclich	wunneclich;wunneclîch;wunniclîch;	wuenniclich;wuenniclich;wuenniclich;
+positiv	wuennicliche	wunneclîche;wunnecliche;	wuennicliche;wuennicliche;
+positiv	wuenniclicher	wunneclicher;wunneclîcher;	wuenniclicher;wuenniclicher;
+negativ	wunde	wunden;wunde;wnden;wuonden;	wunden;wunde;wunden;wunden;
+negativ	wunte	wunden;wunde;wnden;wuonden;	wunden;wunde;wunden;wunden;
+positiv	wunder	wunder;wunders;wonder;wond;wundern;wnder;wund;wuonder;	wunder;wunders;wunder;wunder;wundern;wunder;wunder;wunder;
+positiv	wuntære	wunder;wunders;wonder;wond;wundern;wnder;wund;wuonder;	wunder;wunders;wunder;wunder;wundern;wunder;wunder;wunder;
+positiv	wunter	wunder;wunders;wonder;wond;wundern;wnder;wund;wuonder;	wunder;wunders;wunder;wunder;wundern;wunder;wunder;wunder;
+positiv	wunn	wunn;	wunn;
+positiv	wunne	wunne;	wunne;
+positiv	wünne	wünne;	wünne;
+positiv	wunnebaere	wunnebaere;	wunnebaere;
+positiv	wünneclich	wünneclich;wünneclîch;wünneclichen;wünneclicher;	wünneclich;wünneclîch;wünneclichen;wünneclicher;
+positiv	wünniglich	wünneclich;wünneclîch;wünneclichen;wünneclicher;	wünneclich;wünneclîch;wünneclichen;wünneclicher;
+positiv	wünneclîche	wünneclîche;wünneclîcher;	wünneclîche;wünneclîcher;
+positiv	wunneclichen	wunneclichen;	wunneclichen;
+positiv	wunneclîchen	wunneclîchen;	wunneclîchen;
+positiv	wünneclîchen	wünneclîchen;	wünneclîchen;
+positiv	wunneklich	wunneklich;	wunneklich;
+positiv	wunneklichen	wunneklichen;	wunneklichen;
+positiv	wunnenklich	wunnenklich;	wunnenklich;
+positiv	wunnesam	wunnesam;	wunnesam;
+positiv	wünnesam	wünnesam;	wünnesam;
+positiv	wunnevar	wunnevar;	wunnevar;
+positiv	wunsch	wunsche;wunsch;wunsches;wunschen;	wunsche;wunsch;wunsches;wunschen;
+positiv	wünsch	wünsch;	wünsch;
+negativ	wunt	wunt;	wunt;
+negativ	wuocher	wuocher;wucher;	wuocher;wuocher;
+negativ	wurm	wurm;wurme;würme;wurmen;würmen;wurmes;	wurm;wurme;würme;wurmen;würmen;wurmes;
+negativ	würm	würm;	würm;
+negativ	zageheit	zageheit;	zageheit;
+negativ	zagen	zagen;	zagen;
+negativ	zagheit	zagheit;	zagheit;
+positiv	zart	zart;zarten;	zart;zarten;
+positiv	zarte	zarte;zarter;	zarte;zarter;
+positiv	zarten	zartt;	zartt;
+positiv	zartte	zartte;	zartte;
+positiv	zartten	zartten;	zartten;
+negativ	zerbrochen	zerbrochen;	zerbrochen;
+positiv	zerehte	zerehte;	zerehte;
+positiv	zêren	zêren;	zêren;
+positiv	zier	ziern;	ziern;
+positiv	zierde	zierde;zirde;zierd;	zierde;zierde;zierde;
+positiv	zierede	zierde;zirde;zierd;	zierde;zierde;zierde;
+positiv	ziere	ziere;zieren;zier;	ziere;zieren;ziere;
+positiv	zieren	zieret;zierte;ziert;zierent;zierten;	zieret;zierte;ziert;zierent;zierten;
+positiv	zierlich	zierlich;	zierlich;
+positiv	zimier	zimier;zymier;	zimier;zimier;
+positiv	zimierede	zimier;zymier;	zimier;zimier;
+positiv	zimierde	zimierde;zimirde;	zimierde;zimierde;
+positiv	zimiere	zimiere;	zimiere;
+positiv	zimieren	gezimirt;gezimieret;	gezimiert;gezimieret;
+negativ	zorn	zorn;zornes;zorns;	zorn;zornes;zorns;
+negativ	zorne	zorne;zoren;	zorne;zorne;
+negativ	zornec	zornec;	zornec;
+negativ	zornig	zornec;	zornec;
+negativ	zorneclich	zorneclichen;	zorneclichen;
+negativ	zorniglich	zorneclichen;	zorneclichen;
+negativ	zorneclîche	zorneclîche;	zorneclîche;
+negativ	zorneclîchen	zorneclîchen;	zorneclîchen;
+negativ	zornic	zornig;zornic;zornich;	zornic;zornic;zornic;
+negativ	zorniclîche	zorniclîche;	zorniclîche;
+negativ	zornigen	zornigen;	zornigen;
+negativ	zorniger	zorniger;	zorniger;
+negativ	zornlîche	zornlîche;	zornlîche;
+positiv	züchten	züchten;	züchten;
+positiv	zuht	zuht;zühten;zucht;zühte;zuhte;zuchte;zvht;zuocht;	zuht;zühten;zuht;zühte;zuhte;zuhte;zuht;zuht;
+positiv	zühteclich	zühteclîch;	zühteclîch;
+positiv	zühtiglich	zühteclîch;	zühteclîch;
+positiv	zühteclîche	zühteclîche;	zühteclîche;
+positiv	zühteclîchen	zühteclîchen;	zühteclîchen;
+negativ	zurnde	zurnde;	zurnde;
+negativ	zürnen	zürnen;zürnet;zürne;zurnte;	zürnen;zürnet;zürne;zurnte;
+positiv	gekroenet		
+positiv	gekroenet		
+positiv	dûhten		
+positiv	fröute		
+positiv	fröute		
+positiv	gelaitt		
+positiv	hoeher		
+positiv	hoehære		
+positiv	hoeher		
+positiv	hoehære		
+positiv	ritterlîcher		
+positiv	verliese		
+positiv	mezzen		
+positiv	n		
+positiv	dancte		
+positiv	volleclîchen		
+positiv	wite		
+positiv	sungen		
+positiv	gemant		
+positiv	nym		
+positiv	prises		
+positiv	prises		
+positiv	zier		
+positiv	zier		
+positiv	ganzer		
+positiv	ganzære		
+positiv	ganzer		
+positiv	ganzære		
+positiv	anderm		
+positiv	clar		
+positiv	clar		
+positiv	crône		
+positiv	danket		
+positiv	erwelter		
+positiv	bluome		
+positiv	bluome		
+positiv	ganze		
+positiv	krôn		
+positiv	gral		
+positiv	grall		
+positiv	frisch		
+positiv	frisch		
+positiv	ziert		
+positiv	zieret		
+positiv	ganzen		
+positiv	milde		
+positiv	lauter		
+positiv	loup		
+positiv	loub		
+positiv	adamas		
+positiv	adamant		
+positiv	almehtigen		
+positiv	anderswa		
+positiv	arte		
+positiv	aygen		
+positiv	christenheit		
+positiv	christo		
+positiv	christo		
+positiv	christum		
+positiv	christum		
+positiv	clâr		
+positiv	clâr		
+positiv	drivaltekeit		
+positiv	drivaltekeit		
+positiv	durich		
+positiv	edelem		
+positiv	edelem		
+positiv	edelm		
+positiv	edelm		
+positiv	enbiutet		
+positiv	engeln		
+positiv	engels		
+positiv	erchant		
+positiv	erstriten		
+positiv	fruot		
+positiv	gantzen		
+positiv	gehoehet		
+positiv	gehoehet		
+positiv	gemaht		
+positiv	gemaitt		
+positiv	gerüemet		
+positiv	gesniten		
+positiv	gesteine		
+positiv	getihte		
+positiv	getiuret		
+positiv	getrûwe		
+positiv	getrûwe		
+positiv	geziert		
+positiv	glantz		
+positiv	grale		
+positiv	guldein		
+positiv	herlich		
+positiv	herelich		
+positiv	herlich		
+positiv	herelich		
+positiv	hêrlîch		
+positiv	hertzogenburch		
+positiv	hochen		
+positiv	hoehet		
+positiv	hoh		
+positiv	hoh		
+positiv	hövesch		
+positiv	hövisch		
+positiv	hubsch		
+positiv	keusch		
+positiv	kostlich		
+positiv	kostlich		
+positiv	krône		
+positiv	kuesche		
+positiv	kunste		
+positiv	lobelîche		
+positiv	lobelîche		
+positiv	lobelichen		
+positiv	lobelichen		
+positiv	lobelîchen		
+positiv	lobelîchen		
+positiv	marie		
+positiv	megetîn		
+positiv	mundes		
+positiv	poten		
+positiv	prisen		
+positiv	prisen		
+positiv	rîterschaft		
+positiv	rîtæreschaft		
+positiv	ritterlîche		
+positiv	ritterlîche		
+positiv	rubîn		
+positiv	rubîn		
+positiv	ruome		
+positiv	schouwe		
+positiv	sev		
+positiv	shoene		
+positiv	sîden		
+positiv	stern		
+positiv	sternen		
+positiv	stîre		
+positiv	tiuren		
+positiv	tiuren		
+positiv	tron		
+positiv	varbe		
+positiv	vederspil		
+positiv	vernunst		
+positiv	vernumft		
+positiv	vernunst		
+positiv	vernumft		
+positiv	vollekomen		
+positiv	vollekomen		
+positiv	vroelîche		
+positiv	vroelîche		
+positiv	wildu		
+positiv	wîplîch		
+positiv	wunneclîche		
+positiv	wunniglîche		
+positiv	wünneclîche		
+positiv	wünneclîche		
+positiv	zepter		
+positiv	zierde		
+positiv	zierede		
+positiv	zierde		
+positiv	zierede		
+positiv	zieren		
+positiv	zieren		
+positiv	zierte		
+positiv	ziu		
+positiv	zühteclîch		
+positiv	zühteclîche		
+positiv	zühteclîche		
+negativ	angestbaeren		
+negativ	angestbaeren		
+negativ	bitterlichen		
+negativ	bittern		
+negativ	bitteren		
+negativ	dolten		
+negativ	erlitten		
+negativ	forcht		
+negativ	gelige		
+negativ	geligen		
+negativ	gelitten		
+negativ	gelitten		
+negativ	grimmen		
+negativ	hunger		
+negativ	hunger		
+negativ	hungers		
+negativ	iamer		
+negativ	jaemerlichen		
+negativ	jaemerlichen		
+negativ	lîden		
+negativ	lîden		
+negativ	liten		
+negativ	ruwen		
+negativ	schlagen		
+negativ	siechtum		
+negativ	slagen		
+negativ	tievels		
+negativ	tiufels		
+negativ	verreter		
+negativ	verschrôten		
+negativ	vngemach		
+negativ	geschlagen		
+negativ	dolt		
+negativ	muzen		
+negativ	erliten		
+negativ	sarrazine		
+negativ	morder		
+negativ	gelac		
+negativ	schlug		
+negativ	bleich		
+negativ	warff		
+negativ	pein		
+negativ	ungerochen		
+negativ	dulden		
+negativ	liden		
+negativ	liden		
+negativ	sundære		
+negativ	bitter		
+negativ	bittere		
+negativ	gerechen		
