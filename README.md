@@ -16,9 +16,8 @@ The methods are evaluated against a gold standard corpus of manually annotated v
 
 ### Data Files
 
-- **`Parzival_MHD.csv`**: Complete text of *Parzival* Chapter XVI (1230 verses) in CSV format, one verse per line
-- **`parzival_chapter16.txt`**: Plain text version of Chapter XVI for general reference
-- **`annotated_verses_goldstandard.csv`**: Gold standard corpus with manual sentiment annotations (POSITIV, NEGATIV, NEUTRO, MIX) and annotation type classification (LEX, CONTEXT, BODY, SENS, PROCESS)
+- **`Parzival_MHD.csv`**: Complete text of *Parzival* Chapter XVI (1229 verses) in CSV format, one verse per line
+- **`Parzival_XVI_gold_standard`**: Gold standard corpus with manual sentiment annotations (POSITIV, NEGATIV, NEUTRO, MIX) and annotation type classification (LEX, CONTEXT, BODY, SENS, PROCESS)
 - **`Sentimhd.txt`**: SentiMHD sentiment lexicon for Middle High German (526 lemmas, 1486 variant forms)
 
 ### Notebooks
