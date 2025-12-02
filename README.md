@@ -62,5 +62,5 @@ Three-level decision hierarchy:
 
 **Level 3**: Negation handling with polarity inversion (proximity-based: ±3 tokens from positive terms)
 
-## Requirements
+
 
